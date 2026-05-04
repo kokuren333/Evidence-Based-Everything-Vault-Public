@@ -3,6 +3,10 @@
 - Rebuilt: 2026-05-04 00:00:00 +09:00
 - Canonical root: [[10_Published/_MOC.md|Published Root MOC]]
 
+## 2026-05-04 Added
+
+- [[10_Published/02_Mind_Education_Human_Development/第二言語習得・英語学習__second-language-acquisition-english-learning/英語を確実に上達させるための完全な方法論__complete-methodology-for-improving-english.md|英語を確実に上達させるための完全な方法論 (complete-methodology-for-improving-english)]]
+
 ## 生命・健康・医学
 - Category MOC: [[10_Published/01_Life_Health_Medicine/_MOC.md|01_Life_Health_Medicine]]
 - Subfield: [[10_Published/01_Life_Health_Medicine/医学教育・臨床文書__medical-education-clinical-documentation/_MOC.md|医学教育・臨床文書 (medical-education-clinical-documentation)]]

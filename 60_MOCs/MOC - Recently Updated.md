@@ -4,6 +4,7 @@
 - Source of truth: article frontmatter updated field
 
 ## Published Articles
+- 2026-05-04 - [[10_Published/02_Mind_Education_Human_Development/第二言語習得・英語学習__second-language-acquisition-english-learning/英語を確実に上達させるための完全な方法論__complete-methodology-for-improving-english.md|英語を確実に上達させるための完全な方法論 (complete-methodology-for-improving-english)]] (心理・教育・人間発達 / 第二言語習得・英語学習 (second-language-acquisition-english-learning))
 - 2026-05-02 - [[10_Published/07_Technology_Engineering_Computing_AI/3Dプリンティング材料__3d-printing-materials/3Dプリンターフィラメントの最新素材と2026年春のトレンド__3d-printer-filament-trends-2026-spring.md|3Dプリンターフィラメントの最新素材と2026年春のトレンド (3d-printer-filament-trends-2026-spring)]] (技術・工学・コンピューティング・AI / 3Dプリンティング材料 (3d-printing-materials))
 - 2026-05-02 - [[10_Published/07_Technology_Engineering_Computing_AI/3Dプリンティング材料__3d-printing-materials/3Dプリンターフィラメント間の接着性比較__filament-adhesion-compatibility.md|3Dプリンターフィラメント間の接着性比較 (filament-adhesion-compatibility)]] (技術・工学・コンピューティング・AI / 3Dプリンティング材料 (3d-printing-materials))
 - 2026-05-02 - [[10_Published/08_Humanities_History_Culture_Arts/食文化史__food-culture-history/フランス料理の歴史__french-cuisine-history.md|フランス料理の歴史 (french-cuisine-history)]] (人文・歴史・文化・芸術 / 食文化史 (food-culture-history))
@@ -45,5 +46,5 @@
 - 2026-05-01 - [[10_Published/01_Life_Health_Medicine/臨床精神医学・精神病理学__clinical-psychiatry-psychopathology/臨床精神医学・精神病理学を学ぶためのロードマップ__clinical-psychiatry-psychopathology-learning-roadmap.md|臨床精神医学・精神病理学を学ぶためのロードマップ (clinical-psychiatry-psychopathology-learning-roadmap)]] (生命・健康・医学 / 臨床精神医学・精神病理学 (clinical-psychiatry-psychopathology))
 
 ## Coverage Check
-- Listed articles: 39
-- Filesystem article count: 39
+- Listed articles: 40
+- Filesystem article count: 40
