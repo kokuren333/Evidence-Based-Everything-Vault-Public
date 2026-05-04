@@ -3,38 +3,22 @@
 - Category ID: 02_Mind_Education_Human_Development
 - Rebuilt: 2026-05-04 00:00:00 +09:00
 - Source of truth: 10_Published/02_Mind_Education_Human_Development/
-- Coverage: 8 subfields, 9 articles
+- Coverage: 3 subfields, 3 articles
 
 ## Overview
 This MOC is the canonical category index for 心理・教育・人間発達. It is organized by current subfield directories and covers every published article under this category.
 
 ## Subfield Index
-- [[10_Published/02_Mind_Education_Human_Development/英語学習・英文法__english-grammar-learning/_MOC.md|英語学習・英文法 (english-grammar-learning)]] - 1 articles
-- [[10_Published/02_Mind_Education_Human_Development/英語教育・英文法__english-education-grammar/_MOC.md|英語教育・英文法 (english-education-grammar)]] - 1 articles
-- [[10_Published/02_Mind_Education_Human_Development/英語教育・英文法学習__english-grammar-education/_MOC.md|英語教育・英文法学習 (english-grammar-education)]] - 1 articles
-- [[10_Published/02_Mind_Education_Human_Development/英語文法学習__english-grammar-learning/_MOC.md|英語文法学習 (english-grammar-learning)]] - 2 articles
-- [[10_Published/02_Mind_Education_Human_Development/英文法実践__english-grammar-practice/_MOC.md|英文法実践 (english-grammar-practice)]] - 1 articles
 - [[10_Published/02_Mind_Education_Human_Development/進化心理学__evolutionary-psychology/_MOC.md|進化心理学 (evolutionary-psychology)]] - 1 articles
 - [[10_Published/02_Mind_Education_Human_Development/臨床心理・心理療法__clinical-psychology-psychotherapy/_MOC.md|臨床心理・心理療法 (clinical-psychology-psychotherapy)]] - 1 articles
 - [[10_Published/02_Mind_Education_Human_Development/恋愛・親密性研究__romance-intimacy-studies/_MOC.md|恋愛・親密性研究 (romance-intimacy-studies)]] - 1 articles
 
 ## Articles By Subfield
 
-### 英語学習・英文法
-- [[10_Published/02_Mind_Education_Human_Development/英語学習・英文法__english-grammar-learning/中高大学一般英文法をマスターするための25講：初学者が最初に押さえる原理__english-grammar-first-principles-lecture-05.md|中高大学一般英文法をマスターするための25講：初学者が最初に押さえる原理 (english-grammar-first-principles-lecture-05)]]
 
-### 英語教育・英文法
-- [[10_Published/02_Mind_Education_Human_Development/英語教育・英文法__english-education-grammar/中高大学一般英文法をマスターするための25講：応用領域と関連分野__english-grammar-applied-fields-related-domains.md|中高大学一般英文法をマスターするための25講：応用領域と関連分野 (english-grammar-applied-fields-related-domains)]]
 
-### 英語教育・英文法学習
-- [[10_Published/02_Mind_Education_Human_Development/英語教育・英文法学習__english-grammar-education/中高大学一般英文法をマスターするための25講：代表例とケーススタディ__english-grammar-25-lecture-07-examples-case-studies.md|中高大学一般英文法をマスターするための25講：代表例とケーススタディ (english-grammar-25-lecture-07-examples-case-studies)]]
 
-### 英語文法学習
-- [[10_Published/02_Mind_Education_Human_Development/英語文法学習__english-grammar-learning/中高大学一般英文法をマスターするための25講、それ用のディレクトリも作成する：中核となる分類と体系__english-grammar-core-taxonomy.md|中高大学一般英文法をマスターするための25講、それ用のディレクトリも作成する：中核となる分類と体系 (english-grammar-core-taxonomy)]]
-- [[10_Published/02_Mind_Education_Human_Development/英語文法学習__english-grammar-learning/中高大学一般英文法をマスターするための25講：歴史的背景と標準的理解の変遷__english-grammar-history-standard-understanding.md|中高大学一般英文法をマスターするための25講：歴史的背景と標準的理解の変遷 (english-grammar-history-standard-understanding)]]
 
-### 英文法実践
-- [[10_Published/02_Mind_Education_Human_Development/英文法実践__english-grammar-practice/中高大学一般英文法をマスターするための25講：実践で使う判断手順__english-grammar-practical-decision-procedure.md|中高大学一般英文法をマスターするための25講：実践で使う判断手順 (english-grammar-practical-decision-procedure)]]
 
 ### 進化心理学
 - [[10_Published/02_Mind_Education_Human_Development/進化心理学__evolutionary-psychology/恋愛と進化心理学：進化心理学とは__love-and-evolutionary-psychology-overview.md|恋愛と進化心理学：進化心理学とは (love-and-evolutionary-psychology-overview)]]

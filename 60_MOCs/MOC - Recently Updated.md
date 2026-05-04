@@ -4,13 +4,6 @@
 - Source of truth: article frontmatter updated field
 
 ## Published Articles
-- 2026-05-04 - [[10_Published/02_Mind_Education_Human_Development/英語文法学習__english-grammar-learning/中高大学一般英文法をマスターするための25講、それ用のディレクトリも作成する：中核となる分類と体系__english-grammar-core-taxonomy.md|中高大学一般英文法をマスターするための25講、それ用のディレクトリも作成する：中核となる分類と体系 (english-grammar-core-taxonomy)]] (心理・教育・人間発達 / 英語文法学習 (english-grammar-learning))
-- 2026-05-04 - [[10_Published/02_Mind_Education_Human_Development/英語教育・英文法__english-education-grammar/中高大学一般英文法をマスターするための25講：応用領域と関連分野__english-grammar-applied-fields-related-domains.md|中高大学一般英文法をマスターするための25講：応用領域と関連分野 (english-grammar-applied-fields-related-domains)]] (心理・教育・人間発達 / 英語教育・英文法 (english-education-grammar))
-- 2026-05-04 - [[10_Published/08_Humanities_History_Culture_Arts/英文法25講__english-grammar-25-lectures/中高大学一般英文法をマスターするための25講：基本概念・用語・前提知識__english-grammar-basic-concepts-terminology-prerequisites.md|中高大学一般英文法をマスターするための25講：基本概念・用語・前提知識 (english-grammar-basic-concepts-terminology-prerequisites)]] (人文・歴史・文化・芸術 / 英文法25講 (english-grammar-25-lectures))
-- 2026-05-04 - [[10_Published/02_Mind_Education_Human_Development/英文法実践__english-grammar-practice/中高大学一般英文法をマスターするための25講：実践で使う判断手順__english-grammar-practical-decision-procedure.md|中高大学一般英文法をマスターするための25講：実践で使う判断手順 (english-grammar-practical-decision-procedure)]] (心理・教育・人間発達 / 英文法実践 (english-grammar-practice))
-- 2026-05-04 - [[10_Published/02_Mind_Education_Human_Development/英語学習・英文法__english-grammar-learning/中高大学一般英文法をマスターするための25講：初学者が最初に押さえる原理__english-grammar-first-principles-lecture-05.md|中高大学一般英文法をマスターするための25講：初学者が最初に押さえる原理 (english-grammar-first-principles-lecture-05)]] (心理・教育・人間発達 / 英語学習・英文法 (english-grammar-learning))
-- 2026-05-04 - [[10_Published/02_Mind_Education_Human_Development/英語教育・英文法学習__english-grammar-education/中高大学一般英文法をマスターするための25講：代表例とケーススタディ__english-grammar-25-lecture-07-examples-case-studies.md|中高大学一般英文法をマスターするための25講：代表例とケーススタディ (english-grammar-25-lecture-07-examples-case-studies)]] (心理・教育・人間発達 / 英語教育・英文法学習 (english-grammar-education))
-- 2026-05-04 - [[10_Published/02_Mind_Education_Human_Development/英語文法学習__english-grammar-learning/中高大学一般英文法をマスターするための25講：歴史的背景と標準的理解の変遷__english-grammar-history-standard-understanding.md|中高大学一般英文法をマスターするための25講：歴史的背景と標準的理解の変遷 (english-grammar-history-standard-understanding)]] (心理・教育・人間発達 / 英語文法学習 (english-grammar-learning))
 - 2026-05-02 - [[10_Published/07_Technology_Engineering_Computing_AI/3Dプリンティング材料__3d-printing-materials/3Dプリンターフィラメントの最新素材と2026年春のトレンド__3d-printer-filament-trends-2026-spring.md|3Dプリンターフィラメントの最新素材と2026年春のトレンド (3d-printer-filament-trends-2026-spring)]] (技術・工学・コンピューティング・AI / 3Dプリンティング材料 (3d-printing-materials))
 - 2026-05-02 - [[10_Published/07_Technology_Engineering_Computing_AI/3Dプリンティング材料__3d-printing-materials/3Dプリンターフィラメント間の接着性比較__filament-adhesion-compatibility.md|3Dプリンターフィラメント間の接着性比較 (filament-adhesion-compatibility)]] (技術・工学・コンピューティング・AI / 3Dプリンティング材料 (3d-printing-materials))
 - 2026-05-02 - [[10_Published/08_Humanities_History_Culture_Arts/食文化史__food-culture-history/フランス料理の歴史__french-cuisine-history.md|フランス料理の歴史 (french-cuisine-history)]] (人文・歴史・文化・芸術 / 食文化史 (food-culture-history))
@@ -52,5 +45,5 @@
 - 2026-05-01 - [[10_Published/01_Life_Health_Medicine/臨床精神医学・精神病理学__clinical-psychiatry-psychopathology/臨床精神医学・精神病理学を学ぶためのロードマップ__clinical-psychiatry-psychopathology-learning-roadmap.md|臨床精神医学・精神病理学を学ぶためのロードマップ (clinical-psychiatry-psychopathology-learning-roadmap)]] (生命・健康・医学 / 臨床精神医学・精神病理学 (clinical-psychiatry-psychopathology))
 
 ## Coverage Check
-- Listed articles: 46
-- Filesystem article count: 46
+- Listed articles: 39
+- Filesystem article count: 39

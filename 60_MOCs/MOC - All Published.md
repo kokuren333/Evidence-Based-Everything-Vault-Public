@@ -46,17 +46,6 @@
 
 ## 心理・教育・人間発達
 - Category MOC: [[10_Published/02_Mind_Education_Human_Development/_MOC.md|02_Mind_Education_Human_Development]]
-- Subfield: [[10_Published/02_Mind_Education_Human_Development/英語学習・英文法__english-grammar-learning/_MOC.md|英語学習・英文法 (english-grammar-learning)]]
-  - [[10_Published/02_Mind_Education_Human_Development/英語学習・英文法__english-grammar-learning/中高大学一般英文法をマスターするための25講：初学者が最初に押さえる原理__english-grammar-first-principles-lecture-05.md|中高大学一般英文法をマスターするための25講：初学者が最初に押さえる原理 (english-grammar-first-principles-lecture-05)]]
-- Subfield: [[10_Published/02_Mind_Education_Human_Development/英語教育・英文法__english-education-grammar/_MOC.md|英語教育・英文法 (english-education-grammar)]]
-  - [[10_Published/02_Mind_Education_Human_Development/英語教育・英文法__english-education-grammar/中高大学一般英文法をマスターするための25講：応用領域と関連分野__english-grammar-applied-fields-related-domains.md|中高大学一般英文法をマスターするための25講：応用領域と関連分野 (english-grammar-applied-fields-related-domains)]]
-- Subfield: [[10_Published/02_Mind_Education_Human_Development/英語教育・英文法学習__english-grammar-education/_MOC.md|英語教育・英文法学習 (english-grammar-education)]]
-  - [[10_Published/02_Mind_Education_Human_Development/英語教育・英文法学習__english-grammar-education/中高大学一般英文法をマスターするための25講：代表例とケーススタディ__english-grammar-25-lecture-07-examples-case-studies.md|中高大学一般英文法をマスターするための25講：代表例とケーススタディ (english-grammar-25-lecture-07-examples-case-studies)]]
-- Subfield: [[10_Published/02_Mind_Education_Human_Development/英語文法学習__english-grammar-learning/_MOC.md|英語文法学習 (english-grammar-learning)]]
-  - [[10_Published/02_Mind_Education_Human_Development/英語文法学習__english-grammar-learning/中高大学一般英文法をマスターするための25講、それ用のディレクトリも作成する：中核となる分類と体系__english-grammar-core-taxonomy.md|中高大学一般英文法をマスターするための25講、それ用のディレクトリも作成する：中核となる分類と体系 (english-grammar-core-taxonomy)]]
-  - [[10_Published/02_Mind_Education_Human_Development/英語文法学習__english-grammar-learning/中高大学一般英文法をマスターするための25講：歴史的背景と標準的理解の変遷__english-grammar-history-standard-understanding.md|中高大学一般英文法をマスターするための25講：歴史的背景と標準的理解の変遷 (english-grammar-history-standard-understanding)]]
-- Subfield: [[10_Published/02_Mind_Education_Human_Development/英文法実践__english-grammar-practice/_MOC.md|英文法実践 (english-grammar-practice)]]
-  - [[10_Published/02_Mind_Education_Human_Development/英文法実践__english-grammar-practice/中高大学一般英文法をマスターするための25講：実践で使う判断手順__english-grammar-practical-decision-procedure.md|中高大学一般英文法をマスターするための25講：実践で使う判断手順 (english-grammar-practical-decision-procedure)]]
 - Subfield: [[10_Published/02_Mind_Education_Human_Development/進化心理学__evolutionary-psychology/_MOC.md|進化心理学 (evolutionary-psychology)]]
   - [[10_Published/02_Mind_Education_Human_Development/進化心理学__evolutionary-psychology/恋愛と進化心理学：進化心理学とは__love-and-evolutionary-psychology-overview.md|恋愛と進化心理学：進化心理学とは (love-and-evolutionary-psychology-overview)]]
 - Subfield: [[10_Published/02_Mind_Education_Human_Development/臨床心理・心理療法__clinical-psychology-psychotherapy/_MOC.md|臨床心理・心理療法 (clinical-psychology-psychotherapy)]]
@@ -95,8 +84,6 @@
 
 ## 人文・歴史・文化・芸術
 - Category MOC: [[10_Published/08_Humanities_History_Culture_Arts/_MOC.md|08_Humanities_History_Culture_Arts]]
-- Subfield: [[10_Published/08_Humanities_History_Culture_Arts/英文法25講__english-grammar-25-lectures/_MOC.md|英文法25講 (english-grammar-25-lectures)]]
-  - [[10_Published/08_Humanities_History_Culture_Arts/英文法25講__english-grammar-25-lectures/中高大学一般英文法をマスターするための25講：基本概念・用語・前提知識__english-grammar-basic-concepts-terminology-prerequisites.md|中高大学一般英文法をマスターするための25講：基本概念・用語・前提知識 (english-grammar-basic-concepts-terminology-prerequisites)]]
 - Subfield: [[10_Published/08_Humanities_History_Culture_Arts/食文化史__food-culture-history/_MOC.md|食文化史 (food-culture-history)]]
   - [[10_Published/08_Humanities_History_Culture_Arts/食文化史__food-culture-history/フランス料理の歴史__french-cuisine-history.md|フランス料理の歴史 (french-cuisine-history)]]
 
