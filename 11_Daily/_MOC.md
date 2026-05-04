@@ -2,13 +2,13 @@
 
 ## Field Index
 - Fields: 10
-- Daily briefings: 17
-- Generated: 2026-05-03 20:49:38 +09:00
+- Daily briefings: 18
+- Generated: 2026-05-04 00:00:00 +09:00
 
 ## Fields
 - [[11_Daily/01_Politics_International_Relations/_MOC.md|政治・国際関係 (01_Politics_International_Relations)]] - 1 months, 1 briefings
 - [[11_Daily/02_Economy_Finance/_MOC.md|経済・金融 (02_Economy_Finance)]] - 1 months, 1 briefings
-- [[11_Daily/03_Technology_AI/_MOC.md|技術・AI (03_Technology_AI)]] - 1 months, 2 briefings
+- [[11_Daily/03_Technology_AI/_MOC.md|技術・AI (03_Technology_AI)]] - 1 months, 3 briefings
 - [[11_Daily/04_Science_Medicine_Life/_MOC.md|科学・医学・生命 (04_Science_Medicine_Life)]] - 1 months, 2 briefings
 - [[11_Daily/05_Environment_Energy_Resources/_MOC.md|環境・エネルギー・資源 (05_Environment_Energy_Resources)]] - 1 months, 1 briefings
 - [[11_Daily/06_Society_Population_Education/_MOC.md|社会・人口・教育 (06_Society_Population_Education)]] - 1 months, 2 briefings
@@ -26,7 +26,7 @@
 - [[11_Daily/02_Economy_Finance/2026-05/_MOC.md|2026-05]] - 1 briefings
 
 ### 技術・AI (03_Technology_AI)
-- [[11_Daily/03_Technology_AI/2026-05/_MOC.md|2026-05]] - 2 briefings
+- [[11_Daily/03_Technology_AI/2026-05/_MOC.md|2026-05]] - 3 briefings
 
 ### 科学・医学・生命 (04_Science_Medicine_Life)
 - [[11_Daily/04_Science_Medicine_Life/2026-05/_MOC.md|2026-05]] - 2 briefings
