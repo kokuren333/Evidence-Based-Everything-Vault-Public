@@ -8,7 +8,7 @@ field: 01_Politics_International_Relations
 updated: 2026-05-02
 ---
 
-![[2026-05-02_politics-international-relations.png]]
+![[50_Assets/Infographics/Daily/2026-05-02_politics-international-relations.png]]
 
 図解: 2026年5月2日の国際政治で読むべき三つの焦点。ホルムズ海峡をめぐる米イラン停戦・航行問題、米中高官対話における台湾問題、NPT再検討会議の核軍縮対立を整理した。[1][2][3][4]
 

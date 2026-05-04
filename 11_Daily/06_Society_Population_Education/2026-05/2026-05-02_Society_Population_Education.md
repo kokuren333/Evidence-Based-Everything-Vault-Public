@@ -8,7 +8,7 @@ field: Society_Population_Education
 updated: 2026-05-02
 ---
 
-![[2026-05-02_society-population-education.png]]
+![[50_Assets/Infographics/Daily/2026-05-02_society-population-education.png]]
 
 # 2026-05-02 Society Population Education Daily Briefing
 

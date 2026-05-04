@@ -8,7 +8,7 @@ field: 06_Society_Population_Education
 updated: 2026-05-03
 ---
 
-![[2026-05-03_society-population-education.png]]
+![[50_Assets/Infographics/Daily/2026-05-03_society-population-education.png]]
 
 図解: 2026年5月3日の社会・人口・教育ニュースで読むべき焦点。日本の人口減少、教師不足、教育AIの実装条件、米国の移民保護訴訟を、一次資料と高信頼報道に基づいて整理した。[1][2][4][5][6]
 

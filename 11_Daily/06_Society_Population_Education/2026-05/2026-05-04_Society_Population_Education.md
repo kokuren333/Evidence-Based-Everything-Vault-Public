@@ -8,7 +8,7 @@ field: 06_Society_Population_Education
 updated: 2026-05-04
 ---
 
-![[2026-05-04_society-population-education.png]]
+![[50_Assets/Infographics/Daily/2026-05-04_society-population-education.png]]
 
 図解: 2026年5月4日の社会・人口・教育ニュースで読むべき論点。日本の「こどもの日」に合わせた子ども人口統計、学校・医療施設の保護、移住と教育、AI時代の教育設計を、一次情報と国際機関資料に基づいて整理した。[1][2][4][5][6]
 

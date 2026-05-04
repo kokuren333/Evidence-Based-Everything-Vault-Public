@@ -8,7 +8,7 @@ field: Economy_Finance
 updated: 2026-05-04
 ---
 
-![[2026-05-04_economy-finance.png]]
+![[50_Assets/Infographics/Daily/2026-05-04_economy-finance.png]]
 
 # 2026-05-04 Economy Finance Daily Briefing
 

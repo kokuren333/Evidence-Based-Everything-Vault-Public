@@ -8,7 +8,7 @@ field: Culture_Media_Ideas
 updated: 2026-05-03
 ---
 
-![[2026-05-03_culture-media-ideas.png]]
+![[50_Assets/Infographics/Daily/2026-05-03_culture-media-ideas.png]]
 
 # 2026-05-03 Culture Media Ideas Daily Briefing
 

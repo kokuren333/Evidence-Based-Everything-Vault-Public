@@ -8,7 +8,7 @@ field: 01_Politics_International_Relations
 updated: 2026-05-04
 ---
 
-![[2026-05-04_politics-international-relations.png]]
+![[50_Assets/Infographics/Daily/2026-05-04_politics-international-relations.png]]
 
 図解: 2026年5月4日の国際政治では、ホルムズ海峡の船舶退避、エレバンでの欧州政治共同体、EU・アルメニア首脳会合、日本の対アフリカ外交が、同じ「安全保障・連結性・外交余地」の問題として重なっている。[1][2][3][4]
 

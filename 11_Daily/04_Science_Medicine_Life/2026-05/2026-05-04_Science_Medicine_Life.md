@@ -8,7 +8,7 @@ field: Science_Medicine_Life
 updated: 2026-05-04
 ---
 
-![[2026-05-04_science-medicine-life.png]]
+![[50_Assets/Infographics/Daily/2026-05-04_science-medicine-life.png]]
 
 # 2026-05-04 Science Medicine Life Daily Briefing
 
