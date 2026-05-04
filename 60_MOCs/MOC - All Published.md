@@ -5,6 +5,7 @@
 
 ## 2026-05-04 Added
 
+- [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/代表的なカクテルとその作り方__representative-cocktails-how-to-make.md|代表的なカクテルとその作り方]]
 - [[10_Published/07_Technology_Engineering_Computing_AI/GPU・並列計算__gpu-parallel-computing/GPUとは何か__what-is-gpu.md|GPUとは何か]]
 - [[10_Published/07_Technology_Engineering_Computing_AI/深層学習アーキテクチャ__deep-learning-architectures/Transformerとは何か：Attention Is All You Needの要点__transformer-attention-is-all-you-need.md|Transformerとは何か：Attention Is All You Needの要点]]
 - [[10_Published/02_Mind_Education_Human_Development/隨ｬ莠瑚ｨ隱樒ｿ貞ｾ励・闍ｱ隱槫ｭｦ鄙胆_second-language-acquisition-english-learning/闍ｱ隱槭ｒ遒ｺ螳溘↓荳企＃縺輔○繧九◆繧√・螳悟・縺ｪ譁ｹ豕戊ｫ棒_complete-methodology-for-improving-english.md|闍ｱ隱槭ｒ遒ｺ螳溘↓荳企＃縺輔○繧九◆繧√・螳悟・縺ｪ譁ｹ豕戊ｫ・(complete-methodology-for-improving-english)]]
@@ -105,3 +106,8 @@
   - [[10_Published/10_Life_Design_Practice_Creative_Work/蛹玲ｵｷ驕薙げ繝ｫ繝｡螳溯ｷｵ__hokkaido-food-practice/蛹玲ｵｷ驕薙・螟懊Λ繝ｼ繝｡繝ｳ譯亥・__hokkaido-night-ramen-guide.md|蛹玲ｵｷ驕薙・螟懊Λ繝ｼ繝｡繝ｳ譯亥・ (hokkaido-night-ramen-guide)]]
 - Subfield: [[10_Published/10_Life_Design_Practice_Creative_Work/譁咏炊螳溯ｷｵ__cooking-practice/_MOC.md|譁咏炊螳溯ｷｵ (cooking-practice)]]
   - [[10_Published/10_Life_Design_Practice_Creative_Work/譁咏炊螳溯ｷｵ__cooking-practice/鄒主袖縺励＞蜚先恕縺偵・菴懊ｊ譁ｹ繝ｬ繧ｷ繝農_karaage-recipe-evidence-based.md|鄒主袖縺励＞蜚先恕縺偵・菴懊ｊ譁ｹ繝ｬ繧ｷ繝・(karaage-recipe-evidence-based)]]
+
+### Supplemental 2026-05-04
+
+- Subfield: [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/_MOC.md|飲食実践 (food-and-drink-practice)]]
+  - [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/代表的なカクテルとその作り方__representative-cocktails-how-to-make.md|代表的なカクテルとその作り方 (representative-cocktails-how-to-make)]]

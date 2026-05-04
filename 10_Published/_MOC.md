@@ -27,3 +27,9 @@
 
 - Every major category directory under `10_Published/` is linked above.
 - Category counts are derived from current subfield directories and article files.
+
+## 2026-05-04 Supplemental Update
+
+- Added: [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/代表的なカクテルとその作り方__representative-cocktails-how-to-make.md|代表的なカクテルとその作り方]]
+- Updated category: [[10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md|ライフデザイン・実践・創作]]
+- Current supplement count after this publish: 28 subfields, 43 articles.
