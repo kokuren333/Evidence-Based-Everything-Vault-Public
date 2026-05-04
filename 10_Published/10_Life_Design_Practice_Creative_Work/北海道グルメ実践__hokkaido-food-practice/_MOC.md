@@ -1,6 +1,6 @@
 ﻿# 北海道グルメ実践 MOC
 
-- Category: [[10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md|ライフデザイン・実践・創作 (10_Life_Design_Practice_Creative_Work)]]
+- Category: ライフデザイン・実践・創作 (10_Life_Design_Practice_Creative_Work)
 - Subfield path: `10_Published/10_Life_Design_Practice_Creative_Work/北海道グルメ実践__hokkaido-food-practice`
 - Articles: 1
 
@@ -9,4 +9,4 @@
 
 ## Navigation
 - [[10_Published/_MOC.md|Published Root MOC]]
-- [[10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md|ライフデザイン・実践・創作 MOC]]
+- [[10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md|????????????? MOC]]

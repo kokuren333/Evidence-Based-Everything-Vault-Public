@@ -1,6 +1,6 @@
 ﻿# 睡眠医学 MOC
 
-- Category: [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学 (01_Life_Health_Medicine)]]
+- Category: 生命・健康・医学 (01_Life_Health_Medicine)
 - Subfield path: `10_Published/01_Life_Health_Medicine/睡眠医学__sleep-medicine`
 - Articles: 1
 
@@ -9,4 +9,4 @@
 
 ## Navigation
 - [[10_Published/_MOC.md|Published Root MOC]]
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学 MOC]]
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|???????? MOC]]

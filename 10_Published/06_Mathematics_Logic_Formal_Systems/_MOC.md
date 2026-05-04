@@ -1,4 +1,4 @@
-﻿# 数学・論理・形式体系 MOC
+﻿# ?????????? MOC
 
 - Scope: published EBE articles in this major category.
 - Category path: `10_Published/06_Mathematics_Logic_Formal_Systems`

@@ -1,4 +1,4 @@
-﻿# 自然科学・環境 MOC
+﻿# ??????? MOC
 
 - Scope: published EBE articles in this major category.
 - Category path: `10_Published/05_Nature_Science_Environment`

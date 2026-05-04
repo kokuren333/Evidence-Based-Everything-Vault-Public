@@ -1,4 +1,4 @@
-﻿# 人文・歴史・文化・芸術 MOC
+﻿# ??????????? MOC
 
 - Scope: published EBE articles in this major category.
 - Category path: `10_Published/08_Humanities_History_Culture_Arts`

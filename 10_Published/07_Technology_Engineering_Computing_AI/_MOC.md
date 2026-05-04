@@ -1,4 +1,4 @@
-﻿# 技術・工学・コンピューティング・AI MOC
+﻿# ????????????????AI MOC
 
 - Scope: published EBE articles in this major category.
 - Category path: `10_Published/07_Technology_Engineering_Computing_AI`

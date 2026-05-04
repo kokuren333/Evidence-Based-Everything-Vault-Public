@@ -1,4 +1,4 @@
-﻿# 生命・健康・医学 MOC
+﻿# ???????? MOC
 
 - Scope: published EBE articles in this major category.
 - Category path: `10_Published/01_Life_Health_Medicine`

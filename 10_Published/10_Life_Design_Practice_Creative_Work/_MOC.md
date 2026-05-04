@@ -1,4 +1,4 @@
-﻿# ライフデザイン・実践・創作 MOC
+﻿# ????????????? MOC
 
 - Scope: published EBE articles in this major category.
 - Category path: `10_Published/10_Life_Design_Practice_Creative_Work`

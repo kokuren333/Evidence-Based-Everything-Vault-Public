@@ -1,6 +1,6 @@
 ﻿# 国際安全保障・戦争研究 MOC
 
-- Category: [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|社会・政策・法・ガバナンス (03_Society_Policy_Law_Governance)]]
+- Category: 社会・政策・法・ガバナンス (03_Society_Policy_Law_Governance)
 - Subfield path: `10_Published/03_Society_Policy_Law_Governance/国際安全保障・戦争研究__international-security-war-studies`
 - Articles: 1
 
@@ -9,4 +9,4 @@
 
 ## Navigation
 - [[10_Published/_MOC.md|Published Root MOC]]
-- [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|社会・政策・法・ガバナンス MOC]]
+- [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|????????????? MOC]]

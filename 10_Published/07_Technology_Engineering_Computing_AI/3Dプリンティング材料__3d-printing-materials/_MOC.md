@@ -1,6 +1,6 @@
 ﻿# 3Dプリンティング材料 MOC
 
-- Category: [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|技術・工学・コンピューティング・AI (07_Technology_Engineering_Computing_AI)]]
+- Category: 技術・工学・コンピューティング・AI (07_Technology_Engineering_Computing_AI)
 - Subfield path: `10_Published/07_Technology_Engineering_Computing_AI/3Dプリンティング材料__3d-printing-materials`
 - Articles: 2
 
@@ -10,4 +10,4 @@
 
 ## Navigation
 - [[10_Published/_MOC.md|Published Root MOC]]
-- [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|技術・工学・コンピューティング・AI MOC]]
+- [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|????????????????AI MOC]]

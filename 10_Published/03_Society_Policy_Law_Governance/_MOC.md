@@ -1,4 +1,4 @@
-﻿# 社会・政策・法・ガバナンス MOC
+﻿# ????????????? MOC
 
 - Scope: published EBE articles in this major category.
 - Category path: `10_Published/03_Society_Policy_Law_Governance`

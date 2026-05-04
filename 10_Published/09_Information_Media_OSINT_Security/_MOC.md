@@ -1,4 +1,4 @@
-﻿# 情報・メディア・OSINT・セキュリティ MOC
+﻿# ????????OSINT??????? MOC
 
 - Scope: published EBE articles in this major category.
 - Category path: `10_Published/09_Information_Media_OSINT_Security`

@@ -1,6 +1,6 @@
 ﻿# 放射線治療 MOC
 
-- Category: [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学 (01_Life_Health_Medicine)]]
+- Category: 生命・健康・医学 (01_Life_Health_Medicine)
 - Subfield path: `10_Published/01_Life_Health_Medicine/放射線治療__radiation-oncology`
 - Articles: 1
 
@@ -9,4 +9,4 @@
 
 ## Navigation
 - [[10_Published/_MOC.md|Published Root MOC]]
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学 MOC]]
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|???????? MOC]]

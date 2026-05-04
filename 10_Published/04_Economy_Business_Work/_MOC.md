@@ -1,4 +1,4 @@
-﻿# 経済・ビジネス・仕事 MOC
+﻿# ?????????? MOC
 
 - Scope: published EBE articles in this major category.
 - Category path: `10_Published/04_Economy_Business_Work`
