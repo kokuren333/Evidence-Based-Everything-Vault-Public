@@ -1,6 +1,6 @@
 # 数値計算・科学技術計算
 
-- Category: [[../_MOC.md|技術・工学・コンピューティング・AI]]
+- Category: [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|技術・工学・コンピューティング・AI]]
 - Subfield slug: numerical-scientific-computing
 - Rebuilt: 2026-05-04 00:00:00 +09:00
 - Source of truth: 10_Published/07_Technology_Engineering_Computing_AI/数値計算・科学技術計算__numerical-scientific-computing/

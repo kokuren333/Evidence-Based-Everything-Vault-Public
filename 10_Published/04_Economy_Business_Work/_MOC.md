@@ -17,9 +17,9 @@ This MOC is the canonical category index for 経済・ビジネス・仕事. It 
 - [[10_Published/04_Economy_Business_Work/個人資産形成__personal-wealth-building/日本における株式投資のスタンダード戦略__japan-stock-investing-standard-strategy.md|日本における株式投資のスタンダード戦略 (japan-stock-investing-standard-strategy)]]
 
 ## Related MOCs
-- [[../_MOC.md|Published Root MOC]]
-- [[../../60_MOCs/MOC - All Published.md|MOC - All Published]]
-- [[../../60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
+- [[10_Published/_MOC.md|Published Root MOC]]
+- [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
 
 ## Coverage Check
 - Every current subfield MOC under this category is linked above.

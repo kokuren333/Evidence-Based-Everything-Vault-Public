@@ -17,9 +17,9 @@ This MOC is the canonical category index for 自然科学・環境. It is organi
 - [[10_Published/05_Nature_Science_Environment/大気光学__atmospheric-optics/空が青く見える理由__why-sky-appears-blue.md|空が青く見える理由 (why-sky-appears-blue)]]
 
 ## Related MOCs
-- [[../_MOC.md|Published Root MOC]]
-- [[../../60_MOCs/MOC - All Published.md|MOC - All Published]]
-- [[../../60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
+- [[10_Published/_MOC.md|Published Root MOC]]
+- [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
 
 ## Coverage Check
 - Every current subfield MOC under this category is linked above.

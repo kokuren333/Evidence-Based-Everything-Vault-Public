@@ -1,6 +1,6 @@
 # 3Dプリンティング材料
 
-- Category: [[../_MOC.md|技術・工学・コンピューティング・AI]]
+- Category: [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|技術・工学・コンピューティング・AI]]
 - Subfield slug: 3d-printing-materials
 - Rebuilt: 2026-05-04 00:00:00 +09:00
 - Source of truth: 10_Published/07_Technology_Engineering_Computing_AI/3Dプリンティング材料__3d-printing-materials/

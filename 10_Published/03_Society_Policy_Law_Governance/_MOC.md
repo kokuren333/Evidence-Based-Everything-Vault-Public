@@ -17,9 +17,9 @@ This MOC is the canonical category index for 社会・政策・法・ガバナ�
 - [[10_Published/03_Society_Policy_Law_Governance/国際安全保障・戦争研究__international-security-war-studies/現在の世界情勢を戦争の観点から読む__world-war-situation-2026-05-01.md|現在の世界情勢を戦争の観点から読む (world-war-situation-2026-05-01)]]
 
 ## Related MOCs
-- [[../_MOC.md|Published Root MOC]]
-- [[../../60_MOCs/MOC - All Published.md|MOC - All Published]]
-- [[../../60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
+- [[10_Published/_MOC.md|Published Root MOC]]
+- [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
 
 ## Coverage Check
 - Every current subfield MOC under this category is linked above.

@@ -1,6 +1,6 @@
 # 橋梁設計・維持管理
 
-- Category: [[../_MOC.md|技術・工学・コンピューティング・AI]]
+- Category: [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|技術・工学・コンピューティング・AI]]
 - Subfield slug: bridge-design-maintenance
 - Rebuilt: 2026-05-04 00:00:00 +09:00
 - Source of truth: 10_Published/07_Technology_Engineering_Computing_AI/橋梁設計・維持管理__bridge-design-maintenance/

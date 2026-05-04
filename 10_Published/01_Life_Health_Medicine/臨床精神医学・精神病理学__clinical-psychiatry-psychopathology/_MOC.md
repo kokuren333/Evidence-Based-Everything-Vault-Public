@@ -1,6 +1,6 @@
 # 臨床精神医学・精神病理学
 
-- Category: [[../_MOC.md|生命・健康・医学]]
+- Category: [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]]
 - Subfield slug: clinical-psychiatry-psychopathology
 - Rebuilt: 2026-05-04 00:00:00 +09:00
 - Source of truth: 10_Published/01_Life_Health_Medicine/臨床精神医学・精神病理学__clinical-psychiatry-psychopathology/

@@ -15,9 +15,9 @@ This MOC is the canonical category index for 数学・論理・形式体系. It 
 - No published articles yet.
 
 ## Related MOCs
-- [[../_MOC.md|Published Root MOC]]
-- [[../../60_MOCs/MOC - All Published.md|MOC - All Published]]
-- [[../../60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
+- [[10_Published/_MOC.md|Published Root MOC]]
+- [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
 
 ## Coverage Check
 - Every current subfield MOC under this category is linked above.

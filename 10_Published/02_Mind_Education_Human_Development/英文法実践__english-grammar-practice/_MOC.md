@@ -1,6 +1,6 @@
 # 英文法実践
 
-- Category: [[../_MOC.md|心理・教育・人間発達]]
+- Category: [[10_Published/02_Mind_Education_Human_Development/_MOC.md|心理・教育・人間発達]]
 - Subfield slug: english-grammar-practice
 - Rebuilt: 2026-05-04 00:00:00 +09:00
 - Source of truth: 10_Published/02_Mind_Education_Human_Development/英文法実践__english-grammar-practice/

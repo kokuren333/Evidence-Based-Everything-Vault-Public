@@ -21,9 +21,9 @@ This MOC is the canonical category index for ライフデザイン・実践・�
 - [[10_Published/10_Life_Design_Practice_Creative_Work/料理実践__cooking-practice/美味しい唐揚げの作り方レシピ__karaage-recipe-evidence-based.md|美味しい唐揚げの作り方レシピ (karaage-recipe-evidence-based)]]
 
 ## Related MOCs
-- [[../_MOC.md|Published Root MOC]]
-- [[../../60_MOCs/MOC - All Published.md|MOC - All Published]]
-- [[../../60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
+- [[10_Published/_MOC.md|Published Root MOC]]
+- [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
 
 ## Coverage Check
 - Every current subfield MOC under this category is linked above.

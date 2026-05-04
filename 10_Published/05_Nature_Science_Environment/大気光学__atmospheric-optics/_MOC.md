@@ -1,6 +1,6 @@
 # 大気光学
 
-- Category: [[../_MOC.md|自然科学・環境]]
+- Category: [[10_Published/05_Nature_Science_Environment/_MOC.md|自然科学・環境]]
 - Subfield slug: atmospheric-optics
 - Rebuilt: 2026-05-04 00:00:00 +09:00
 - Source of truth: 10_Published/05_Nature_Science_Environment/大気光学__atmospheric-optics/
