@@ -1,19 +1,19 @@
-# 社会・政策・法・ガバナンス MOC
+﻿# 社会・政策・法・ガバナンス MOC
 
-- Category ID: 03_Society_Policy_Law_Governance
+- Scope: published EBE articles in this major category.
+- Category path: `10_Published/03_Society_Policy_Law_Governance`
 - Subfields: 1
-- Published articles: 1
-- Generated: 2026-05-04 10:34:04 +09:00
+- Articles: 1
 
 ## Overview
-This MOC maps the published EBE articles under 社会・政策・法・ガバナンス. It is generated from the current 10_Published/03_Society_Policy_Law_Governance/ filesystem tree.
+This MOC is rebuilt from the current `10_Published/03_Society_Policy_Law_Governance/` filesystem tree. Every published subfield and article in this category is reachable through the indexes below.
 
 ## Subfield Index
 - [[10_Published/03_Society_Policy_Law_Governance/国際安全保障・戦争研究__international-security-war-studies/_MOC.md|国際安全保障・戦争研究 (international-security-war-studies)]] - 1 articles
 
-## Articles By Subfield
+## Article Index
 
-### 国際安全保障・戦争研究 (international-security-war-studies)
+### 国際安全保障・戦争研究
 - [[10_Published/03_Society_Policy_Law_Governance/国際安全保障・戦争研究__international-security-war-studies/現在の世界情勢を戦争の観点から読む__world-war-situation-2026-05-01.md|現在の世界情勢を戦争の観点から読む (world-war-situation-2026-05-01)]]
 
 ## Navigation

@@ -1,18 +1,18 @@
-# 情報・メディア・OSINT・セキュリティ MOC
+﻿# 情報・メディア・OSINT・セキュリティ MOC
 
-- Category ID: 09_Information_Media_OSINT_Security
+- Scope: published EBE articles in this major category.
+- Category path: `10_Published/09_Information_Media_OSINT_Security`
 - Subfields: 0
-- Published articles: 0
-- Generated: 2026-05-04 10:34:04 +09:00
+- Articles: 0
 
 ## Overview
-This MOC maps the published EBE articles under 情報・メディア・OSINT・セキュリティ. It is generated from the current 10_Published/09_Information_Media_OSINT_Security/ filesystem tree.
+This MOC is rebuilt from the current `10_Published/09_Information_Media_OSINT_Security/` filesystem tree. Every published subfield and article in this category is reachable through the indexes below.
 
 ## Subfield Index
-- No subfields currently indexed.
+- No published subfields yet.
 
-## Articles By Subfield
-- No published articles currently indexed.
+## Article Index
+- No published articles yet.
 
 ## Navigation
 - [[10_Published/_MOC.md|Published Root MOC]]

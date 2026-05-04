@@ -1,19 +1,19 @@
-# 経済・ビジネス・仕事 MOC
+﻿# 経済・ビジネス・仕事 MOC
 
-- Category ID: 04_Economy_Business_Work
+- Scope: published EBE articles in this major category.
+- Category path: `10_Published/04_Economy_Business_Work`
 - Subfields: 1
-- Published articles: 1
-- Generated: 2026-05-04 10:34:04 +09:00
+- Articles: 1
 
 ## Overview
-This MOC maps the published EBE articles under 経済・ビジネス・仕事. It is generated from the current 10_Published/04_Economy_Business_Work/ filesystem tree.
+This MOC is rebuilt from the current `10_Published/04_Economy_Business_Work/` filesystem tree. Every published subfield and article in this category is reachable through the indexes below.
 
 ## Subfield Index
 - [[10_Published/04_Economy_Business_Work/個人資産形成__personal-wealth-building/_MOC.md|個人資産形成 (personal-wealth-building)]] - 1 articles
 
-## Articles By Subfield
+## Article Index
 
-### 個人資産形成 (personal-wealth-building)
+### 個人資産形成
 - [[10_Published/04_Economy_Business_Work/個人資産形成__personal-wealth-building/日本における株式投資のスタンダード戦略__japan-stock-investing-standard-strategy.md|日本における株式投資のスタンダード戦略 (japan-stock-investing-standard-strategy)]]
 
 ## Navigation

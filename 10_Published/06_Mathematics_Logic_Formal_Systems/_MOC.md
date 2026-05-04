@@ -1,18 +1,18 @@
-# 数学・論理・形式体系 MOC
+﻿# 数学・論理・形式体系 MOC
 
-- Category ID: 06_Mathematics_Logic_Formal_Systems
+- Scope: published EBE articles in this major category.
+- Category path: `10_Published/06_Mathematics_Logic_Formal_Systems`
 - Subfields: 0
-- Published articles: 0
-- Generated: 2026-05-03 20:49:38 +09:00
+- Articles: 0
 
 ## Overview
-This MOC maps the published EBE articles under 数学・論理・形式体系. It is generated from the actual 10_Published/06_Mathematics_Logic_Formal_Systems/ filesystem tree and organized by subfield so every article is reachable through root, category, and subfield indexes.
+This MOC is rebuilt from the current `10_Published/06_Mathematics_Logic_Formal_Systems/` filesystem tree. Every published subfield and article in this category is reachable through the indexes below.
 
 ## Subfield Index
-- No subfields currently indexed.
+- No published subfields yet.
 
-## Articles By Subfield
-- No published articles currently indexed.
+## Article Index
+- No published articles yet.
 
 ## Navigation
 - [[10_Published/_MOC.md|Published Root MOC]]

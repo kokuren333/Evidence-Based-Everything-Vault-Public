@@ -1,23 +1,23 @@
-# ライフデザイン・実践・創作 MOC
+﻿# ライフデザイン・実践・創作 MOC
 
-- Category ID: 10_Life_Design_Practice_Creative_Work
+- Scope: published EBE articles in this major category.
+- Category path: `10_Published/10_Life_Design_Practice_Creative_Work`
 - Subfields: 2
-- Published articles: 2
-- Generated: 2026-05-04 10:34:04 +09:00
+- Articles: 2
 
 ## Overview
-This MOC maps the published EBE articles under ライフデザイン・実践・創作. It is generated from the current 10_Published/10_Life_Design_Practice_Creative_Work/ filesystem tree.
+This MOC is rebuilt from the current `10_Published/10_Life_Design_Practice_Creative_Work/` filesystem tree. Every published subfield and article in this category is reachable through the indexes below.
 
 ## Subfield Index
 - [[10_Published/10_Life_Design_Practice_Creative_Work/北海道グルメ実践__hokkaido-food-practice/_MOC.md|北海道グルメ実践 (hokkaido-food-practice)]] - 1 articles
 - [[10_Published/10_Life_Design_Practice_Creative_Work/料理実践__cooking-practice/_MOC.md|料理実践 (cooking-practice)]] - 1 articles
 
-## Articles By Subfield
+## Article Index
 
-### 北海道グルメ実践 (hokkaido-food-practice)
+### 北海道グルメ実践
 - [[10_Published/10_Life_Design_Practice_Creative_Work/北海道グルメ実践__hokkaido-food-practice/北海道の夜ラーメン案内__hokkaido-night-ramen-guide.md|北海道の夜ラーメン案内 (hokkaido-night-ramen-guide)]]
 
-### 料理実践 (cooking-practice)
+### 料理実践
 - [[10_Published/10_Life_Design_Practice_Creative_Work/料理実践__cooking-practice/美味しい唐揚げの作り方レシピ__karaage-recipe-evidence-based.md|美味しい唐揚げの作り方レシピ (karaage-recipe-evidence-based)]]
 
 ## Navigation
