@@ -1,22 +1,27 @@
-# 社会・政策・法・ガバナンス MOC
+# 社会・政策・法・ガバナンス
 
-- Scope: published EBE articles in this major category.
-- Category path: `10_Published/03_Society_Policy_Law_Governance`
-- Subfields: 1
-- Articles: 1
-- Rebuilt: 2026-05-04 12:46:58 +09:00
+- Category ID: 03_Society_Policy_Law_Governance
+- Rebuilt: 2026-05-04 00:00:00 +09:00
+- Source of truth: 10_Published/03_Society_Policy_Law_Governance/
+- Coverage: 1 subfields, 1 articles
 
 ## Overview
-This MOC is rebuilt from the current `10_Published/03_Society_Policy_Law_Governance/` filesystem tree. Every published subfield and article in this category is reachable through the indexes below.
+This MOC is the canonical category index for 社会・政策・法・ガバナンス. It is organized by current subfield directories and covers every published article under this category.
 
 ## Subfield Index
 - [[10_Published/03_Society_Policy_Law_Governance/国際安全保障・戦争研究__international-security-war-studies/_MOC.md|国際安全保障・戦争研究 (international-security-war-studies)]] - 1 articles
 
-## Article Index
+## Articles By Subfield
 
 ### 国際安全保障・戦争研究
 - [[10_Published/03_Society_Policy_Law_Governance/国際安全保障・戦争研究__international-security-war-studies/現在の世界情勢を戦争の観点から読む__world-war-situation-2026-05-01.md|現在の世界情勢を戦争の観点から読む (world-war-situation-2026-05-01)]]
 
-## Navigation
-- [[10_Published/_MOC.md|Published Root MOC]]
-- [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+## Related MOCs
+- [[../_MOC.md|Published Root MOC]]
+- [[../../60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[../../60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
+
+## Coverage Check
+- Every current subfield MOC under this category is linked above.
+- Every current published article under this category is linked above.
+- Chronology is not used as the primary organization.

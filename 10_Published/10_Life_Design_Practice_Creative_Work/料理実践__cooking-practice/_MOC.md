@@ -1,13 +1,13 @@
-# 料理実践 MOC
+# 料理実践
 
-- Scope: published EBE articles in `10_Published/10_Life_Design_Practice_Creative_Work/料理実践__cooking-practice/`.
-- Category: ライフデザイン・実践・創作 (`10_Life_Design_Practice_Creative_Work`)
-- Articles: 1
-- Rebuilt: 2026-05-04 12:46:58 +09:00
+- Category: [[../_MOC.md|ライフデザイン・実践・創作]]
+- Subfield slug: cooking-practice
+- Rebuilt: 2026-05-04 00:00:00 +09:00
+- Source of truth: 10_Published/10_Life_Design_Practice_Creative_Work/料理実践__cooking-practice/
 
-## Article Index
+## Published Articles
 - [[10_Published/10_Life_Design_Practice_Creative_Work/料理実践__cooking-practice/美味しい唐揚げの作り方レシピ__karaage-recipe-evidence-based.md|美味しい唐揚げの作り方レシピ (karaage-recipe-evidence-based)]]
 
-## Navigation
-- [[10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md|ライフデザイン・実践・創作 MOC]]
-- [[10_Published/_MOC.md|Published Root MOC]]
+## Coverage Check
+- This MOC lists every non-MOC Markdown article in this subfield directory.
+- No article body files were edited during this repair.

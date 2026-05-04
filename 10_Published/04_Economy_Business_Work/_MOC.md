@@ -1,22 +1,27 @@
-# 経済・ビジネス・仕事 MOC
+# 経済・ビジネス・仕事
 
-- Scope: published EBE articles in this major category.
-- Category path: `10_Published/04_Economy_Business_Work`
-- Subfields: 1
-- Articles: 1
-- Rebuilt: 2026-05-04 12:46:58 +09:00
+- Category ID: 04_Economy_Business_Work
+- Rebuilt: 2026-05-04 00:00:00 +09:00
+- Source of truth: 10_Published/04_Economy_Business_Work/
+- Coverage: 1 subfields, 1 articles
 
 ## Overview
-This MOC is rebuilt from the current `10_Published/04_Economy_Business_Work/` filesystem tree. Every published subfield and article in this category is reachable through the indexes below.
+This MOC is the canonical category index for 経済・ビジネス・仕事. It is organized by current subfield directories and covers every published article under this category.
 
 ## Subfield Index
 - [[10_Published/04_Economy_Business_Work/個人資産形成__personal-wealth-building/_MOC.md|個人資産形成 (personal-wealth-building)]] - 1 articles
 
-## Article Index
+## Articles By Subfield
 
 ### 個人資産形成
 - [[10_Published/04_Economy_Business_Work/個人資産形成__personal-wealth-building/日本における株式投資のスタンダード戦略__japan-stock-investing-standard-strategy.md|日本における株式投資のスタンダード戦略 (japan-stock-investing-standard-strategy)]]
 
-## Navigation
-- [[10_Published/_MOC.md|Published Root MOC]]
-- [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+## Related MOCs
+- [[../_MOC.md|Published Root MOC]]
+- [[../../60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[../../60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
+
+## Coverage Check
+- Every current subfield MOC under this category is linked above.
+- Every current published article under this category is linked above.
+- Chronology is not used as the primary organization.

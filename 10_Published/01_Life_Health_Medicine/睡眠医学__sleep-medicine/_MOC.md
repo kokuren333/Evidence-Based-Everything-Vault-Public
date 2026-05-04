@@ -1,13 +1,13 @@
-# 睡眠医学 MOC
+# 睡眠医学
 
-- Scope: published EBE articles in `10_Published/01_Life_Health_Medicine/睡眠医学__sleep-medicine/`.
-- Category: 生命・健康・医学 (`01_Life_Health_Medicine`)
-- Articles: 1
-- Rebuilt: 2026-05-04 12:46:58 +09:00
+- Category: [[../_MOC.md|生命・健康・医学]]
+- Subfield slug: sleep-medicine
+- Rebuilt: 2026-05-04 00:00:00 +09:00
+- Source of truth: 10_Published/01_Life_Health_Medicine/睡眠医学__sleep-medicine/
 
-## Article Index
+## Published Articles
 - [[10_Published/01_Life_Health_Medicine/睡眠医学__sleep-medicine/睡眠は質と時間ならどちらが重要か__sleep-quality-vs-duration.md|睡眠は質と時間ならどちらが重要か (sleep-quality-vs-duration)]]
 
-## Navigation
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学 MOC]]
-- [[10_Published/_MOC.md|Published Root MOC]]
+## Coverage Check
+- This MOC lists every non-MOC Markdown article in this subfield directory.
+- No article body files were edited during this repair.

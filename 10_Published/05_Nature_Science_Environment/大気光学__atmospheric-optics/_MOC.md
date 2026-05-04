@@ -1,13 +1,13 @@
-# 大気光学 MOC
+# 大気光学
 
-- Scope: published EBE articles in `10_Published/05_Nature_Science_Environment/大気光学__atmospheric-optics/`.
-- Category: 自然科学・環境 (`05_Nature_Science_Environment`)
-- Articles: 1
-- Rebuilt: 2026-05-04 12:46:58 +09:00
+- Category: [[../_MOC.md|自然科学・環境]]
+- Subfield slug: atmospheric-optics
+- Rebuilt: 2026-05-04 00:00:00 +09:00
+- Source of truth: 10_Published/05_Nature_Science_Environment/大気光学__atmospheric-optics/
 
-## Article Index
+## Published Articles
 - [[10_Published/05_Nature_Science_Environment/大気光学__atmospheric-optics/空が青く見える理由__why-sky-appears-blue.md|空が青く見える理由 (why-sky-appears-blue)]]
 
-## Navigation
-- [[10_Published/05_Nature_Science_Environment/_MOC.md|自然科学・環境 MOC]]
-- [[10_Published/_MOC.md|Published Root MOC]]
+## Coverage Check
+- This MOC lists every non-MOC Markdown article in this subfield directory.
+- No article body files were edited during this repair.
