@@ -4,6 +4,7 @@
 - Source of truth: article frontmatter updated field
 
 ## Published Articles
+- 2026-05-04 - [[10_Published/07_Technology_Engineering_Computing_AI/GPU・並列計算__gpu-parallel-computing/GPUとは何か__what-is-gpu.md|GPUとは何か]] (技術・工学・コンピューティング・AI / GPU・並列計算)
 - 2026-05-04 - [[10_Published/07_Technology_Engineering_Computing_AI/深層学習アーキテクチャ__deep-learning-architectures/Transformerとは何か：Attention Is All You Needの要点__transformer-attention-is-all-you-need.md|Transformerとは何か：Attention Is All You Needの要点]] (技術・工学・コンピューティング・AI / 深層学習アーキテクチャ)
 - 2026-05-04 - [[10_Published/02_Mind_Education_Human_Development/隨ｬ莠瑚ｨ隱樒ｿ貞ｾ励・闍ｱ隱槫ｭｦ鄙胆_second-language-acquisition-english-learning/闍ｱ隱槭ｒ遒ｺ螳溘↓荳企＃縺輔○繧九◆繧√・螳悟・縺ｪ譁ｹ豕戊ｫ棒_complete-methodology-for-improving-english.md|闍ｱ隱槭ｒ遒ｺ螳溘↓荳企＃縺輔○繧九◆繧√・螳悟・縺ｪ譁ｹ豕戊ｫ・(complete-methodology-for-improving-english)]] (蠢・炊繝ｻ謨呵ご繝ｻ莠ｺ髢鍋匱驕・/ 隨ｬ莠瑚ｨ隱樒ｿ貞ｾ励・闍ｱ隱槫ｭｦ鄙・(second-language-acquisition-english-learning))
 - 2026-05-02 - [[10_Published/07_Technology_Engineering_Computing_AI/3D繝励Μ繝ｳ繝・ぅ繝ｳ繧ｰ譚先侭__3d-printing-materials/3D繝励Μ繝ｳ繧ｿ繝ｼ繝輔ぅ繝ｩ繝｡繝ｳ繝医・譛譁ｰ邏譚舌→2026蟷ｴ譏･縺ｮ繝医Ξ繝ｳ繝雲_3d-printer-filament-trends-2026-spring.md|3D繝励Μ繝ｳ繧ｿ繝ｼ繝輔ぅ繝ｩ繝｡繝ｳ繝医・譛譁ｰ邏譚舌→2026蟷ｴ譏･縺ｮ繝医Ξ繝ｳ繝・(3d-printer-filament-trends-2026-spring)]] (謚陦薙・蟾･蟄ｦ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繝・ぅ繝ｳ繧ｰ繝ｻAI / 3D繝励Μ繝ｳ繝・ぅ繝ｳ繧ｰ譚先侭 (3d-printing-materials))
@@ -47,5 +48,5 @@
 - 2026-05-01 - [[10_Published/01_Life_Health_Medicine/閾ｨ蠎顔ｲｾ逾槫現蟄ｦ繝ｻ邊ｾ逾樒羅逅・ｭｦ__clinical-psychiatry-psychopathology/閾ｨ蠎顔ｲｾ逾槫現蟄ｦ繝ｻ邊ｾ逾樒羅逅・ｭｦ繧貞ｭｦ縺ｶ縺溘ａ縺ｮ繝ｭ繝ｼ繝峨・繝・・__clinical-psychiatry-psychopathology-learning-roadmap.md|閾ｨ蠎顔ｲｾ逾槫現蟄ｦ繝ｻ邊ｾ逾樒羅逅・ｭｦ繧貞ｭｦ縺ｶ縺溘ａ縺ｮ繝ｭ繝ｼ繝峨・繝・・ (clinical-psychiatry-psychopathology-learning-roadmap)]] (逕溷多繝ｻ蛛･蠎ｷ繝ｻ蛹ｻ蟄ｦ / 閾ｨ蠎顔ｲｾ逾槫現蟄ｦ繝ｻ邊ｾ逾樒羅逅・ｭｦ (clinical-psychiatry-psychopathology))
 
 ## Coverage Check
-- Listed articles: 41
-- Filesystem article count: 41
+- Listed articles: 42
+- Filesystem article count: 42

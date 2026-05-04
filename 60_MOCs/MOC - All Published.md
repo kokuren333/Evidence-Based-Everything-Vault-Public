@@ -5,6 +5,7 @@
 
 ## 2026-05-04 Added
 
+- [[10_Published/07_Technology_Engineering_Computing_AI/GPU・並列計算__gpu-parallel-computing/GPUとは何か__what-is-gpu.md|GPUとは何か]]
 - [[10_Published/07_Technology_Engineering_Computing_AI/深層学習アーキテクチャ__deep-learning-architectures/Transformerとは何か：Attention Is All You Needの要点__transformer-attention-is-all-you-need.md|Transformerとは何か：Attention Is All You Needの要点]]
 - [[10_Published/02_Mind_Education_Human_Development/隨ｬ莠瑚ｨ隱樒ｿ貞ｾ励・闍ｱ隱槫ｭｦ鄙胆_second-language-acquisition-english-learning/闍ｱ隱槭ｒ遒ｺ螳溘↓荳企＃縺輔○繧九◆繧√・螳悟・縺ｪ譁ｹ豕戊ｫ棒_complete-methodology-for-improving-english.md|闍ｱ隱槭ｒ遒ｺ螳溘↓荳企＃縺輔○繧九◆繧√・螳悟・縺ｪ譁ｹ豕戊ｫ・(complete-methodology-for-improving-english)]]
 
@@ -79,6 +80,8 @@
 
 ## 謚陦薙・蟾･蟄ｦ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繝・ぅ繝ｳ繧ｰ繝ｻAI
 - Category MOC: [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|07_Technology_Engineering_Computing_AI]]
+- Subfield: [[10_Published/07_Technology_Engineering_Computing_AI/GPU・並列計算__gpu-parallel-computing/_MOC.md|GPU・並列計算 (gpu-parallel-computing)]]
+  - [[10_Published/07_Technology_Engineering_Computing_AI/GPU・並列計算__gpu-parallel-computing/GPUとは何か__what-is-gpu.md|GPUとは何か (what-is-gpu)]]
 - Subfield: [[10_Published/07_Technology_Engineering_Computing_AI/3D繝励Μ繝ｳ繝・ぅ繝ｳ繧ｰ譚先侭__3d-printing-materials/_MOC.md|3D繝励Μ繝ｳ繝・ぅ繝ｳ繧ｰ譚先侭 (3d-printing-materials)]]
   - [[10_Published/07_Technology_Engineering_Computing_AI/3D繝励Μ繝ｳ繝・ぅ繝ｳ繧ｰ譚先侭__3d-printing-materials/3D繝励Μ繝ｳ繧ｿ繝ｼ繝輔ぅ繝ｩ繝｡繝ｳ繝医・譛譁ｰ邏譚舌→2026蟷ｴ譏･縺ｮ繝医Ξ繝ｳ繝雲_3d-printer-filament-trends-2026-spring.md|3D繝励Μ繝ｳ繧ｿ繝ｼ繝輔ぅ繝ｩ繝｡繝ｳ繝医・譛譁ｰ邏譚舌→2026蟷ｴ譏･縺ｮ繝医Ξ繝ｳ繝・(3d-printer-filament-trends-2026-spring)]]
   - [[10_Published/07_Technology_Engineering_Computing_AI/3D繝励Μ繝ｳ繝・ぅ繝ｳ繧ｰ譚先侭__3d-printing-materials/3D繝励Μ繝ｳ繧ｿ繝ｼ繝輔ぅ繝ｩ繝｡繝ｳ繝磯俣縺ｮ謗･逹諤ｧ豈碑ｼダ_filament-adhesion-compatibility.md|3D繝励Μ繝ｳ繧ｿ繝ｼ繝輔ぅ繝ｩ繝｡繝ｳ繝磯俣縺ｮ謗･逹諤ｧ豈碑ｼ・(filament-adhesion-compatibility)]]
