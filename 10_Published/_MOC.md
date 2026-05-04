@@ -5,7 +5,7 @@
 
 ## Category Index
 - [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学 (01_Life_Health_Medicine)]] - 12 subfields, 26 articles
-- [[10_Published/02_Mind_Education_Human_Development/_MOC.md|心理・教育・人間発達 (02_Mind_Education_Human_Development)]] - 3 subfields, 3 articles
+- [[10_Published/02_Mind_Education_Human_Development/_MOC.md|心理・教育・人間発達 (02_Mind_Education_Human_Development)]] - 4 subfields, 4 articles
 - [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|社会・政策・法・ガバナンス (03_Society_Policy_Law_Governance)]] - 1 subfields, 1 articles
 - [[10_Published/04_Economy_Business_Work/_MOC.md|経済・ビジネス・仕事 (04_Economy_Business_Work)]] - 1 subfields, 1 articles
 - [[10_Published/05_Nature_Science_Environment/_MOC.md|自然科学・環境 (05_Nature_Science_Environment)]] - 1 subfields, 1 articles
@@ -33,6 +33,7 @@
 
 ### 心理・教育・人間発達
 - [[10_Published/02_Mind_Education_Human_Development/進化心理学__evolutionary-psychology/_MOC.md|進化心理学 (evolutionary-psychology)]] - 1 articles
+- [[10_Published/02_Mind_Education_Human_Development/英語教育・英文法学習__english-grammar-education/_MOC.md|英語教育・英文法学習 (english-grammar-education)]] - 1 articles
 - [[10_Published/02_Mind_Education_Human_Development/臨床心理・心理療法__clinical-psychology-psychotherapy/_MOC.md|臨床心理・心理療法 (clinical-psychology-psychotherapy)]] - 1 articles
 - [[10_Published/02_Mind_Education_Human_Development/恋愛・親密性研究__romance-intimacy-studies/_MOC.md|恋愛・親密性研究 (romance-intimacy-studies)]] - 1 articles
 
