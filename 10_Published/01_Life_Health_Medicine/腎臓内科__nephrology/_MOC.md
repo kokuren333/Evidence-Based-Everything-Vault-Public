@@ -1,9 +1,9 @@
 # 腎臓内科 MOC
 
 - Scope: published EBE articles in `10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/`.
-- Category: ???????? (`01_Life_Health_Medicine`)
+- Category: 生命・健康・医学 (`01_Life_Health_Medicine`)
 - Articles: 8
-- Rebuilt: 2026-05-04 12:43:16 +09:00
+- Rebuilt: 2026-05-04 12:46:58 +09:00
 
 ## Article Index
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ANCA関連血管炎と腎臓__anca-associated-vasculitis-kidney-nephrology.md|ANCA関連血管炎と腎臓 (anca-associated-vasculitis-kidney-nephrology)]]
@@ -16,5 +16,5 @@
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/透析管理のゴールドスタンダード__dialysis-management-gold-standard.md|透析管理のゴールドスタンダード (dialysis-management-gold-standard)]]
 
 ## Navigation
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|???????? MOC]]
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学 MOC]]
 - [[10_Published/_MOC.md|Published Root MOC]]

@@ -1,10 +1,10 @@
-# ?????????? MOC
+# 数学・論理・形式体系 MOC
 
 - Scope: published EBE articles in this major category.
 - Category path: `10_Published/06_Mathematics_Logic_Formal_Systems`
 - Subfields: 0
 - Articles: 0
-- Rebuilt: 2026-05-04 12:43:16 +09:00
+- Rebuilt: 2026-05-04 12:46:58 +09:00
 
 ## Overview
 This MOC is rebuilt from the current `10_Published/06_Mathematics_Logic_Formal_Systems/` filesystem tree. Every published subfield and article in this category is reachable through the indexes below.

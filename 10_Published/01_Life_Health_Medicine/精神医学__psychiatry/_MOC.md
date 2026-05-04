@@ -1,9 +1,9 @@
 # 精神医学 MOC
 
 - Scope: published EBE articles in `10_Published/01_Life_Health_Medicine/精神医学__psychiatry/`.
-- Category: ???????? (`01_Life_Health_Medicine`)
+- Category: 生命・健康・医学 (`01_Life_Health_Medicine`)
 - Articles: 5
-- Rebuilt: 2026-05-04 12:43:16 +09:00
+- Rebuilt: 2026-05-04 12:46:58 +09:00
 
 ## Article Index
 - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/理論駆動型の計算論的精神医学__theory-driven-computational-psychiatry.md|理論駆動型の計算論的精神医学 (theory-driven-computational-psychiatry)]]
@@ -13,5 +13,5 @@
 - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/計算論的精神医学を専門にするための学習分野と文献ロードマップ__computational-psychiatry-learning-roadmap.md|計算論的精神医学を専門にするための学習分野と文献ロードマップ (computational-psychiatry-learning-roadmap)]]
 
 ## Navigation
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|???????? MOC]]
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学 MOC]]
 - [[10_Published/_MOC.md|Published Root MOC]]

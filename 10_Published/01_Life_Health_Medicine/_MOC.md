@@ -1,10 +1,10 @@
-# ???????? MOC
+# 生命・健康・医学 MOC
 
 - Scope: published EBE articles in this major category.
 - Category path: `10_Published/01_Life_Health_Medicine`
 - Subfields: 12
 - Articles: 26
-- Rebuilt: 2026-05-04 12:43:16 +09:00
+- Rebuilt: 2026-05-04 12:46:58 +09:00
 
 ## Overview
 This MOC is rebuilt from the current `10_Published/01_Life_Health_Medicine/` filesystem tree. Every published subfield and article in this category is reachable through the indexes below.
