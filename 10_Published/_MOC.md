@@ -3,11 +3,11 @@
 - Rebuilt: 2026-05-05 10:13:48 +09:00
 - Categories: 10
 - Subfields: 28
-- Published articles: 43
+- Published articles: 44
 
 ## Category Index
 - [[10_Published/01_Life_Health_Medicine/_MOC.md|01_Life_Health_Medicine]] - 12 subfields, 26 articles
-- [[10_Published/02_Mind_Education_Human_Development/_MOC.md|02_Mind_Education_Human_Development]] - 4 subfields, 4 articles
+- [[10_Published/02_Mind_Education_Human_Development/_MOC.md|02_Mind_Education_Human_Development]] - 4 subfields, 5 articles
 - [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|03_Society_Policy_Law_Governance]] - 1 subfields, 1 articles
 - [[10_Published/04_Economy_Business_Work/_MOC.md|04_Economy_Business_Work]] - 1 subfields, 1 articles
 - [[10_Published/05_Nature_Science_Environment/_MOC.md|05_Nature_Science_Environment]] - 1 subfields, 1 articles
@@ -60,6 +60,7 @@
 ### 02_Mind_Education_Human_Development
 - [[10_Published/02_Mind_Education_Human_Development/恋愛・親密性研究__romance-intimacy-studies/_MOC.md|恋愛・親密性研究 (romance-intimacy-studies)]]
   - [[10_Published/02_Mind_Education_Human_Development/恋愛・親密性研究__romance-intimacy-studies/恋愛工学とは何か__love-engineering.md|恋愛工学とは何か]]
+  - [[10_Published/02_Mind_Education_Human_Development/恋愛・親密性研究__romance-intimacy-studies/with攻略法：価値観・誠実さ・安全性で出会いの質を上げる__with-dating-app-strategy.md|with攻略法：価値観・誠実さ・安全性で出会いの質を上げる]]
 - [[10_Published/02_Mind_Education_Human_Development/第二言語習得・英語学習__second-language-acquisition-english-learning/_MOC.md|第二言語習得・英語学習 (second-language-acquisition-english-learning)]]
   - [[10_Published/02_Mind_Education_Human_Development/第二言語習得・英語学習__second-language-acquisition-english-learning/英語を確実に上達させるための完全な方法論__complete-methodology-for-improving-english.md|英語を確実に上達させるための完全な方法論]]
 - [[10_Published/02_Mind_Education_Human_Development/臨床心理・心理療法__clinical-psychology-psychotherapy/_MOC.md|臨床心理・心理療法 (clinical-psychology-psychotherapy)]]
