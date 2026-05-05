@@ -41,7 +41,7 @@ tags:
   - real-time-adaptive-radiotherapy
 ---
 
-![[肝腫瘍RAR真球状金マーカー留置__hepatic-rar-fiducial-marker.png]]
+![[50_Assets/Infographics/肝腫瘍RAR真球状金マーカー留置__hepatic-rar-fiducial-marker.png]]
 
 図1. 肝腫瘍の呼吸性移動、2 mm真球状金マーカー留置、X線追跡によるゲート照射、対象論文の主要アウトカムをまとめた図解。数値はMoritaらの116手技・115腫瘍の報告に基づき、30回/秒追跡はリアルタイム腫瘍追跡システムの技術背景に基づく。[1][3]
 

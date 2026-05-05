@@ -35,7 +35,7 @@ claim_count: 14
 references_style: "numbered"
 ---
 
-![[gpu-overview-2026-05-04.png]]
+![[50_Assets/Infographics/gpu-overview-2026-05-04.png]]
 
 図1. GPUは、多数の小さな実行器と広いメモリ帯域を使って、同じ種類の処理を大量データへ並列に適用するプロセッサとして理解できる。画像処理だけでなく、CUDA、OpenCL、ROCm、Vulkanなどを通じてAI、科学技術計算、映像処理にも使われる。[1][2][3][4][6]
 
