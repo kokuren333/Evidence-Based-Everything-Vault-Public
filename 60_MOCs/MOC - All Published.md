@@ -1,113 +1,124 @@
-﻿# MOC - All Published
+# MOC - All Published
 
-- Rebuilt: 2026-05-04 00:00:00 +09:00
+- Rebuilt: 2026-05-05 00:00:00 +09:00
 - Canonical root: [[10_Published/_MOC.md|Published Root MOC]]
+- Coverage: 10 categories, 28 subfields, 43 articles
 
-## 2026-05-04 Added
+## Categories
 
-- [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/代表的なカクテルとその作り方__representative-cocktails-how-to-make.md|代表的なカクテルとその作り方]]
-- [[10_Published/07_Technology_Engineering_Computing_AI/GPU・並列計算__gpu-parallel-computing/GPUとは何か__what-is-gpu.md|GPUとは何か]]
-- [[10_Published/07_Technology_Engineering_Computing_AI/深層学習アーキテクチャ__deep-learning-architectures/Transformerとは何か：Attention Is All You Needの要点__transformer-attention-is-all-you-need.md|Transformerとは何か：Attention Is All You Needの要点]]
-- [[10_Published/02_Mind_Education_Human_Development/隨ｬ莠瑚ｨ隱樒ｿ貞ｾ励・闍ｱ隱槫ｭｦ鄙胆_second-language-acquisition-english-learning/闍ｱ隱槭ｒ遒ｺ螳溘↓荳企＃縺輔○繧九◆繧√・螳悟・縺ｪ譁ｹ豕戊ｫ棒_complete-methodology-for-improving-english.md|闍ｱ隱槭ｒ遒ｺ螳溘↓荳企＃縺輔○繧九◆繧√・螳悟・縺ｪ譁ｹ豕戊ｫ・(complete-methodology-for-improving-english)]]
+### 生命・健康・医学
+- Category MOC: [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]]
+- Coverage: 12 subfields, 26 articles
+- Subfield: [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/_MOC.md|免疫疾患 (immune-disorders)]]
+  - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/ANCA関連血管炎の種類と病態__anca-associated-vasculitis-types-pathophysiology.md|ANCA関連血管炎の種類と病態 (anca-associated-vasculitis-types-pathophysiology)]]
+  - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/IgG4関連疾患の疾患概念と病態__igg4-related-disease-concept-pathogenesis.md|IgG4関連疾患の疾患概念と病態 (igg4-related-disease-concept-pathogenesis)]]
+- Subfield: [[10_Published/01_Life_Health_Medicine/医学教育・臨床文書__medical-education-clinical-documentation/_MOC.md|医学教育・臨床文書 (medical-education-clinical-documentation)]]
+  - [[10_Published/01_Life_Health_Medicine/医学教育・臨床文書__medical-education-clinical-documentation/研修医の病歴要約の書き方__resident-case-summary-writing.md|研修医の病歴要約の書き方 (resident-case-summary-writing)]]
+- Subfield: [[10_Published/01_Life_Health_Medicine/放射線治療__radiation-oncology/_MOC.md|放射線治療 (radiation-oncology)]]
+  - [[10_Published/01_Life_Health_Medicine/放射線治療__radiation-oncology/肝腫瘍リアルタイム適応放射線治療の真球状金マーカー留置__hepatic-rar-true-spherical-fiducial-marker.md|肝腫瘍リアルタイム適応放射線治療の真球状金マーカー留置 (hepatic-rar-true-spherical-fiducial-marker)]]
+- Subfield: [[10_Published/01_Life_Health_Medicine/栄養と飲料__nutrition-and-beverages/_MOC.md|栄養と飲料 (nutrition-and-beverages)]]
+  - [[10_Published/01_Life_Health_Medicine/栄養と飲料__nutrition-and-beverages/コーヒーと疾患予防効果およびリスク__coffee-disease-prevention-risks.md|コーヒーと疾患予防効果およびリスク (coffee-disease-prevention-risks)]]
+  - [[10_Published/01_Life_Health_Medicine/栄養と飲料__nutrition-and-beverages/緑茶とジャスミン茶はどちらが身体に良いのか__green-tea-vs-jasmine-tea-health.md|緑茶とジャスミン茶はどちらが身体に良いのか (green-tea-vs-jasmine-tea-health)]]
+- Subfield: [[10_Published/01_Life_Health_Medicine/睡眠医学__sleep-medicine/_MOC.md|睡眠医学 (sleep-medicine)]]
+  - [[10_Published/01_Life_Health_Medicine/睡眠医学__sleep-medicine/睡眠は質と時間ならどちらが重要か__sleep-quality-vs-duration.md|睡眠は質と時間ならどちらが重要か (sleep-quality-vs-duration)]]
+- Subfield: [[10_Published/01_Life_Health_Medicine/神経免疫学__neuroimmunology/_MOC.md|神経免疫学 (neuroimmunology)]]
+  - [[10_Published/01_Life_Health_Medicine/神経免疫学__neuroimmunology/ミクログリアと神経炎症仮説__microglia-neuroinflammation-hypothesis.md|ミクログリアと神経炎症仮説 (microglia-neuroinflammation-hypothesis)]]
+  - [[10_Published/01_Life_Health_Medicine/神経免疫学__neuroimmunology/ミクログリアと脳の炎症・病態__microglia-neuroinflammation-pathophysiology.md|ミクログリアと脳の炎症・病態 (microglia-neuroinflammation-pathophysiology)]]
+- Subfield: [[10_Published/01_Life_Health_Medicine/神経生理学__neurophysiology/_MOC.md|神経生理学 (neurophysiology)]]
+  - [[10_Published/01_Life_Health_Medicine/神経生理学__neurophysiology/神経生理学を始めから丁寧に学ぶ__neurophysiology-from-first-principles.md|神経生理学を始めから丁寧に学ぶ (neurophysiology-from-first-principles)]]
+- Subfield: [[10_Published/01_Life_Health_Medicine/神経薬理学__neuropharmacology/_MOC.md|神経薬理学 (neuropharmacology)]]
+  - [[10_Published/01_Life_Health_Medicine/神経薬理学__neuropharmacology/神経薬理学とは何か__neuropharmacology-overview.md|神経薬理学とは何か (neuropharmacology-overview)]]
+- Subfield: [[10_Published/01_Life_Health_Medicine/神経解剖学__neuroanatomy/_MOC.md|神経解剖学 (neuroanatomy)]]
+  - [[10_Published/01_Life_Health_Medicine/神経解剖学__neuroanatomy/神経解剖学をはじめから学ぶ__neuroanatomy-from-first-principles.md|神経解剖学をはじめから学ぶ (neuroanatomy-from-first-principles)]]
+- Subfield: [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/_MOC.md|精神医学 (psychiatry)]]
+  - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/理論駆動型の計算論的精神医学__theory-driven-computational-psychiatry.md|理論駆動型の計算論的精神医学 (theory-driven-computational-psychiatry)]]
+  - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/神経性やせ症のサブタイプと予後の比較__anorexia-nervosa-subtypes-prognosis.md|神経性やせ症のサブタイプと予後の比較 (anorexia-nervosa-subtypes-prognosis)]]
+  - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/精神科診療でよく出る治療薬：一般名と商品名の対応表__psychiatry-common-medications-generic-brand-list.md|精神科診療でよく出る治療薬：一般名と商品名の対応表 (psychiatry-common-medications-generic-brand-list)]]
+  - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/計算論的精神医学とは何か__computational-psychiatry-overview.md|計算論的精神医学とは何か (computational-psychiatry-overview)]]
+  - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/計算論的精神医学を専門にするための学習分野と文献ロードマップ__computational-psychiatry-learning-roadmap.md|計算論的精神医学を専門にするための学習分野と文献ロードマップ (computational-psychiatry-learning-roadmap)]]
+- Subfield: [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/_MOC.md|腎臓内科 (nephrology)]]
+  - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ANCA関連血管炎と腎臓__anca-associated-vasculitis-kidney-nephrology.md|ANCA関連血管炎と腎臓 (anca-associated-vasculitis-kidney-nephrology)]]
+  - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/IgG4関連疾患と腎機能__igg4-related-disease-kidney-function.md|IgG4関連疾患と腎機能 (igg4-related-disease-kidney-function)]]
+  - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/慢性腎臓病（CKD）の診断と治療__ckd-diagnosis-treatment.md|慢性腎臓病（CKD）の診断と治療 (ckd-diagnosis-treatment)]]
+  - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓の構造と機能__kidney-structure-function-residents.md|腎臓の構造と機能 (kidney-structure-function-residents)]]
+  - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓内科でよく使う薬：一般名と商品名の対応表__nephrology-common-medications-generic-brand-list.md|腎臓内科でよく使う薬：一般名と商品名の対応表 (nephrology-common-medications-generic-brand-list)]]
+  - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓内科学・内科一般を学ぶためのロードマップ__nephrology-internal-medicine-learning-roadmap.md|腎臓内科学・内科一般を学ぶためのロードマップ (nephrology-internal-medicine-learning-roadmap)]]
+  - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/透析管理における血圧・心胸郭比・BNPの立ち位置__dialysis-bp-ctr-bnp-positioning.md|透析管理における血圧・心胸郭比・BNPの立ち位置 (dialysis-bp-ctr-bnp-positioning)]]
+  - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/透析管理のゴールドスタンダード__dialysis-management-gold-standard.md|透析管理のゴールドスタンダード (dialysis-management-gold-standard)]]
+- Subfield: [[10_Published/01_Life_Health_Medicine/臨床精神医学・精神病理学__clinical-psychiatry-psychopathology/_MOC.md|臨床精神医学・精神病理学 (clinical-psychiatry-psychopathology)]]
+  - [[10_Published/01_Life_Health_Medicine/臨床精神医学・精神病理学__clinical-psychiatry-psychopathology/臨床精神医学・精神病理学を学ぶためのロードマップ__clinical-psychiatry-psychopathology-learning-roadmap.md|臨床精神医学・精神病理学を学ぶためのロードマップ (clinical-psychiatry-psychopathology-learning-roadmap)]]
 
-## 逕溷多繝ｻ蛛･蠎ｷ繝ｻ蛹ｻ蟄ｦ
-- Category MOC: [[10_Published/01_Life_Health_Medicine/_MOC.md|01_Life_Health_Medicine]]
-- Subfield: [[10_Published/01_Life_Health_Medicine/蛹ｻ蟄ｦ謨呵ご繝ｻ閾ｨ蠎頑枚譖ｸ__medical-education-clinical-documentation/_MOC.md|蛹ｻ蟄ｦ謨呵ご繝ｻ閾ｨ蠎頑枚譖ｸ (medical-education-clinical-documentation)]]
-  - [[10_Published/01_Life_Health_Medicine/蛹ｻ蟄ｦ謨呵ご繝ｻ閾ｨ蠎頑枚譖ｸ__medical-education-clinical-documentation/遐比ｿｮ蛹ｻ縺ｮ逞・ｭｴ隕∫ｴ・・譖ｸ縺肴婿__resident-case-summary-writing.md|遐比ｿｮ蛹ｻ縺ｮ逞・ｭｴ隕∫ｴ・・譖ｸ縺肴婿 (resident-case-summary-writing)]]
-- Subfield: [[10_Published/01_Life_Health_Medicine/譬・､翫→鬟ｲ譁兩_nutrition-and-beverages/_MOC.md|譬・､翫→鬟ｲ譁・(nutrition-and-beverages)]]
-  - [[10_Published/01_Life_Health_Medicine/譬・､翫→鬟ｲ譁兩_nutrition-and-beverages/繧ｳ繝ｼ繝偵・縺ｨ逍ｾ謔｣莠磯亟蜉ｹ譫懊♀繧医・繝ｪ繧ｹ繧ｯ__coffee-disease-prevention-risks.md|繧ｳ繝ｼ繝偵・縺ｨ逍ｾ謔｣莠磯亟蜉ｹ譫懊♀繧医・繝ｪ繧ｹ繧ｯ (coffee-disease-prevention-risks)]]
-  - [[10_Published/01_Life_Health_Medicine/譬・､翫→鬟ｲ譁兩_nutrition-and-beverages/邱題幻縺ｨ繧ｸ繝｣繧ｹ繝溘Φ闌ｶ縺ｯ縺ｩ縺｡繧峨′霄ｫ菴薙↓濶ｯ縺・・縺祇_green-tea-vs-jasmine-tea-health.md|邱題幻縺ｨ繧ｸ繝｣繧ｹ繝溘Φ闌ｶ縺ｯ縺ｩ縺｡繧峨′霄ｫ菴薙↓濶ｯ縺・・縺・(green-tea-vs-jasmine-tea-health)]]
-- Subfield: [[10_Published/01_Life_Health_Medicine/逾樒ｵ瑚ｧ｣蜑門ｭｦ__neuroanatomy/_MOC.md|逾樒ｵ瑚ｧ｣蜑門ｭｦ (neuroanatomy)]]
-  - [[10_Published/01_Life_Health_Medicine/逾樒ｵ瑚ｧ｣蜑門ｭｦ__neuroanatomy/逾樒ｵ瑚ｧ｣蜑門ｭｦ繧偵・縺倥ａ縺九ｉ蟄ｦ縺ｶ__neuroanatomy-from-first-principles.md|逾樒ｵ瑚ｧ｣蜑門ｭｦ繧偵・縺倥ａ縺九ｉ蟄ｦ縺ｶ (neuroanatomy-from-first-principles)]]
-- Subfield: [[10_Published/01_Life_Health_Medicine/逾樒ｵ檎函逅・ｭｦ__neurophysiology/_MOC.md|逾樒ｵ檎函逅・ｭｦ (neurophysiology)]]
-  - [[10_Published/01_Life_Health_Medicine/逾樒ｵ檎函逅・ｭｦ__neurophysiology/逾樒ｵ檎函逅・ｭｦ繧貞ｧ九ａ縺九ｉ荳∝ｯｧ縺ｫ蟄ｦ縺ｶ__neurophysiology-from-first-principles.md|逾樒ｵ檎函逅・ｭｦ繧貞ｧ九ａ縺九ｉ荳∝ｯｧ縺ｫ蟄ｦ縺ｶ (neurophysiology-from-first-principles)]]
-- Subfield: [[10_Published/01_Life_Health_Medicine/逾樒ｵ悟・逍ｫ蟄ｦ__neuroimmunology/_MOC.md|逾樒ｵ悟・逍ｫ蟄ｦ (neuroimmunology)]]
-  - [[10_Published/01_Life_Health_Medicine/逾樒ｵ悟・逍ｫ蟄ｦ__neuroimmunology/繝溘け繝ｭ繧ｰ繝ｪ繧｢縺ｨ逾樒ｵ檎ｎ逞・ｻｮ隱ｬ__microglia-neuroinflammation-hypothesis.md|繝溘け繝ｭ繧ｰ繝ｪ繧｢縺ｨ逾樒ｵ檎ｎ逞・ｻｮ隱ｬ (microglia-neuroinflammation-hypothesis)]]
-  - [[10_Published/01_Life_Health_Medicine/逾樒ｵ悟・逍ｫ蟄ｦ__neuroimmunology/繝溘け繝ｭ繧ｰ繝ｪ繧｢縺ｨ閼ｳ縺ｮ轤守裸繝ｻ逞・・__microglia-neuroinflammation-pathophysiology.md|繝溘け繝ｭ繧ｰ繝ｪ繧｢縺ｨ閼ｳ縺ｮ轤守裸繝ｻ逞・・ (microglia-neuroinflammation-pathophysiology)]]
-- Subfield: [[10_Published/01_Life_Health_Medicine/逾樒ｵ瑚脈逅・ｭｦ__neuropharmacology/_MOC.md|逾樒ｵ瑚脈逅・ｭｦ (neuropharmacology)]]
-  - [[10_Published/01_Life_Health_Medicine/逾樒ｵ瑚脈逅・ｭｦ__neuropharmacology/逾樒ｵ瑚脈逅・ｭｦ縺ｨ縺ｯ菴輔°__neuropharmacology-overview.md|逾樒ｵ瑚脈逅・ｭｦ縺ｨ縺ｯ菴輔° (neuropharmacology-overview)]]
-- Subfield: [[10_Published/01_Life_Health_Medicine/閻手∮蜀・ｧ狙_nephrology/_MOC.md|閻手∮蜀・ｧ・(nephrology)]]
-  - [[10_Published/01_Life_Health_Medicine/閻手∮蜀・ｧ狙_nephrology/ANCA髢｢騾｣陦邂｡轤弱→閻手∮__anca-associated-vasculitis-kidney-nephrology.md|ANCA髢｢騾｣陦邂｡轤弱→閻手∮ (anca-associated-vasculitis-kidney-nephrology)]]
-  - [[10_Published/01_Life_Health_Medicine/閻手∮蜀・ｧ狙_nephrology/IgG4髢｢騾｣逍ｾ謔｣縺ｨ閻取ｩ溯・__igg4-related-disease-kidney-function.md|IgG4髢｢騾｣逍ｾ謔｣縺ｨ閻取ｩ溯・ (igg4-related-disease-kidney-function)]]
-  - [[10_Published/01_Life_Health_Medicine/閻手∮蜀・ｧ狙_nephrology/閻手∮縺ｮ讒矩縺ｨ讖溯・__kidney-structure-function-residents.md|閻手∮縺ｮ讒矩縺ｨ讖溯・ (kidney-structure-function-residents)]]
-  - [[10_Published/01_Life_Health_Medicine/閻手∮蜀・ｧ狙_nephrology/閻手∮蜀・ｧ代〒繧医￥菴ｿ縺・脈・壻ｸ闊ｬ蜷阪→蝠・刀蜷阪・蟇ｾ蠢懆｡ｨ__nephrology-common-medications-generic-brand-list.md|閻手∮蜀・ｧ代〒繧医￥菴ｿ縺・脈・壻ｸ闊ｬ蜷阪→蝠・刀蜷阪・蟇ｾ蠢懆｡ｨ (nephrology-common-medications-generic-brand-list)]]
-  - [[10_Published/01_Life_Health_Medicine/閻手∮蜀・ｧ狙_nephrology/閻手∮蜀・ｧ大ｭｦ繝ｻ蜀・ｧ台ｸ闊ｬ繧貞ｭｦ縺ｶ縺溘ａ縺ｮ繝ｭ繝ｼ繝峨・繝・・__nephrology-internal-medicine-learning-roadmap.md|閻手∮蜀・ｧ大ｭｦ繝ｻ蜀・ｧ台ｸ闊ｬ繧貞ｭｦ縺ｶ縺溘ａ縺ｮ繝ｭ繝ｼ繝峨・繝・・ (nephrology-internal-medicine-learning-roadmap)]]
-  - [[10_Published/01_Life_Health_Medicine/閻手∮蜀・ｧ狙_nephrology/騾乗梵邂｡逅・↓縺翫￠繧玖｡蝨ｧ繝ｻ蠢・・驛ｭ豈斐・BNP縺ｮ遶九■菴咲ｽｮ__dialysis-bp-ctr-bnp-positioning.md|騾乗梵邂｡逅・↓縺翫￠繧玖｡蝨ｧ繝ｻ蠢・・驛ｭ豈斐・BNP縺ｮ遶九■菴咲ｽｮ (dialysis-bp-ctr-bnp-positioning)]]
-  - [[10_Published/01_Life_Health_Medicine/閻手∮蜀・ｧ狙_nephrology/騾乗梵邂｡逅・・繧ｴ繝ｼ繝ｫ繝峨せ繧ｿ繝ｳ繝繝ｼ繝雲_dialysis-management-gold-standard.md|騾乗梵邂｡逅・・繧ｴ繝ｼ繝ｫ繝峨せ繧ｿ繝ｳ繝繝ｼ繝・(dialysis-management-gold-standard)]]
-  - [[10_Published/01_Life_Health_Medicine/閻手∮蜀・ｧ狙_nephrology/諷｢諤ｧ閻手∮逞・ｼ・KD・峨・險ｺ譁ｭ縺ｨ豐ｻ逋・_ckd-diagnosis-treatment.md|諷｢諤ｧ閻手∮逞・ｼ・KD・峨・險ｺ譁ｭ縺ｨ豐ｻ逋・(ckd-diagnosis-treatment)]]
-- Subfield: [[10_Published/01_Life_Health_Medicine/逹｡逵蛹ｻ蟄ｦ__sleep-medicine/_MOC.md|逹｡逵蛹ｻ蟄ｦ (sleep-medicine)]]
-  - [[10_Published/01_Life_Health_Medicine/逹｡逵蛹ｻ蟄ｦ__sleep-medicine/逹｡逵縺ｯ雉ｪ縺ｨ譎る俣縺ｪ繧峨←縺｡繧峨′驥崎ｦ√°__sleep-quality-vs-duration.md|逹｡逵縺ｯ雉ｪ縺ｨ譎る俣縺ｪ繧峨←縺｡繧峨′驥崎ｦ√° (sleep-quality-vs-duration)]]
-- Subfield: [[10_Published/01_Life_Health_Medicine/邊ｾ逾槫現蟄ｦ__psychiatry/_MOC.md|邊ｾ逾槫現蟄ｦ (psychiatry)]]
-  - [[10_Published/01_Life_Health_Medicine/邊ｾ逾槫現蟄ｦ__psychiatry/險育ｮ苓ｫ也噪邊ｾ逾槫現蟄ｦ縺ｨ縺ｯ菴輔°__computational-psychiatry-overview.md|險育ｮ苓ｫ也噪邊ｾ逾槫現蟄ｦ縺ｨ縺ｯ菴輔° (computational-psychiatry-overview)]]
-  - [[10_Published/01_Life_Health_Medicine/邊ｾ逾槫現蟄ｦ__psychiatry/險育ｮ苓ｫ也噪邊ｾ逾槫現蟄ｦ繧貞ｰる摩縺ｫ縺吶ｋ縺溘ａ縺ｮ蟄ｦ鄙貞・驥弱→譁・鍵繝ｭ繝ｼ繝峨・繝・・__computational-psychiatry-learning-roadmap.md|險育ｮ苓ｫ也噪邊ｾ逾槫現蟄ｦ繧貞ｰる摩縺ｫ縺吶ｋ縺溘ａ縺ｮ蟄ｦ鄙貞・驥弱→譁・鍵繝ｭ繝ｼ繝峨・繝・・ (computational-psychiatry-learning-roadmap)]]
-  - [[10_Published/01_Life_Health_Medicine/邊ｾ逾槫現蟄ｦ__psychiatry/逾樒ｵ梧ｧ繧・○逞・・繧ｵ繝悶ち繧､繝励→莠亥ｾ後・豈碑ｼダ_anorexia-nervosa-subtypes-prognosis.md|逾樒ｵ梧ｧ繧・○逞・・繧ｵ繝悶ち繧､繝励→莠亥ｾ後・豈碑ｼ・(anorexia-nervosa-subtypes-prognosis)]]
-  - [[10_Published/01_Life_Health_Medicine/邊ｾ逾槫現蟄ｦ__psychiatry/邊ｾ逾樒ｧ題ｨｺ逋ゅ〒繧医￥蜃ｺ繧区ｲｻ逋り脈・壻ｸ闊ｬ蜷阪→蝠・刀蜷阪・蟇ｾ蠢懆｡ｨ__psychiatry-common-medications-generic-brand-list.md|邊ｾ逾樒ｧ題ｨｺ逋ゅ〒繧医￥蜃ｺ繧区ｲｻ逋り脈・壻ｸ闊ｬ蜷阪→蝠・刀蜷阪・蟇ｾ蠢懆｡ｨ (psychiatry-common-medications-generic-brand-list)]]
-  - [[10_Published/01_Life_Health_Medicine/邊ｾ逾槫現蟄ｦ__psychiatry/逅・ｫ夜ｧ・虚蝙九・險育ｮ苓ｫ也噪邊ｾ逾槫現蟄ｦ__theory-driven-computational-psychiatry.md|逅・ｫ夜ｧ・虚蝙九・險育ｮ苓ｫ也噪邊ｾ逾槫現蟄ｦ (theory-driven-computational-psychiatry)]]
-- Subfield: [[10_Published/01_Life_Health_Medicine/謾ｾ蟆・ｷ壽ｲｻ逋・_radiation-oncology/_MOC.md|謾ｾ蟆・ｷ壽ｲｻ逋・(radiation-oncology)]]
-  - [[10_Published/01_Life_Health_Medicine/謾ｾ蟆・ｷ壽ｲｻ逋・_radiation-oncology/閧晁・逖阪Μ繧｢繝ｫ繧ｿ繧､繝驕ｩ蠢懈叛蟆・ｷ壽ｲｻ逋ゅ・逵溽帥迥ｶ驥代・繝ｼ繧ｫ繝ｼ逡咏ｽｮ__hepatic-rar-true-spherical-fiducial-marker.md|閧晁・逖阪Μ繧｢繝ｫ繧ｿ繧､繝驕ｩ蠢懈叛蟆・ｷ壽ｲｻ逋ゅ・逵溽帥迥ｶ驥代・繝ｼ繧ｫ繝ｼ逡咏ｽｮ (hepatic-rar-true-spherical-fiducial-marker)]]
-- Subfield: [[10_Published/01_Life_Health_Medicine/蜈咲稔逍ｾ謔｣__immune-disorders/_MOC.md|蜈咲稔逍ｾ謔｣ (immune-disorders)]]
-  - [[10_Published/01_Life_Health_Medicine/蜈咲稔逍ｾ謔｣__immune-disorders/ANCA髢｢騾｣陦邂｡轤弱・遞ｮ鬘槭→逞・・__anca-associated-vasculitis-types-pathophysiology.md|ANCA髢｢騾｣陦邂｡轤弱・遞ｮ鬘槭→逞・・ (anca-associated-vasculitis-types-pathophysiology)]]
-  - [[10_Published/01_Life_Health_Medicine/蜈咲稔逍ｾ謔｣__immune-disorders/IgG4髢｢騾｣逍ｾ謔｣縺ｮ逍ｾ謔｣讎ょｿｵ縺ｨ逞・・__igg4-related-disease-concept-pathogenesis.md|IgG4髢｢騾｣逍ｾ謔｣縺ｮ逍ｾ謔｣讎ょｿｵ縺ｨ逞・・ (igg4-related-disease-concept-pathogenesis)]]
-- Subfield: [[10_Published/01_Life_Health_Medicine/閾ｨ蠎顔ｲｾ逾槫現蟄ｦ繝ｻ邊ｾ逾樒羅逅・ｭｦ__clinical-psychiatry-psychopathology/_MOC.md|閾ｨ蠎顔ｲｾ逾槫現蟄ｦ繝ｻ邊ｾ逾樒羅逅・ｭｦ (clinical-psychiatry-psychopathology)]]
-  - [[10_Published/01_Life_Health_Medicine/閾ｨ蠎顔ｲｾ逾槫現蟄ｦ繝ｻ邊ｾ逾樒羅逅・ｭｦ__clinical-psychiatry-psychopathology/閾ｨ蠎顔ｲｾ逾槫現蟄ｦ繝ｻ邊ｾ逾樒羅逅・ｭｦ繧貞ｭｦ縺ｶ縺溘ａ縺ｮ繝ｭ繝ｼ繝峨・繝・・__clinical-psychiatry-psychopathology-learning-roadmap.md|閾ｨ蠎顔ｲｾ逾槫現蟄ｦ繝ｻ邊ｾ逾樒羅逅・ｭｦ繧貞ｭｦ縺ｶ縺溘ａ縺ｮ繝ｭ繝ｼ繝峨・繝・・ (clinical-psychiatry-psychopathology-learning-roadmap)]]
+### 心理・教育・人間発達
+- Category MOC: [[10_Published/02_Mind_Education_Human_Development/_MOC.md|心理・教育・人間発達]]
+- Coverage: 4 subfields, 4 articles
+- Subfield: [[10_Published/02_Mind_Education_Human_Development/恋愛・親密性研究__romance-intimacy-studies/_MOC.md|恋愛・親密性研究 (romance-intimacy-studies)]]
+  - [[10_Published/02_Mind_Education_Human_Development/恋愛・親密性研究__romance-intimacy-studies/恋愛工学とは何か__love-engineering.md|恋愛工学とは何か (love-engineering)]]
+- Subfield: [[10_Published/02_Mind_Education_Human_Development/第二言語習得・英語学習__second-language-acquisition-english-learning/_MOC.md|第二言語習得・英語学習 (second-language-acquisition-english-learning)]]
+  - [[10_Published/02_Mind_Education_Human_Development/第二言語習得・英語学習__second-language-acquisition-english-learning/英語を確実に上達させるための完全な方法論__complete-methodology-for-improving-english.md|英語を確実に上達させるための完全な方法論 (complete-methodology-for-improving-english)]]
+- Subfield: [[10_Published/02_Mind_Education_Human_Development/臨床心理・心理療法__clinical-psychology-psychotherapy/_MOC.md|臨床心理・心理療法 (clinical-psychology-psychotherapy)]]
+  - [[10_Published/02_Mind_Education_Human_Development/臨床心理・心理療法__clinical-psychology-psychotherapy/好性転移を起こした患者への対応方法__erotic-transference-management.md|好性転移を起こした患者への対応方法 (erotic-transference-management)]]
+- Subfield: [[10_Published/02_Mind_Education_Human_Development/進化心理学__evolutionary-psychology/_MOC.md|進化心理学 (evolutionary-psychology)]]
+  - [[10_Published/02_Mind_Education_Human_Development/進化心理学__evolutionary-psychology/恋愛と進化心理学：進化心理学とは__love-and-evolutionary-psychology-overview.md|恋愛と進化心理学：進化心理学とは (love-and-evolutionary-psychology-overview)]]
 
-## 蠢・炊繝ｻ謨呵ご繝ｻ莠ｺ髢鍋匱驕・
-- Category MOC: [[10_Published/02_Mind_Education_Human_Development/_MOC.md|02_Mind_Education_Human_Development]]
-- Subfield: [[10_Published/02_Mind_Education_Human_Development/騾ｲ蛹門ｿ・炊蟄ｦ__evolutionary-psychology/_MOC.md|騾ｲ蛹門ｿ・炊蟄ｦ (evolutionary-psychology)]]
-  - [[10_Published/02_Mind_Education_Human_Development/騾ｲ蛹門ｿ・炊蟄ｦ__evolutionary-psychology/諱区・縺ｨ騾ｲ蛹門ｿ・炊蟄ｦ・夐ｲ蛹門ｿ・炊蟄ｦ縺ｨ縺ｯ__love-and-evolutionary-psychology-overview.md|諱区・縺ｨ騾ｲ蛹門ｿ・炊蟄ｦ・夐ｲ蛹門ｿ・炊蟄ｦ縺ｨ縺ｯ (love-and-evolutionary-psychology-overview)]]
-- Subfield: [[10_Published/02_Mind_Education_Human_Development/閾ｨ蠎雁ｿ・炊繝ｻ蠢・炊逋よｳ廟_clinical-psychology-psychotherapy/_MOC.md|閾ｨ蠎雁ｿ・炊繝ｻ蠢・炊逋よｳ・(clinical-psychology-psychotherapy)]]
-  - [[10_Published/02_Mind_Education_Human_Development/閾ｨ蠎雁ｿ・炊繝ｻ蠢・炊逋よｳ廟_clinical-psychology-psychotherapy/螂ｽ諤ｧ霆｢遘ｻ繧定ｵｷ縺薙＠縺滓ぅ閠・∈縺ｮ蟇ｾ蠢懈婿豕廟_erotic-transference-management.md|螂ｽ諤ｧ霆｢遘ｻ繧定ｵｷ縺薙＠縺滓ぅ閠・∈縺ｮ蟇ｾ蠢懈婿豕・(erotic-transference-management)]]
-- Subfield: [[10_Published/02_Mind_Education_Human_Development/諱区・繝ｻ隕ｪ蟇・ｧ遐皮ｩｶ__romance-intimacy-studies/_MOC.md|諱区・繝ｻ隕ｪ蟇・ｧ遐皮ｩｶ (romance-intimacy-studies)]]
-  - [[10_Published/02_Mind_Education_Human_Development/諱区・繝ｻ隕ｪ蟇・ｧ遐皮ｩｶ__romance-intimacy-studies/諱区・蟾･蟄ｦ縺ｨ縺ｯ菴輔°__love-engineering.md|諱区・蟾･蟄ｦ縺ｨ縺ｯ菴輔° (love-engineering)]]
+### 社会・政策・法・ガバナンス
+- Category MOC: [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|社会・政策・法・ガバナンス]]
+- Coverage: 1 subfields, 1 articles
+- Subfield: [[10_Published/03_Society_Policy_Law_Governance/国際安全保障・戦争研究__international-security-war-studies/_MOC.md|国際安全保障・戦争研究 (international-security-war-studies)]]
+  - [[10_Published/03_Society_Policy_Law_Governance/国際安全保障・戦争研究__international-security-war-studies/現在の世界情勢を戦争の観点から読む__world-war-situation-2026-05-01.md|現在の世界情勢を戦争の観点から読む (world-war-situation-2026-05-01)]]
 
-## 遉ｾ莨壹・謾ｿ遲悶・豕輔・繧ｬ繝舌リ繝ｳ繧ｹ
-- Category MOC: [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|03_Society_Policy_Law_Governance]]
-- Subfield: [[10_Published/03_Society_Policy_Law_Governance/蝗ｽ髫帛ｮ牙・菫晞囿繝ｻ謌ｦ莠臥皮ｩｶ__international-security-war-studies/_MOC.md|蝗ｽ髫帛ｮ牙・菫晞囿繝ｻ謌ｦ莠臥皮ｩｶ (international-security-war-studies)]]
-  - [[10_Published/03_Society_Policy_Law_Governance/蝗ｽ髫帛ｮ牙・菫晞囿繝ｻ謌ｦ莠臥皮ｩｶ__international-security-war-studies/迴ｾ蝨ｨ縺ｮ荳也阜諠・兇繧呈姶莠峨・隕ｳ轤ｹ縺九ｉ隱ｭ繧__world-war-situation-2026-05-01.md|迴ｾ蝨ｨ縺ｮ荳也阜諠・兇繧呈姶莠峨・隕ｳ轤ｹ縺九ｉ隱ｭ繧 (world-war-situation-2026-05-01)]]
+### 経済・ビジネス・仕事
+- Category MOC: [[10_Published/04_Economy_Business_Work/_MOC.md|経済・ビジネス・仕事]]
+- Coverage: 1 subfields, 1 articles
+- Subfield: [[10_Published/04_Economy_Business_Work/個人資産形成__personal-wealth-building/_MOC.md|個人資産形成 (personal-wealth-building)]]
+  - [[10_Published/04_Economy_Business_Work/個人資産形成__personal-wealth-building/日本における株式投資のスタンダード戦略__japan-stock-investing-standard-strategy.md|日本における株式投資のスタンダード戦略 (japan-stock-investing-standard-strategy)]]
 
-## 邨梧ｸ医・繝薙ず繝阪せ繝ｻ莉穂ｺ・
-- Category MOC: [[10_Published/04_Economy_Business_Work/_MOC.md|04_Economy_Business_Work]]
-- Subfield: [[10_Published/04_Economy_Business_Work/蛟倶ｺｺ雉・肇蠖｢謌神_personal-wealth-building/_MOC.md|蛟倶ｺｺ雉・肇蠖｢謌・(personal-wealth-building)]]
-  - [[10_Published/04_Economy_Business_Work/蛟倶ｺｺ雉・肇蠖｢謌神_personal-wealth-building/譌･譛ｬ縺ｫ縺翫￠繧区ｪ蠑乗兜雉・・繧ｹ繧ｿ繝ｳ繝繝ｼ繝画姶逡･__japan-stock-investing-standard-strategy.md|譌･譛ｬ縺ｫ縺翫￠繧区ｪ蠑乗兜雉・・繧ｹ繧ｿ繝ｳ繝繝ｼ繝画姶逡･ (japan-stock-investing-standard-strategy)]]
+### 自然科学・環境
+- Category MOC: [[10_Published/05_Nature_Science_Environment/_MOC.md|自然科学・環境]]
+- Coverage: 1 subfields, 1 articles
+- Subfield: [[10_Published/05_Nature_Science_Environment/大気光学__atmospheric-optics/_MOC.md|大気光学 (atmospheric-optics)]]
+  - [[10_Published/05_Nature_Science_Environment/大気光学__atmospheric-optics/空が青く見える理由__why-sky-appears-blue.md|空が青く見える理由 (why-sky-appears-blue)]]
 
-## 閾ｪ辟ｶ遘大ｭｦ繝ｻ迺ｰ蠅・
-- Category MOC: [[10_Published/05_Nature_Science_Environment/_MOC.md|05_Nature_Science_Environment]]
-- Subfield: [[10_Published/05_Nature_Science_Environment/螟ｧ豌怜・蟄ｦ__atmospheric-optics/_MOC.md|螟ｧ豌怜・蟄ｦ (atmospheric-optics)]]
-  - [[10_Published/05_Nature_Science_Environment/螟ｧ豌怜・蟄ｦ__atmospheric-optics/遨ｺ縺碁搨縺剰ｦ九∴繧狗炊逕ｱ__why-sky-appears-blue.md|遨ｺ縺碁搨縺剰ｦ九∴繧狗炊逕ｱ (why-sky-appears-blue)]]
-
-## 謨ｰ蟄ｦ繝ｻ隲也炊繝ｻ蠖｢蠑丈ｽ鍋ｳｻ
-- Category MOC: [[10_Published/06_Mathematics_Logic_Formal_Systems/_MOC.md|06_Mathematics_Logic_Formal_Systems]]
+### 数学・論理・形式体系
+- Category MOC: [[10_Published/06_Mathematics_Logic_Formal_Systems/_MOC.md|数学・論理・形式体系]]
+- Coverage: 0 subfields, 0 articles
 - No published articles yet.
 
-## 謚陦薙・蟾･蟄ｦ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繝・ぅ繝ｳ繧ｰ繝ｻAI
-- Category MOC: [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|07_Technology_Engineering_Computing_AI]]
+### 技術・工学・コンピューティング・AI
+- Category MOC: [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|技術・工学・コンピューティング・AI]]
+- Coverage: 5 subfields, 6 articles
+- Subfield: [[10_Published/07_Technology_Engineering_Computing_AI/3Dプリンティング材料__3d-printing-materials/_MOC.md|3Dプリンティング材料 (3d-printing-materials)]]
+  - [[10_Published/07_Technology_Engineering_Computing_AI/3Dプリンティング材料__3d-printing-materials/3Dプリンターフィラメントの最新素材と2026年春のトレンド__3d-printer-filament-trends-2026-spring.md|3Dプリンターフィラメントの最新素材と2026年春のトレンド (3d-printer-filament-trends-2026-spring)]]
+  - [[10_Published/07_Technology_Engineering_Computing_AI/3Dプリンティング材料__3d-printing-materials/3Dプリンターフィラメント間の接着性比較__filament-adhesion-compatibility.md|3Dプリンターフィラメント間の接着性比較 (filament-adhesion-compatibility)]]
 - Subfield: [[10_Published/07_Technology_Engineering_Computing_AI/GPU・並列計算__gpu-parallel-computing/_MOC.md|GPU・並列計算 (gpu-parallel-computing)]]
   - [[10_Published/07_Technology_Engineering_Computing_AI/GPU・並列計算__gpu-parallel-computing/GPUとは何か__what-is-gpu.md|GPUとは何か (what-is-gpu)]]
-- Subfield: [[10_Published/07_Technology_Engineering_Computing_AI/3D繝励Μ繝ｳ繝・ぅ繝ｳ繧ｰ譚先侭__3d-printing-materials/_MOC.md|3D繝励Μ繝ｳ繝・ぅ繝ｳ繧ｰ譚先侭 (3d-printing-materials)]]
-  - [[10_Published/07_Technology_Engineering_Computing_AI/3D繝励Μ繝ｳ繝・ぅ繝ｳ繧ｰ譚先侭__3d-printing-materials/3D繝励Μ繝ｳ繧ｿ繝ｼ繝輔ぅ繝ｩ繝｡繝ｳ繝医・譛譁ｰ邏譚舌→2026蟷ｴ譏･縺ｮ繝医Ξ繝ｳ繝雲_3d-printer-filament-trends-2026-spring.md|3D繝励Μ繝ｳ繧ｿ繝ｼ繝輔ぅ繝ｩ繝｡繝ｳ繝医・譛譁ｰ邏譚舌→2026蟷ｴ譏･縺ｮ繝医Ξ繝ｳ繝・(3d-printer-filament-trends-2026-spring)]]
-  - [[10_Published/07_Technology_Engineering_Computing_AI/3D繝励Μ繝ｳ繝・ぅ繝ｳ繧ｰ譚先侭__3d-printing-materials/3D繝励Μ繝ｳ繧ｿ繝ｼ繝輔ぅ繝ｩ繝｡繝ｳ繝磯俣縺ｮ謗･逹諤ｧ豈碑ｼダ_filament-adhesion-compatibility.md|3D繝励Μ繝ｳ繧ｿ繝ｼ繝輔ぅ繝ｩ繝｡繝ｳ繝磯俣縺ｮ謗･逹諤ｧ豈碑ｼ・(filament-adhesion-compatibility)]]
-- Subfield: [[10_Published/07_Technology_Engineering_Computing_AI/讖区｢∬ｨｭ險医・邯ｭ謖∫ｮ｡逅・_bridge-design-maintenance/_MOC.md|讖区｢∬ｨｭ險医・邯ｭ謖∫ｮ｡逅・(bridge-design-maintenance)]]
-  - [[10_Published/07_Technology_Engineering_Computing_AI/讖区｢∬ｨｭ險医・邯ｭ謖∫ｮ｡逅・_bridge-design-maintenance/荳ｻ縺ｫ譌･譛ｬ縺ｫ縺翫￠繧区ｩ区｢∬ｨｭ險医・莉雁ｾ後←縺・､峨ｏ繧九°__future-of-bridge-design-in-japan.md|荳ｻ縺ｫ譌･譛ｬ縺ｫ縺翫￠繧区ｩ区｢∬ｨｭ險医・莉雁ｾ後←縺・､峨ｏ繧九° (future-of-bridge-design-in-japan)]]
-- Subfield: [[10_Published/07_Technology_Engineering_Computing_AI/謨ｰ蛟､險育ｮ励・遘大ｭｦ謚陦楢ｨ育ｮ誉_numerical-scientific-computing/_MOC.md|謨ｰ蛟､險育ｮ励・遘大ｭｦ謚陦楢ｨ育ｮ・(numerical-scientific-computing)]]
-  - [[10_Published/07_Technology_Engineering_Computing_AI/謨ｰ蛟､險育ｮ励・遘大ｭｦ謚陦楢ｨ育ｮ誉_numerical-scientific-computing/NumPy縺ｫ縺翫￠繧倶ｸｻ隕√↑讒区枚繧・未謨ｰ__numpy-main-syntax-functions.md|NumPy縺ｫ縺翫￠繧倶ｸｻ隕√↑讒区枚繧・未謨ｰ (numpy-main-syntax-functions)]]
+- Subfield: [[10_Published/07_Technology_Engineering_Computing_AI/数値計算・科学技術計算__numerical-scientific-computing/_MOC.md|数値計算・科学技術計算 (numerical-scientific-computing)]]
+  - [[10_Published/07_Technology_Engineering_Computing_AI/数値計算・科学技術計算__numerical-scientific-computing/NumPyにおける主要な構文や関数__numpy-main-syntax-functions.md|NumPyにおける主要な構文や関数 (numpy-main-syntax-functions)]]
+- Subfield: [[10_Published/07_Technology_Engineering_Computing_AI/橋梁設計・維持管理__bridge-design-maintenance/_MOC.md|橋梁設計・維持管理 (bridge-design-maintenance)]]
+  - [[10_Published/07_Technology_Engineering_Computing_AI/橋梁設計・維持管理__bridge-design-maintenance/主に日本における橋梁設計は今後どう変わるか__future-of-bridge-design-in-japan.md|主に日本における橋梁設計は今後どう変わるか (future-of-bridge-design-in-japan)]]
+- Subfield: [[10_Published/07_Technology_Engineering_Computing_AI/深層学習アーキテクチャ__deep-learning-architectures/_MOC.md|深層学習アーキテクチャ (deep-learning-architectures)]]
+  - [[10_Published/07_Technology_Engineering_Computing_AI/深層学習アーキテクチャ__deep-learning-architectures/Transformerとは何か：Attention Is All You Needの要点__transformer-attention-is-all-you-need.md|Transformerとは何か：Attention Is All You Needの要点 (transformer-attention-is-all-you-need)]]
 
-## 莠ｺ譁・・豁ｴ蜿ｲ繝ｻ譁・喧繝ｻ闃ｸ陦・
-- Category MOC: [[10_Published/08_Humanities_History_Culture_Arts/_MOC.md|08_Humanities_History_Culture_Arts]]
-- Subfield: [[10_Published/08_Humanities_History_Culture_Arts/鬟滓枚蛹門彰__food-culture-history/_MOC.md|鬟滓枚蛹門彰 (food-culture-history)]]
-  - [[10_Published/08_Humanities_History_Culture_Arts/鬟滓枚蛹門彰__food-culture-history/繝輔Λ繝ｳ繧ｹ譁咏炊縺ｮ豁ｴ蜿ｲ__french-cuisine-history.md|繝輔Λ繝ｳ繧ｹ譁咏炊縺ｮ豁ｴ蜿ｲ (french-cuisine-history)]]
+### 人文・歴史・文化・芸術
+- Category MOC: [[10_Published/08_Humanities_History_Culture_Arts/_MOC.md|人文・歴史・文化・芸術]]
+- Coverage: 1 subfields, 1 articles
+- Subfield: [[10_Published/08_Humanities_History_Culture_Arts/食文化史__food-culture-history/_MOC.md|食文化史 (food-culture-history)]]
+  - [[10_Published/08_Humanities_History_Culture_Arts/食文化史__food-culture-history/フランス料理の歴史__french-cuisine-history.md|フランス料理の歴史 (french-cuisine-history)]]
 
-## 諠・ｱ繝ｻ繝｡繝・ぅ繧｢繝ｻOSINT繝ｻ繧ｻ繧ｭ繝･繝ｪ繝・ぅ
-- Category MOC: [[10_Published/09_Information_Media_OSINT_Security/_MOC.md|09_Information_Media_OSINT_Security]]
+### 情報・メディア・OSINT・セキュリティ
+- Category MOC: [[10_Published/09_Information_Media_OSINT_Security/_MOC.md|情報・メディア・OSINT・セキュリティ]]
+- Coverage: 0 subfields, 0 articles
 - No published articles yet.
 
-## 繝ｩ繧､繝輔ョ繧ｶ繧､繝ｳ繝ｻ螳溯ｷｵ繝ｻ蜑ｵ菴・
-- Category MOC: [[10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md|10_Life_Design_Practice_Creative_Work]]
-- Subfield: [[10_Published/10_Life_Design_Practice_Creative_Work/蛹玲ｵｷ驕薙げ繝ｫ繝｡螳溯ｷｵ__hokkaido-food-practice/_MOC.md|蛹玲ｵｷ驕薙げ繝ｫ繝｡螳溯ｷｵ (hokkaido-food-practice)]]
-  - [[10_Published/10_Life_Design_Practice_Creative_Work/蛹玲ｵｷ驕薙げ繝ｫ繝｡螳溯ｷｵ__hokkaido-food-practice/蛹玲ｵｷ驕薙・螟懊Λ繝ｼ繝｡繝ｳ譯亥・__hokkaido-night-ramen-guide.md|蛹玲ｵｷ驕薙・螟懊Λ繝ｼ繝｡繝ｳ譯亥・ (hokkaido-night-ramen-guide)]]
-- Subfield: [[10_Published/10_Life_Design_Practice_Creative_Work/譁咏炊螳溯ｷｵ__cooking-practice/_MOC.md|譁咏炊螳溯ｷｵ (cooking-practice)]]
-  - [[10_Published/10_Life_Design_Practice_Creative_Work/譁咏炊螳溯ｷｵ__cooking-practice/鄒主袖縺励＞蜚先恕縺偵・菴懊ｊ譁ｹ繝ｬ繧ｷ繝農_karaage-recipe-evidence-based.md|鄒主袖縺励＞蜚先恕縺偵・菴懊ｊ譁ｹ繝ｬ繧ｷ繝・(karaage-recipe-evidence-based)]]
-
-### Supplemental 2026-05-04
-
+### ライフデザイン・実践・創作
+- Category MOC: [[10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md|ライフデザイン・実践・創作]]
+- Coverage: 3 subfields, 3 articles
+- Subfield: [[10_Published/10_Life_Design_Practice_Creative_Work/北海道グルメ実践__hokkaido-food-practice/_MOC.md|北海道グルメ実践 (hokkaido-food-practice)]]
+  - [[10_Published/10_Life_Design_Practice_Creative_Work/北海道グルメ実践__hokkaido-food-practice/北海道の夜ラーメン案内__hokkaido-night-ramen-guide.md|北海道の夜ラーメン案内 (hokkaido-night-ramen-guide)]]
+- Subfield: [[10_Published/10_Life_Design_Practice_Creative_Work/料理実践__cooking-practice/_MOC.md|料理実践 (cooking-practice)]]
+  - [[10_Published/10_Life_Design_Practice_Creative_Work/料理実践__cooking-practice/美味しい唐揚げの作り方レシピ__karaage-recipe-evidence-based.md|美味しい唐揚げの作り方レシピ (karaage-recipe-evidence-based)]]
 - Subfield: [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/_MOC.md|飲食実践 (food-and-drink-practice)]]
   - [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/代表的なカクテルとその作り方__representative-cocktails-how-to-make.md|代表的なカクテルとその作り方 (representative-cocktails-how-to-make)]]
+
+## Coverage Check
+- Generated from `10_Published/` filesystem tree.
+- No supplemental append-only sections are used; this file is a full rebuild.

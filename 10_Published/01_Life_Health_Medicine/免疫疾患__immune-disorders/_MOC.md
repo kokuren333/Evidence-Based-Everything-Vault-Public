@@ -1,14 +1,14 @@
-# 免疫疾患
+# 免疫疾患 MOC
 
+- Rebuilt: 2026-05-05 00:00:00 +09:00
 - Category: [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]]
-- Subfield slug: immune-disorders
-- Rebuilt: 2026-05-04 00:00:00 +09:00
-- Source of truth: 10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/
+- Subfield path: `10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/`
+- Coverage: 2 articles
 
-## Published Articles
-- [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/ANCA関連血管炎の種類と病態__anca-associated-vasculitis-types-pathophysiology.md|ANCA関連血管炎の種類と病態 (anca-associated-vasculitis-types-pathophysiology)]]
-- [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/IgG4関連疾患の疾患概念と病態__igg4-related-disease-concept-pathogenesis.md|IgG4関連疾患の疾患概念と病態 (igg4-related-disease-concept-pathogenesis)]]
+## Articles
+- [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/ANCA関連血管炎の種類と病態__anca-associated-vasculitis-types-pathophysiology.md|ANCA関連血管炎の種類と病態]]
+- [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/IgG4関連疾患の疾患概念と病態__igg4-related-disease-concept-pathogenesis.md|IgG4関連疾患の疾患概念と病態]]
 
 ## Coverage Check
-- This MOC lists every non-MOC Markdown article in this subfield directory.
-- No article body files were edited during this repair.
+- This MOC is generated from the current subfield directory.
+- Every article file in this subfield is linked above.
