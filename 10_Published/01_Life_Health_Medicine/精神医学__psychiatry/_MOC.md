@@ -1,9 +1,9 @@
 # 精神医学 MOC
 
-- Rebuilt: 2026-05-05 00:00:00 +09:00
-- Category: [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]]
-- Subfield path: `10_Published/01_Life_Health_Medicine/精神医学__psychiatry/`
-- Coverage: 5 articles
+- Category: [[10_Published/01_Life_Health_Medicine/_MOC.md|01_Life_Health_Medicine]]
+- Subfield slug: `psychiatry`
+- Rebuilt: 2026-05-05 10:13:48 +09:00
+- Published articles: 5
 
 ## Articles
 - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/理論駆動型の計算論的精神医学__theory-driven-computational-psychiatry.md|理論駆動型の計算論的精神医学]]
@@ -12,6 +12,6 @@
 - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/計算論的精神医学とは何か__computational-psychiatry-overview.md|計算論的精神医学とは何か]]
 - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/計算論的精神医学を専門にするための学習分野と文献ロードマップ__computational-psychiatry-learning-roadmap.md|計算論的精神医学を専門にするための学習分野と文献ロードマップ]]
 
-## Coverage Check
-- This MOC is generated from the current subfield directory.
-- Every article file in this subfield is linked above.
+## Related MOCs
+- [[10_Published/_MOC.md|Published Root MOC]]
+- [[60_MOCs/MOC - All Published.md|MOC - All Published]]

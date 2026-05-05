@@ -1,9 +1,9 @@
 # 腎臓内科 MOC
 
-- Rebuilt: 2026-05-05 00:00:00 +09:00
-- Category: [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]]
-- Subfield path: `10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/`
-- Coverage: 8 articles
+- Category: [[10_Published/01_Life_Health_Medicine/_MOC.md|01_Life_Health_Medicine]]
+- Subfield slug: `nephrology`
+- Rebuilt: 2026-05-05 10:13:48 +09:00
+- Published articles: 8
 
 ## Articles
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ANCA関連血管炎と腎臓__anca-associated-vasculitis-kidney-nephrology.md|ANCA関連血管炎と腎臓]]
@@ -15,6 +15,6 @@
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/透析管理における血圧・心胸郭比・BNPの立ち位置__dialysis-bp-ctr-bnp-positioning.md|透析管理における血圧・心胸郭比・BNPの立ち位置]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/透析管理のゴールドスタンダード__dialysis-management-gold-standard.md|透析管理のゴールドスタンダード]]
 
-## Coverage Check
-- This MOC is generated from the current subfield directory.
-- Every article file in this subfield is linked above.
+## Related MOCs
+- [[10_Published/_MOC.md|Published Root MOC]]
+- [[60_MOCs/MOC - All Published.md|MOC - All Published]]

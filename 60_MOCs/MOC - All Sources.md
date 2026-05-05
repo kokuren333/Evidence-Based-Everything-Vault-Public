@@ -1,22 +1,19 @@
-﻿# MOC - All Sources
-
-- Rebuilt: 2026-05-04 00:00:00 +09:00
-- Source of truth: 30_Sources/ filesystem tree
-
-## Files
-- [[30_Sources/07_Technology_Engineering_Computing_AI/深層学習アーキテクチャ__deep-learning-architectures/transformer-attention-is-all-you-need_sources.md|transformer-attention-is-all-you-need_sources]]
+# MOC - All Sources  - Rebuilt: 2026-05-05 10:07:12 +09:00 - Count: 31 source notes  ## Index
 - [[30_Sources/01_Life_Health_Medicine/nephrology/kidney-structure-function-residents_sources.md|kidney-structure-function-residents_sources]]
-- [[30_Sources/01_Life_Health_Medicine/逾樒ｵ瑚ｧ｣蜑門ｭｦ__neuroanatomy/neuroanatomy-from-first-principles_sources.md|neuroanatomy-from-first-principles_sources]]
-- [[30_Sources/01_Life_Health_Medicine/逾樒ｵ檎函逅・ｭｦ__neurophysiology/sources.md|sources]]
-- [[30_Sources/01_Life_Health_Medicine/閻手∮蜀・ｧ狙_nephrology/ckd-diagnosis-treatment_sources.md|ckd-diagnosis-treatment_sources]]
-- [[30_Sources/01_Life_Health_Medicine/閻手∮蜀・ｧ狙_nephrology/dialysis-bp-ctr-bnp-positioning_sources.md|dialysis-bp-ctr-bnp-positioning_sources]]
-- [[30_Sources/01_Life_Health_Medicine/閻手∮蜀・ｧ狙_nephrology/dialysis-management-gold-standard_sources.md|dialysis-management-gold-standard_sources]]
-- [[30_Sources/01_Life_Health_Medicine/閻手∮蜀・ｧ狙_nephrology/nephrology-common-medications-sources.md|nephrology-common-medications-sources]]
-- [[30_Sources/01_Life_Health_Medicine/閻手∮蜀・ｧ狙_nephrology/nephrology-internal-medicine-learning-roadmap_sources.md|nephrology-internal-medicine-learning-roadmap_sources]]
-- [[30_Sources/01_Life_Health_Medicine/邊ｾ逾槫現蟄ｦ__psychiatry/anorexia-nervosa-subtypes-prognosis_source-registry.md|anorexia-nervosa-subtypes-prognosis_source-registry]]
+- [[30_Sources/01_Life_Health_Medicine/神経解剖学__neuroanatomy/neuroanatomy-from-first-principles_sources.md|neuroanatomy-from-first-principles_sources]]
+- [[30_Sources/01_Life_Health_Medicine/神経生理学__neurophysiology/sources.md|sources]]
+- [[30_Sources/01_Life_Health_Medicine/腎臓内科__nephrology/ckd-diagnosis-treatment_sources.md|ckd-diagnosis-treatment_sources]]
+- [[30_Sources/01_Life_Health_Medicine/腎臓内科__nephrology/dialysis-bp-ctr-bnp-positioning_sources.md|dialysis-bp-ctr-bnp-positioning_sources]]
+- [[30_Sources/01_Life_Health_Medicine/腎臓内科__nephrology/dialysis-management-gold-standard_sources.md|dialysis-management-gold-standard_sources]]
+- [[30_Sources/01_Life_Health_Medicine/腎臓内科__nephrology/nephrology-common-medications-sources.md|nephrology-common-medications-sources]]
+- [[30_Sources/01_Life_Health_Medicine/腎臓内科__nephrology/nephrology-internal-medicine-learning-roadmap_sources.md|nephrology-internal-medicine-learning-roadmap_sources]]
+- [[30_Sources/01_Life_Health_Medicine/精神医学__psychiatry/anorexia-nervosa-subtypes-prognosis_source-registry.md|anorexia-nervosa-subtypes-prognosis_source-registry]]
+- [[30_Sources/02_Mind_Education_Human_Development/第二言語習得・英語学習__second-language-acquisition-english-learning/english-learning-methodology_sources.md|english-learning-methodology_sources]]
 - [[30_Sources/04_Economy_Business_Work/japan-stock-investing-standard-strategy_sources.md|japan-stock-investing-standard-strategy_sources]]
 - [[30_Sources/07_Technology_Engineering_Computing_AI/3d-printer-filament-trends-2026-spring_sources.md|3d-printer-filament-trends-2026-spring_sources]]
 - [[30_Sources/07_Technology_Engineering_Computing_AI/filament-adhesion-compatibility-sources.md|filament-adhesion-compatibility-sources]]
+- [[30_Sources/07_Technology_Engineering_Computing_AI/GPU・並列計算__gpu-parallel-computing/GPUとは何か__what-is-gpu-sources.md|GPUとは何か]]
+- [[30_Sources/07_Technology_Engineering_Computing_AI/深層学習アーキテクチャ__deep-learning-architectures/transformer-attention-is-all-you-need_sources.md|transformer-attention-is-all-you-need_sources]]
 - [[30_Sources/08_Humanities_History_Culture_Arts/french-cuisine-history_sources.md|french-cuisine-history_sources]]
 - [[30_Sources/bridge-design-maintenance/future-of-bridge-design-in-japan_sources.md|future-of-bridge-design-in-japan_sources]]
 - [[30_Sources/clinical-psychiatry-psychopathology/source-registry.md|source-registry]]
@@ -28,10 +25,8 @@
 - [[30_Sources/microglia-neuroinflammation-pathophysiology/source_registry.md|source_registry]]
 - [[30_Sources/psychiatry-common-medications-generic-brand-list/source-registry.md|source-registry]]
 - [[30_Sources/README.md|README]]
+- [[30_Sources/representative-cocktails-how-to-make-sources.md|representative-cocktails-how-to-make-sources]]
 - [[30_Sources/why-sky-appears-blue_sources.md|why-sky-appears-blue_sources]]
-- [[30_Sources/遐比ｿｮ蛹ｻ縺ｮ逞・ｭｴ隕∫ｴ・・譖ｸ縺肴婿__resident-case-summary-writing/sources.md|sources]]
-- [[30_Sources/逾樒ｵ瑚脈逅・ｭｦ__neuropharmacology/neuropharmacology-overview_sources.md|neuropharmacology-overview_sources]]
-- [[30_Sources/諱区・蟾･蟄ｦ__love-engineering/love-engineering_sources.md|love-engineering_sources]]
-
-## Coverage Check
-- Listed files: 35
+- [[30_Sources/研修医の病歴要約の書き方__resident-case-summary-writing/sources.md|sources]]
+- [[30_Sources/神経薬理学__neuropharmacology/neuropharmacology-overview_sources.md|neuropharmacology-overview_sources]]
+- [[30_Sources/恋愛工学__love-engineering/love-engineering_sources.md|love-engineering_sources]]
