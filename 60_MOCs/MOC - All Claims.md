@@ -25,6 +25,7 @@
 - [[40_Claims/microglia-neuroinflammation-pathophysiology/claim_table.md|claim_table]]
 - [[40_Claims/psychiatry-common-medications-generic-brand-list/claims.md|claims]]
 - [[40_Claims/README.md|README]]
+- [[40_Claims/07_Technology_Engineering_Computing_AI/public-sports-model-odds-expected-value_claims.md|public-sports-model-odds-expected-value_claims]]
 - [[40_Claims/representative-cocktails-how-to-make-claims.md|representative-cocktails-how-to-make-claims]]
 - [[40_Claims/why-sky-appears-blue_claims.md|why-sky-appears-blue_claims]]
 - [[40_Claims/研修医の病歴要約の書き方__resident-case-summary-writing/claims.md|claims]]

@@ -25,6 +25,7 @@
 - [[30_Sources/microglia-neuroinflammation-pathophysiology/source_registry.md|source_registry]]
 - [[30_Sources/psychiatry-common-medications-generic-brand-list/source-registry.md|source-registry]]
 - [[30_Sources/README.md|README]]
+- [[30_Sources/07_Technology_Engineering_Computing_AI/public-sports-model-odds-expected-value_sources.md|public-sports-model-odds-expected-value_sources]]
 - [[30_Sources/representative-cocktails-how-to-make-sources.md|representative-cocktails-how-to-make-sources]]
 - [[30_Sources/why-sky-appears-blue_sources.md|why-sky-appears-blue_sources]]
 - [[30_Sources/研修医の病歴要約の書き方__resident-case-summary-writing/sources.md|sources]]
