@@ -5,10 +5,10 @@
 - Published articles: 1
 
 ## Overview
-This category MOC is rebuilt from the filesystem under `10_Published/04_Economy_Business_Work` and is organized by published subfield.
+This category MOC is rebuilt from the filesystem under $(Rel @{Path=C:\EBE_Worktrees\job-20260506234606-bj7x3f\10_Published\04_Economy_Business_Work; Name=04_Economy_Business_Work; Subfields=System.Object[]; ArticleCount=1}.Path) and is organized by published subfield.
 
 ## Subfield Index
-- [[10_Published/04_Economy_Business_Work/個人資産形成__personal-wealth-building/_MOC.md|個人資産形成 (personal-wealth-building)]] - 1 articles
+- [[10_Published/04_Economy_Business_Work/個人資産形成__personal-wealth-building/_MOC.md|個人資産形成__personal-wealth-building]] - 1 articles
 
 ## Article Map
 ### 個人資産形成

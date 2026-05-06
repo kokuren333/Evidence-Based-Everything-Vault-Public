@@ -2,12 +2,7 @@
 
 - Rebuilt: 2026-05-07 00:00:00 +09:00
 - Category: 01_Life_Health_Medicine
-- Subfield slug: nephrology
 - Published articles: 10
-
-## Parent Links
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|01_Life_Health_Medicine]]
-- [[10_Published/_MOC.md|Published Root MOC]]
 
 ## Articles
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ANCA関連血管炎と腎臓__anca-associated-vasculitis-kidney-nephrology.md|ANCA関連血管炎と腎臓]] - updated 2026-05-01
@@ -21,5 +16,9 @@
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/透析管理のゴールドスタンダード__dialysis-management-gold-standard.md|透析管理のゴールドスタンダード]] - updated 2026-05-01
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/慢性腎臓病（CKD）の診断と治療__ckd-diagnosis-treatment.md|慢性腎臓病（CKD）の診断と治療]] - updated 2026-05-01
 
+## Parent MOCs
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|01_Life_Health_Medicine]]
+- [[10_Published/_MOC.md|Published Root MOC]]
+
 ## Coverage Check
-- This MOC lists every non-MOC Markdown article in this subfield directory exactly once.
+- Every non-MOC Markdown article in this subfield directory is listed above exactly once.

@@ -2,11 +2,11 @@
 
 - Rebuilt: 2026-05-07 00:00:00 +09:00
 - Categories: 10
-- Subfields: 29
-- Published articles: 48
+- Subfields: 30
+- Published articles: 49
 
 ## Category Index
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|01_Life_Health_Medicine]] - 12 subfields, 28 articles
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|01_Life_Health_Medicine]] - 13 subfields, 29 articles
 - [[10_Published/02_Mind_Education_Human_Development/_MOC.md|02_Mind_Education_Human_Development]] - 4 subfields, 5 articles
 - [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|03_Society_Policy_Law_Governance]] - 1 subfields, 1 articles
 - [[10_Published/04_Economy_Business_Work/_MOC.md|04_Economy_Business_Work]] - 1 subfields, 1 articles
@@ -24,6 +24,8 @@
 - [[10_Published/01_Life_Health_Medicine/栄養と飲料__nutrition-and-beverages/_MOC.md|栄養と飲料__nutrition-and-beverages]]
   - [[10_Published/01_Life_Health_Medicine/栄養と飲料__nutrition-and-beverages/コーヒーと疾患予防効果およびリスク__coffee-disease-prevention-risks.md|コーヒーと疾患予防効果およびリスク]] - updated 2026-05-01
   - [[10_Published/01_Life_Health_Medicine/栄養と飲料__nutrition-and-beverages/緑茶とジャスミン茶はどちらが身体に良いのか__green-tea-vs-jasmine-tea-health.md|緑茶とジャスミン茶はどちらが身体に良いのか]] - updated 2026-05-01
+- [[10_Published/01_Life_Health_Medicine/抗菌薬治療__antimicrobial-therapy/_MOC.md|抗菌薬治療__antimicrobial-therapy]]
+  - [[10_Published/01_Life_Health_Medicine/抗菌薬治療__antimicrobial-therapy/セファゾリンの適応__cefazolin-indications.md|セファゾリンの適応]] - updated 2026-05-07
 - [[10_Published/01_Life_Health_Medicine/神経解剖学__neuroanatomy/_MOC.md|神経解剖学__neuroanatomy]]
   - [[10_Published/01_Life_Health_Medicine/神経解剖学__neuroanatomy/神経解剖学をはじめから学ぶ__neuroanatomy-from-first-principles.md|神経解剖学をはじめから学ぶ]] - updated 2026-05-01
 - [[10_Published/01_Life_Health_Medicine/神経生理学__neurophysiology/_MOC.md|神経生理学__neurophysiology]]

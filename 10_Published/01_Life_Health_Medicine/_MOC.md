@@ -1,15 +1,16 @@
 # 01_Life_Health_Medicine MOC
 
 - Rebuilt: 2026-05-07 00:00:00 +09:00
-- Subfields: 12
-- Published articles: 28
+- Subfields: 13
+- Published articles: 29
 
 ## Overview
-This category MOC is rebuilt from the filesystem under `10_Published/01_Life_Health_Medicine` and is organized by published subfield.
+This category MOC is rebuilt from the filesystem under $(Rel @{Path=C:\EBE_Worktrees\job-20260506234606-bj7x3f\10_Published\01_Life_Health_Medicine; Name=01_Life_Health_Medicine; Subfields=System.Object[]; ArticleCount=29}.Path) and is organized by published subfield.
 
 ## Subfield Index
 - [[10_Published/01_Life_Health_Medicine/医学教育・臨床文書__medical-education-clinical-documentation/_MOC.md|医学教育・臨床文書__medical-education-clinical-documentation]] - 1 articles
 - [[10_Published/01_Life_Health_Medicine/栄養と飲料__nutrition-and-beverages/_MOC.md|栄養と飲料__nutrition-and-beverages]] - 2 articles
+- [[10_Published/01_Life_Health_Medicine/抗菌薬治療__antimicrobial-therapy/_MOC.md|抗菌薬治療__antimicrobial-therapy]] - 1 articles
 - [[10_Published/01_Life_Health_Medicine/神経解剖学__neuroanatomy/_MOC.md|神経解剖学__neuroanatomy]] - 1 articles
 - [[10_Published/01_Life_Health_Medicine/神経生理学__neurophysiology/_MOC.md|神経生理学__neurophysiology]] - 1 articles
 - [[10_Published/01_Life_Health_Medicine/神経免疫学__neuroimmunology/_MOC.md|神経免疫学__neuroimmunology]] - 2 articles
@@ -27,6 +28,8 @@ This category MOC is rebuilt from the filesystem under `10_Published/01_Life_Hea
 ### 栄養と飲料
 - [[10_Published/01_Life_Health_Medicine/栄養と飲料__nutrition-and-beverages/コーヒーと疾患予防効果およびリスク__coffee-disease-prevention-risks.md|コーヒーと疾患予防効果およびリスク]] - updated 2026-05-01
 - [[10_Published/01_Life_Health_Medicine/栄養と飲料__nutrition-and-beverages/緑茶とジャスミン茶はどちらが身体に良いのか__green-tea-vs-jasmine-tea-health.md|緑茶とジャスミン茶はどちらが身体に良いのか]] - updated 2026-05-01
+### 抗菌薬治療
+- [[10_Published/01_Life_Health_Medicine/抗菌薬治療__antimicrobial-therapy/セファゾリンの適応__cefazolin-indications.md|セファゾリンの適応]] - updated 2026-05-07
 ### 神経解剖学
 - [[10_Published/01_Life_Health_Medicine/神経解剖学__neuroanatomy/神経解剖学をはじめから学ぶ__neuroanatomy-from-first-principles.md|神経解剖学をはじめから学ぶ]] - updated 2026-05-01
 ### 神経生理学
