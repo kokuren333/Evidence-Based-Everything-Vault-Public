@@ -112,3 +112,7 @@
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
 - [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
+
+## Latest Added Route
+- [[10_Published/07_Technology_Engineering_Computing_AI/機械学習予測__machine-learning-prediction/_MOC.md|機械学習予測]]
+- [[10_Published/07_Technology_Engineering_Computing_AI/機械学習予測__machine-learning-prediction/競輪の機械学習予測についてわかっていること__keirin-machine-learning-prediction.md|競輪の機械学習予測についてわかっていること]] - updated 2026-05-06

@@ -1,5 +1,8 @@
 # MOC - Recently Updated
 
+## Latest Added Route
+- 2026-05-06 - [[10_Published/07_Technology_Engineering_Computing_AI/機械学習予測__machine-learning-prediction/競輪の機械学習予測についてわかっていること__keirin-machine-learning-prediction.md|競輪の機械学習予測についてわかっていること]] (07_Technology_Engineering_Computing_AI / 機械学習予測)
+
 - Rebuilt: 2026-05-06 06:22:09 +09:00
 - Published articles scanned: 44
 
