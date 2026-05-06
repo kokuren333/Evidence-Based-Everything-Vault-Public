@@ -1,12 +1,11 @@
 # 01_Life_Health_Medicine MOC
 
-- Category ID: `01_Life_Health_Medicine`
-- Rebuilt: 2026-05-06 06:22:09 +09:00
+- Rebuilt: 2026-05-07 00:00:00 +09:00
 - Subfields: 12
-- Published articles: 26
+- Published articles: 27
 
 ## Overview
-- This MOC provides complete routing to every published subfield and article under `10_Published/01_Life_Health_Medicine/`.
+This category MOC is rebuilt from the filesystem under `10_Published/01_Life_Health_Medicine` and is organized by published subfield.
 
 ## Subfield Index
 - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/_MOC.md|免疫疾患 (immune-disorders)]] - 2 articles
@@ -19,10 +18,10 @@
 - [[10_Published/01_Life_Health_Medicine/神経薬理学__neuropharmacology/_MOC.md|神経薬理学 (neuropharmacology)]] - 1 articles
 - [[10_Published/01_Life_Health_Medicine/神経解剖学__neuroanatomy/_MOC.md|神経解剖学 (neuroanatomy)]] - 1 articles
 - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/_MOC.md|精神医学 (psychiatry)]] - 5 articles
-- [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/_MOC.md|腎臓内科 (nephrology)]] - 8 articles
+- [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/_MOC.md|腎臓内科 (nephrology)]] - 9 articles
 - [[10_Published/01_Life_Health_Medicine/臨床精神医学・精神病理学__clinical-psychiatry-psychopathology/_MOC.md|臨床精神医学・精神病理学 (clinical-psychiatry-psychopathology)]] - 1 articles
 
-## Article Coverage
+## Article Map
 ### 免疫疾患
 - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/ANCA関連血管炎の種類と病態__anca-associated-vasculitis-types-pathophysiology.md|ANCA関連血管炎の種類と病態]] - updated 2026-05-01
 - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/IgG4関連疾患の疾患概念と病態__igg4-related-disease-concept-pathogenesis.md|IgG4関連疾患の疾患概念と病態]] - updated 2026-05-01
@@ -56,6 +55,7 @@
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/慢性腎臓病（CKD）の診断と治療__ckd-diagnosis-treatment.md|慢性腎臓病（CKD）の診断と治療]] - updated 2026-05-01
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓の構造と機能__kidney-structure-function-residents.md|腎臓の構造と機能]] - updated 2026-05-01
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓内科でよく使う薬：一般名と商品名の対応表__nephrology-common-medications-generic-brand-list.md|腎臓内科でよく使う薬：一般名と商品名の対応表]] - updated 2026-05-01
+- [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓内科における必須知識のまとめ__nephrology-essential-knowledge-summary.md|腎臓内科における必須知識のまとめ]] - updated 2026-05-07
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓内科学・内科一般を学ぶためのロードマップ__nephrology-internal-medicine-learning-roadmap.md|腎臓内科学・内科一般を学ぶためのロードマップ]] - updated 2026-05-01
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/透析管理における血圧・心胸郭比・BNPの立ち位置__dialysis-bp-ctr-bnp-positioning.md|透析管理における血圧・心胸郭比・BNPの立ち位置]] - updated 2026-05-02
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/透析管理のゴールドスタンダード__dialysis-management-gold-standard.md|透析管理のゴールドスタンダード]] - updated 2026-05-01
@@ -65,4 +65,7 @@
 ## Related MOCs
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
-- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
+
+## Coverage Check
+- Every published subfield directory in this category is linked above.
+- Every non-MOC Markdown article in this category is reachable through its subfield section.

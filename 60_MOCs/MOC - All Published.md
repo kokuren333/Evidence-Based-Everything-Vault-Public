@@ -1,18 +1,18 @@
 # MOC - All Published
 
-- Rebuilt: 2026-05-06 06:22:09 +09:00
+- Rebuilt: 2026-05-07 00:00:00 +09:00
 - Categories: 10
-- Subfields: 28
-- Published articles: 44
+- Subfields: 29
+- Published articles: 47
 
 ## Category Index
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|01_Life_Health_Medicine]] - 12 subfields, 26 articles
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|01_Life_Health_Medicine]] - 12 subfields, 27 articles
 - [[10_Published/02_Mind_Education_Human_Development/_MOC.md|02_Mind_Education_Human_Development]] - 4 subfields, 5 articles
 - [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|03_Society_Policy_Law_Governance]] - 1 subfields, 1 articles
 - [[10_Published/04_Economy_Business_Work/_MOC.md|04_Economy_Business_Work]] - 1 subfields, 1 articles
 - [[10_Published/05_Nature_Science_Environment/_MOC.md|05_Nature_Science_Environment]] - 1 subfields, 1 articles
 - [[10_Published/06_Mathematics_Logic_Formal_Systems/_MOC.md|06_Mathematics_Logic_Formal_Systems]] - 0 subfields, 0 articles
-- [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|07_Technology_Engineering_Computing_AI]] - 5 subfields, 6 articles
+- [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|07_Technology_Engineering_Computing_AI]] - 6 subfields, 8 articles
 - [[10_Published/08_Humanities_History_Culture_Arts/_MOC.md|08_Humanities_History_Culture_Arts]] - 1 subfields, 1 articles
 - [[10_Published/09_Information_Media_OSINT_Security/_MOC.md|09_Information_Media_OSINT_Security]] - 0 subfields, 0 articles
 - [[10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md|10_Life_Design_Practice_Creative_Work]] - 3 subfields, 3 articles
@@ -52,6 +52,7 @@
   - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/慢性腎臓病（CKD）の診断と治療__ckd-diagnosis-treatment.md|慢性腎臓病（CKD）の診断と治療]] - updated 2026-05-01
   - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓の構造と機能__kidney-structure-function-residents.md|腎臓の構造と機能]] - updated 2026-05-01
   - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓内科でよく使う薬：一般名と商品名の対応表__nephrology-common-medications-generic-brand-list.md|腎臓内科でよく使う薬：一般名と商品名の対応表]] - updated 2026-05-01
+  - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓内科における必須知識のまとめ__nephrology-essential-knowledge-summary.md|腎臓内科における必須知識のまとめ]] - updated 2026-05-07
   - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓内科学・内科一般を学ぶためのロードマップ__nephrology-internal-medicine-learning-roadmap.md|腎臓内科学・内科一般を学ぶためのロードマップ]] - updated 2026-05-01
   - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/透析管理における血圧・心胸郭比・BNPの立ち位置__dialysis-bp-ctr-bnp-positioning.md|透析管理における血圧・心胸郭比・BNPの立ち位置]] - updated 2026-05-02
   - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/透析管理のゴールドスタンダード__dialysis-management-gold-standard.md|透析管理のゴールドスタンダード]] - updated 2026-05-01
@@ -88,8 +89,11 @@
   - [[10_Published/07_Technology_Engineering_Computing_AI/数値計算・科学技術計算__numerical-scientific-computing/NumPyにおける主要な構文や関数__numpy-main-syntax-functions.md|NumPyにおける主要な構文や関数]] - updated 2026-05-01
 - [[10_Published/07_Technology_Engineering_Computing_AI/橋梁設計・維持管理__bridge-design-maintenance/_MOC.md|橋梁設計・維持管理 (bridge-design-maintenance)]]
   - [[10_Published/07_Technology_Engineering_Computing_AI/橋梁設計・維持管理__bridge-design-maintenance/主に日本における橋梁設計は今後どう変わるか__future-of-bridge-design-in-japan.md|主に日本における橋梁設計は今後どう変わるか]] - updated 2026-05-02
+- [[10_Published/07_Technology_Engineering_Computing_AI/機械学習予測__machine-learning-prediction/_MOC.md|機械学習予測 (machine-learning-prediction)]]
+  - [[10_Published/07_Technology_Engineering_Computing_AI/機械学習予測__machine-learning-prediction/公営競技で優れたモデルを構築できればオッズを見なくても勝てるか__public-sports-model-odds-expected-value.md|公営競技で優れたモデルを構築できればオッズを見なくても勝てるか]] - updated 2026-05-07
+  - [[10_Published/07_Technology_Engineering_Computing_AI/機械学習予測__machine-learning-prediction/競輪の機械学習予測についてわかっていること__keirin-machine-learning-prediction.md|競輪の機械学習予測についてわかっていること]] - updated 2026-05-06
 - [[10_Published/07_Technology_Engineering_Computing_AI/深層学習アーキテクチャ__deep-learning-architectures/_MOC.md|深層学習アーキテクチャ (deep-learning-architectures)]]
-  - [[10_Published/07_Technology_Engineering_Computing_AI/深層学習アーキテクチャ__deep-learning-architectures/Transformerとは何か：Attention Is All You Needの要点__transformer-attention-is-all-you-need.md|Transformerとは何か：Attention Is All You Needの要点]] - updated 2026-05-04
+  - [[10_Published/07_Technology_Engineering_Computing_AI/深層学習アーキテクチャ__deep-learning-architectures/Transformerとは何か：Attention Is All You Needの要点__transformer-attention-is-all-you-need.md|Transformerとは何か：Attention Is All You Needの要点]]
 ### 08_Humanities_History_Culture_Arts
 - [[10_Published/08_Humanities_History_Culture_Arts/食文化史__food-culture-history/_MOC.md|食文化史 (food-culture-history)]]
   - [[10_Published/08_Humanities_History_Culture_Arts/食文化史__food-culture-history/フランス料理の歴史__french-cuisine-history.md|フランス料理の歴史]] - updated 2026-05-02
@@ -112,11 +116,3 @@
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
 - [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
-
-## Latest Added Route
-- [[10_Published/07_Technology_Engineering_Computing_AI/機械学習予測__machine-learning-prediction/_MOC.md|機械学習予測]]
-- [[10_Published/07_Technology_Engineering_Computing_AI/機械学習予測__machine-learning-prediction/公営競技で優れたモデルを構築できればオッズを見なくても勝てるか__public-sports-model-odds-expected-value.md|公営競技で優れたモデルを構築できればオッズを見なくても勝てるか]] - updated 2026-05-07
-
-## Previous Added Route
-- [[10_Published/07_Technology_Engineering_Computing_AI/機械学習予測__machine-learning-prediction/_MOC.md|機械学習予測]]
-- [[10_Published/07_Technology_Engineering_Computing_AI/機械学習予測__machine-learning-prediction/競輪の機械学習予測についてわかっていること__keirin-machine-learning-prediction.md|競輪の機械学習予測についてわかっていること]] - updated 2026-05-06
