@@ -3,8 +3,8 @@
 ## Field Index
 
 - Fields: 10
-- Daily briefings: 42
-- Generated: 2026-05-06
+- Daily briefings: 43
+- Generated: 2026-05-07
 
 ## Fields
 
@@ -12,7 +12,7 @@
 - [[11_Daily/02_Economy_Finance/_MOC.md|02_Economy_Finance]] - 1 months, 5 briefings
 - [[11_Daily/03_Technology_AI/_MOC.md|03_Technology_AI]] - 1 months, 4 briefings
 - [[11_Daily/04_Science_Medicine_Life/_MOC.md|04_Science_Medicine_Life]] - 1 months, 4 briefings
-- [[11_Daily/05_Environment_Energy_Resources/_MOC.md|05_Environment_Energy_Resources]] - 1 months, 5 briefings
+- [[11_Daily/05_Environment_Energy_Resources/_MOC.md|05_Environment_Energy_Resources]] - 1 months, 6 briefings
 - [[11_Daily/06_Society_Population_Education/_MOC.md|06_Society_Population_Education]] - 1 months, 4 briefings
 - [[11_Daily/07_Culture_Media_Ideas/_MOC.md|07_Culture_Media_Ideas]] - 1 months, 4 briefings
 - [[11_Daily/08_Law_Institutions_Ethics/_MOC.md|08_Law_Institutions_Ethics]] - 1 months, 4 briefings
@@ -39,7 +39,7 @@
 
 ### 05_Environment_Energy_Resources
 
-- [[11_Daily/05_Environment_Energy_Resources/2026-05/_MOC.md|2026-05]] - 5 briefings
+- [[11_Daily/05_Environment_Energy_Resources/2026-05/_MOC.md|2026-05]] - 6 briefings
 
 ### 06_Society_Population_Education
 

@@ -2,8 +2,8 @@
 
 - Field path: 11_Daily/05_Environment_Energy_Resources
 - Months: 1
-- Briefings: 5
-- Rebuilt: 2026-05-06
+- Briefings: 6
+- Rebuilt: 2026-05-07
 
 ## Month Index
 
@@ -18,6 +18,7 @@
 - [[11_Daily/05_Environment_Energy_Resources/2026-05/2026-05-04_Environment_Energy_Resources.md|2026-05-04_Environment_Energy_Resources]]
 - [[11_Daily/05_Environment_Energy_Resources/2026-05/2026-05-05_Environment_Energy_Resources.md|2026-05-05_Environment_Energy_Resources]]
 - [[11_Daily/05_Environment_Energy_Resources/2026-05/2026-05-06_Environment_Energy_Resources.md|2026-05-06_Environment_Energy_Resources]]
+- [[11_Daily/05_Environment_Energy_Resources/2026-05/2026-05-07_Environment_Energy_Resources.md|2026-05-07_Environment_Energy_Resources]]
 
 ## Navigation
 
