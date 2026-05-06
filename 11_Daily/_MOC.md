@@ -3,7 +3,7 @@
 ## Field Index
 
 - Fields: 10
-- Daily briefings: 43
+- Daily briefings: 45
 - Generated: 2026-05-07
 
 ## Fields
@@ -17,7 +17,7 @@
 - [[11_Daily/07_Culture_Media_Ideas/_MOC.md|07_Culture_Media_Ideas]] - 1 months, 4 briefings
 - [[11_Daily/08_Law_Institutions_Ethics/_MOC.md|08_Law_Institutions_Ethics]] - 1 months, 4 briefings
 - [[11_Daily/09_Business_Industry_Innovation/_MOC.md|09_Business_Industry_Innovation]] - 1 months, 4 briefings
-- [[11_Daily/10_Incidents_Risks_Safety/_MOC.md|10_Incidents_Risks_Safety]] - 1 months, 4 briefings
+- [[11_Daily/10_Incidents_Risks_Safety/_MOC.md|10_Incidents_Risks_Safety]] - 1 months, 6 briefings
 
 ## Date Coverage
 
@@ -59,7 +59,7 @@
 
 ### 10_Incidents_Risks_Safety
 
-- [[11_Daily/10_Incidents_Risks_Safety/2026-05/_MOC.md|2026-05]] - 4 briefings
+- [[11_Daily/10_Incidents_Risks_Safety/2026-05/_MOC.md|2026-05]] - 6 briefings
 
 ## Coverage
 
