@@ -1,17 +1,17 @@
 ﻿# Daily Briefings MOC
 
-> Rebuilt by taxonomy maintenance job job-20260507012758-omj0nm on 2026-05-07 10:31:32 +09:00. This MOC is generated from the current vault filesystem inventory.
+> Updated by daily news job job-20260507232547-413aez on 2026-05-08.
 
 
 ## 全体像
 
 - 分野: 10
-- daily記事: 60
+- daily記事: 61
 
 ## 分野別索引
 
 - [[11_Daily/01_Politics_International_Relations/_MOC.md|01_Politics_International_Relations]] - 月 1, 記事 6
-- [[11_Daily/02_Economy_Finance/_MOC.md|02_Economy_Finance]] - 月 1, 記事 6
+- [[11_Daily/02_Economy_Finance/_MOC.md|02_Economy_Finance]] - 月 1, 記事 7
 - [[11_Daily/03_Technology_AI/_MOC.md|03_Technology_AI]] - 月 1, 記事 6
 - [[11_Daily/04_Science_Medicine_Life/_MOC.md|04_Science_Medicine_Life]] - 月 1, 記事 6
 - [[11_Daily/05_Environment_Energy_Resources/_MOC.md|05_Environment_Energy_Resources]] - 月 1, 記事 6
@@ -22,6 +22,9 @@
 - [[11_Daily/10_Incidents_Risks_Safety/_MOC.md|10_Incidents_Risks_Safety]] - 月 1, 記事 6
 
 ## 日付別索引
+
+### 2026-05-08
+- [[11_Daily/02_Economy_Finance/2026-05/2026-05-08_Economy_Finance.md|2026-05-08_Economy_Finance]]
 
 ### 2026-05-07
 - [[11_Daily/01_Politics_International_Relations/2026-05/2026-05-07_Politics_International_Relations.md|2026-05-07_Politics_International_Relations]]
