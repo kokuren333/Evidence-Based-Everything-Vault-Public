@@ -1,6 +1,7 @@
-# MOC - All Sources  - Rebuilt: 2026-05-07 00:00:00 +09:00 - Count: 32 source notes  ## Index
+# MOC - All Sources  - Rebuilt: 2026-05-07 00:00:00 +09:00 - Count: 33 source notes  ## Index
 - [[30_Sources/01_Life_Health_Medicine/nephrology/kidney-structure-function-residents_sources.md|kidney-structure-function-residents_sources]]
 - [[30_Sources/01_Life_Health_Medicine/腎臓内科__nephrology/nephrotic-syndrome-treatment-medications_sources.md|nephrotic-syndrome-treatment-medications_sources]]
+- [[30_Sources/01_Life_Health_Medicine/腎臓内科__nephrology/nephrotic-syndrome-symptoms_sources.md|nephrotic-syndrome-symptoms_sources]]
 - [[30_Sources/01_Life_Health_Medicine/神経解剖学__neuroanatomy/neuroanatomy-from-first-principles_sources.md|neuroanatomy-from-first-principles_sources]]
 - [[30_Sources/01_Life_Health_Medicine/神経生理学__neurophysiology/sources.md|sources]]
 - [[30_Sources/01_Life_Health_Medicine/腎臓内科__nephrology/ckd-diagnosis-treatment_sources.md|ckd-diagnosis-treatment_sources]]

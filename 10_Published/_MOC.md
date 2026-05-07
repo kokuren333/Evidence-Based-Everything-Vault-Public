@@ -4,7 +4,7 @@
 
 ## 大分類索引
 
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学（01_Life_Health_Medicine）]] - 小分野 15、記事 34
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学（01_Life_Health_Medicine）]] - 小分野 15、記事 35
 - [[10_Published/02_Mind_Education_Human_Development/_MOC.md|心理・教育・人間発達（02_Mind_Education_Human_Development）]] - 小分野 4、記事 5
 - [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|社会・政策・法・ガバナンス（03_Society_Policy_Law_Governance）]] - 小分野 1、記事 1
 - [[10_Published/04_Economy_Business_Work/_MOC.md|経済・ビジネス・仕事（04_Economy_Business_Work）]] - 小分野 1、記事 1
@@ -17,7 +17,7 @@
 
 ## 公開記事カバレッジ
 
-- 公開記事: 54
+- 公開記事: 55
 - 小分野: 32
 - 大分類直下の記事: 0
 

@@ -15,7 +15,7 @@
 - [[10_Published/01_Life_Health_Medicine/神経生理学__neurophysiology/_MOC.md|神経生理学]] - 記事 1
 - [[10_Published/01_Life_Health_Medicine/神経免疫学__neuroimmunology/_MOC.md|神経免疫学]] - 記事 2
 - [[10_Published/01_Life_Health_Medicine/神経薬理学__neuropharmacology/_MOC.md|神経薬理学]] - 記事 1
-- [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/_MOC.md|腎臓内科]] - 記事 13
+- [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/_MOC.md|腎臓内科]] - 記事 14
 - [[10_Published/01_Life_Health_Medicine/睡眠医学__sleep-medicine/_MOC.md|睡眠医学]] - 記事 1
 - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/_MOC.md|精神医学]] - 記事 5
 - [[10_Published/01_Life_Health_Medicine/入院診療・急性期医学__inpatient-acute-care-medicine/_MOC.md|入院診療・急性期医学]] - 記事 1
@@ -53,6 +53,7 @@
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ANCA関連血管炎と腎臓__anca-associated-vasculitis-kidney-nephrology.md|ANCA関連血管炎と腎臓]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/IgG4関連疾患と腎機能__igg4-related-disease-kidney-function.md|IgG4関連疾患と腎機能]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/エラスチカ・マッソン染色とIgG4関連腎疾患の腎生検__elastica-masson-igg4-related-kidney-biopsy.md|エラスチカ・マッソン染色とIgG4関連腎疾患の腎生検]]
+- [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ネフローゼ症候群で起こりうる症状__nephrotic-syndrome-symptoms.md|ネフローゼ症候群で起こりうる症状]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ネフローゼ症候群の治療方針と治療薬__nephrotic-syndrome-treatment-medications.md|ネフローゼ症候群の治療方針と治療薬]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓の構造と機能__kidney-structure-function-residents.md|腎臓の構造と機能]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓疾患で気をつけるべき心電図所見__kidney-disease-ecg-findings.md|腎臓疾患で気をつけるべき心電図所見]]

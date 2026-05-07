@@ -8,7 +8,7 @@
 
 ## Categories
 
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学（01_Life_Health_Medicine）]] - 小分野 15、記事 34
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学（01_Life_Health_Medicine）]] - 小分野 15、記事 35
 - [[10_Published/02_Mind_Education_Human_Development/_MOC.md|心理・教育・人間発達（02_Mind_Education_Human_Development）]] - 小分野 4、記事 5
 - [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|社会・政策・法・ガバナンス（03_Society_Policy_Law_Governance）]] - 小分野 1、記事 1
 - [[10_Published/04_Economy_Business_Work/_MOC.md|経済・ビジネス・仕事（04_Economy_Business_Work）]] - 小分野 1、記事 1
@@ -34,6 +34,7 @@
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ANCA関連血管炎と腎臓__anca-associated-vasculitis-kidney-nephrology.md|ANCA関連血管炎と腎臓]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/IgG4関連疾患と腎機能__igg4-related-disease-kidney-function.md|IgG4関連疾患と腎機能]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/エラスチカ・マッソン染色とIgG4関連腎疾患の腎生検__elastica-masson-igg4-related-kidney-biopsy.md|エラスチカ・マッソン染色とIgG4関連腎疾患の腎生検]]
+- [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ネフローゼ症候群で起こりうる症状__nephrotic-syndrome-symptoms.md|ネフローゼ症候群で起こりうる症状]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ネフローゼ症候群の治療方針と治療薬__nephrotic-syndrome-treatment-medications.md|ネフローゼ症候群の治療方針と治療薬]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓の構造と機能__kidney-structure-function-residents.md|腎臓の構造と機能]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓疾患で気をつけるべき心電図所見__kidney-disease-ecg-findings.md|腎臓疾患で気をつけるべき心電図所見]]

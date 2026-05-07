@@ -1,6 +1,7 @@
-# MOC - All Claims  - Rebuilt: 2026-05-07 00:00:00 +09:00 - Count: 32 claim notes  ## Index
+# MOC - All Claims  - Rebuilt: 2026-05-07 00:00:00 +09:00 - Count: 33 claim notes  ## Index
 - [[40_Claims/01_Life_Health_Medicine/nephrology/kidney-structure-function-residents_claims.md|kidney-structure-function-residents_claims]]
 - [[40_Claims/01_Life_Health_Medicine/腎臓内科__nephrology/nephrotic-syndrome-treatment-medications_claims.md|nephrotic-syndrome-treatment-medications_claims]]
+- [[40_Claims/01_Life_Health_Medicine/腎臓内科__nephrology/nephrotic-syndrome-symptoms_claims.md|nephrotic-syndrome-symptoms_claims]]
 - [[40_Claims/01_Life_Health_Medicine/神経解剖学__neuroanatomy/neuroanatomy-from-first-principles_claims.md|neuroanatomy-from-first-principles_claims]]
 - [[40_Claims/01_Life_Health_Medicine/神経生理学__neurophysiology/claims.md|claims]]
 - [[40_Claims/01_Life_Health_Medicine/腎臓内科__nephrology/ckd-diagnosis-treatment_claims.md|ckd-diagnosis-treatment_claims]]
