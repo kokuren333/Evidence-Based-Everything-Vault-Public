@@ -5,11 +5,12 @@
 
 ## 月別索引
 
-- [[11_Daily/08_Law_Institutions_Ethics/2026-05/_MOC.md|2026-05]] - 記事 6
+- [[11_Daily/08_Law_Institutions_Ethics/2026-05/_MOC.md|2026-05]] - 記事 7
 
 ## 記事一覧
 
 - [[11_Daily/08_Law_Institutions_Ethics/2026-05/2026-05-07_Law_Institutions_Ethics.md|2026-05-07_Law_Institutions_Ethics]]
+- [[11_Daily/08_Law_Institutions_Ethics/2026-05/2026-05-08_Law_Institutions_Ethics.md|2026-05-08_Law_Institutions_Ethics]]
 - [[11_Daily/08_Law_Institutions_Ethics/2026-05/2026-05-06_Law_Institutions_Ethics.md|2026-05-06_Law_Institutions_Ethics]]
 - [[11_Daily/08_Law_Institutions_Ethics/2026-05/2026-05-05_Law_Institutions_Ethics.md|2026-05-05_Law_Institutions_Ethics]]
 - [[11_Daily/08_Law_Institutions_Ethics/2026-05/2026-05-04_Law_Institutions_Ethics.md|2026-05-04_Law_Institutions_Ethics]]

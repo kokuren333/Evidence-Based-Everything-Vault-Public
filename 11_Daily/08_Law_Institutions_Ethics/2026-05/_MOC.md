@@ -10,6 +10,7 @@
 
 ## 日付別記事
 
+- [[11_Daily/08_Law_Institutions_Ethics/2026-05/2026-05-08_Law_Institutions_Ethics.md|2026-05-08_Law_Institutions_Ethics]]
 - [[11_Daily/08_Law_Institutions_Ethics/2026-05/2026-05-07_Law_Institutions_Ethics.md|2026-05-07_Law_Institutions_Ethics]]
 - [[11_Daily/08_Law_Institutions_Ethics/2026-05/2026-05-06_Law_Institutions_Ethics.md|2026-05-06_Law_Institutions_Ethics]]
 - [[11_Daily/08_Law_Institutions_Ethics/2026-05/2026-05-05_Law_Institutions_Ethics.md|2026-05-05_Law_Institutions_Ethics]]

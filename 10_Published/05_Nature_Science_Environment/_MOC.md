@@ -1,19 +1,18 @@
-# 自然科学・環境 MOC
+﻿# 自然科学・環境 MOC
 
-> Rebuilt by taxonomy repair job job-20260507232548-6sbghy on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
+> Rebuilt by taxonomy repair job job-20260507232548-5oyk3z on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
 
 ## Overview
 
 - Subfields: 1
 - Published articles: 1
-- Direct articles under category root: 0
+- Parent: [[10_Published/_MOC.md|Published Root MOC]]
 
-## Subfields
+## Subfield Index
 
 - [[10_Published/05_Nature_Science_Environment/大気光学__atmospheric-optics/_MOC.md|大気光学]] - 1 articles
 
-## Articles
-
+## Articles by Subfield
 
 ### 大気光学
 
@@ -21,7 +20,5 @@
 
 ## Related MOCs
 
-- [[10_Published/_MOC.md|Published Root MOC]]
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
-- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
