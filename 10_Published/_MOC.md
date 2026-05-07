@@ -1,6 +1,6 @@
 # Published Root MOC
 
-> Rebuilt by taxonomy repair job job-20260507232547-x0mipa on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
+> Rebuilt by taxonomy repair job job-20260507232548-6sbghy on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
 
 ## Categories
 
@@ -11,7 +11,7 @@
 - [[10_Published/05_Nature_Science_Environment/_MOC.md|自然科学・環境]] - 1 subfields, 1 articles
 - [[10_Published/06_Mathematics_Logic_Formal_Systems/_MOC.md|数学・論理・形式体系]] - 0 subfields, 0 articles
 - [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|技術・工学・コンピューティング・AI]] - 6 subfields, 8 articles
-- [[10_Published/08_Humanities_History_Culture_Arts/_MOC.md|人文学・歴史・文化・芸術]] - 1 subfields, 1 articles
+- [[10_Published/08_Humanities_History_Culture_Arts/_MOC.md|人文・歴史・文化・芸術]] - 1 subfields, 1 articles
 - [[10_Published/09_Information_Media_OSINT_Security/_MOC.md|情報・メディア・OSINT・セキュリティ]] - 0 subfields, 0 articles
 - [[10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md|ライフデザイン・実践・創作]] - 3 subfields, 3 articles
 

@@ -1,11 +1,12 @@
 # 技術・工学・コンピューティング・AI MOC
 
-> Rebuilt by taxonomy repair job job-20260507232547-x0mipa on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
+> Rebuilt by taxonomy repair job job-20260507232548-6sbghy on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
 
 ## Overview
 
 - Subfields: 6
 - Published articles: 8
+- Direct articles under category root: 0
 
 ## Subfields
 
@@ -17,6 +18,7 @@
 - [[10_Published/07_Technology_Engineering_Computing_AI/深層学習アーキテクチャ__deep-learning-architectures/_MOC.md|深層学習アーキテクチャ]] - 1 articles
 
 ## Articles
+
 
 ### 3Dプリンティング材料
 

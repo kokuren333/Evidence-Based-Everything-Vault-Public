@@ -1,15 +1,16 @@
 # 情報・メディア・OSINT・セキュリティ MOC
 
-> Rebuilt by taxonomy repair job job-20260507232547-x0mipa on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
+> Rebuilt by taxonomy repair job job-20260507232548-6sbghy on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
 
 ## Overview
 
 - Subfields: 0
 - Published articles: 0
+- Direct articles under category root: 0
 
 ## Subfields
 
-- No subfields in this category.
+- No published subfields in this category.
 
 ## Articles
 

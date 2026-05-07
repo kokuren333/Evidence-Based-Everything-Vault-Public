@@ -1,17 +1,19 @@
-# 人文学・歴史・文化・芸術 MOC
+# 人文・歴史・文化・芸術 MOC
 
-> Rebuilt by taxonomy repair job job-20260507232547-x0mipa on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
+> Rebuilt by taxonomy repair job job-20260507232548-6sbghy on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
 
 ## Overview
 
 - Subfields: 1
 - Published articles: 1
+- Direct articles under category root: 0
 
 ## Subfields
 
 - [[10_Published/08_Humanities_History_Culture_Arts/食文化史__food-culture-history/_MOC.md|食文化史]] - 1 articles
 
 ## Articles
+
 
 ### 食文化史
 

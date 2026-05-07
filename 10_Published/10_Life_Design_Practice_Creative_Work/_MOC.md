@@ -1,11 +1,12 @@
 # ライフデザイン・実践・創作 MOC
 
-> Rebuilt by taxonomy repair job job-20260507232547-x0mipa on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
+> Rebuilt by taxonomy repair job job-20260507232548-6sbghy on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
 
 ## Overview
 
 - Subfields: 3
 - Published articles: 3
+- Direct articles under category root: 0
 
 ## Subfields
 
@@ -14,6 +15,7 @@
 - [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/_MOC.md|飲食実践]] - 1 articles
 
 ## Articles
+
 
 ### 北海道グルメ実践
 

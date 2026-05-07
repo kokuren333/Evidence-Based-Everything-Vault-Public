@@ -1,11 +1,12 @@
 # 心理・教育・人間発達 MOC
 
-> Rebuilt by taxonomy repair job job-20260507232547-x0mipa on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
+> Rebuilt by taxonomy repair job job-20260507232548-6sbghy on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
 
 ## Overview
 
 - Subfields: 4
 - Published articles: 5
+- Direct articles under category root: 0
 
 ## Subfields
 
@@ -15,6 +16,7 @@
 - [[10_Published/02_Mind_Education_Human_Development/進化心理学__evolutionary-psychology/_MOC.md|進化心理学]] - 1 articles
 
 ## Articles
+
 
 ### 恋愛・親密性研究
 

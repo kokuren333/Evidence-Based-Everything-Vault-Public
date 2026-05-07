@@ -1,6 +1,6 @@
 # MOC - All Published
 
-> Rebuilt by taxonomy repair job job-20260507232547-x0mipa on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
+> Rebuilt by taxonomy repair job job-20260507232548-6sbghy on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
 
 ## Root
 
@@ -15,11 +15,12 @@
 - [[10_Published/05_Nature_Science_Environment/_MOC.md|自然科学・環境]] - 1 subfields, 1 articles
 - [[10_Published/06_Mathematics_Logic_Formal_Systems/_MOC.md|数学・論理・形式体系]] - 0 subfields, 0 articles
 - [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|技術・工学・コンピューティング・AI]] - 6 subfields, 8 articles
-- [[10_Published/08_Humanities_History_Culture_Arts/_MOC.md|人文学・歴史・文化・芸術]] - 1 subfields, 1 articles
+- [[10_Published/08_Humanities_History_Culture_Arts/_MOC.md|人文・歴史・文化・芸術]] - 1 subfields, 1 articles
 - [[10_Published/09_Information_Media_OSINT_Security/_MOC.md|情報・メディア・OSINT・セキュリティ]] - 0 subfields, 0 articles
 - [[10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md|ライフデザイン・実践・創作]] - 3 subfields, 3 articles
 
 ## All Published Articles
+
 
 ### 生命・健康・医学
 
@@ -96,7 +97,7 @@
 - [[10_Published/07_Technology_Engineering_Computing_AI/機械学習予測__machine-learning-prediction/競輪の機械学習予測についてわかっていること__keirin-machine-learning-prediction.md|競輪の機械学習予測についてわかっていること]]
 - [[10_Published/07_Technology_Engineering_Computing_AI/深層学習アーキテクチャ__deep-learning-architectures/Transformerとは何か：Attention Is All You Needの要点__transformer-attention-is-all-you-need.md|Transformerとは何か：Attention Is All You Needの要点]]
 
-### 人文学・歴史・文化・芸術
+### 人文・歴史・文化・芸術
 
 - [[10_Published/08_Humanities_History_Culture_Arts/食文化史__food-culture-history/フランス料理の歴史__french-cuisine-history.md|フランス料理の歴史]]
 

@@ -1,11 +1,12 @@
 # 生命・健康・医学 MOC
 
-> Rebuilt by taxonomy repair job job-20260507232547-x0mipa on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
+> Rebuilt by taxonomy repair job job-20260507232548-6sbghy on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
 
 ## Overview
 
 - Subfields: 15
 - Published articles: 37
+- Direct articles under category root: 0
 
 ## Subfields
 
@@ -26,6 +27,7 @@
 - [[10_Published/01_Life_Health_Medicine/臨床精神医学・精神病理学__clinical-psychiatry-psychopathology/_MOC.md|臨床精神医学・精神病理学]] - 1 articles
 
 ## Articles
+
 
 ### 免疫疾患
 

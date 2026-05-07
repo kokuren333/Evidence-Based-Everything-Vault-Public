@@ -1,17 +1,19 @@
 # 経済・ビジネス・仕事 MOC
 
-> Rebuilt by taxonomy repair job job-20260507232547-x0mipa on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
+> Rebuilt by taxonomy repair job job-20260507232548-6sbghy on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
 
 ## Overview
 
 - Subfields: 1
 - Published articles: 1
+- Direct articles under category root: 0
 
 ## Subfields
 
 - [[10_Published/04_Economy_Business_Work/個人資産形成__personal-wealth-building/_MOC.md|個人資産形成]] - 1 articles
 
 ## Articles
+
 
 ### 個人資産形成
 
