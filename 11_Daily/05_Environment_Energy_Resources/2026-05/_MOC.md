@@ -10,6 +10,7 @@
 
 ## 日付別記事
 
+- [[11_Daily/05_Environment_Energy_Resources/2026-05/2026-05-08_Environment_Energy_Resources.md|2026-05-08_Environment_Energy_Resources]]
 - [[11_Daily/05_Environment_Energy_Resources/2026-05/2026-05-07_Environment_Energy_Resources.md|2026-05-07_Environment_Energy_Resources]]
 - [[11_Daily/05_Environment_Energy_Resources/2026-05/2026-05-06_Environment_Energy_Resources.md|2026-05-06_Environment_Energy_Resources]]
 - [[11_Daily/05_Environment_Energy_Resources/2026-05/2026-05-05_Environment_Energy_Resources.md|2026-05-05_Environment_Energy_Resources]]
