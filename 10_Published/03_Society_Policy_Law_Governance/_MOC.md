@@ -1,4 +1,4 @@
-﻿# 03_Society_Policy_Law_Governance MOC
+# 03_Society_Policy_Law_Governance MOC
 
 - Rebuilt: 2026-05-07 00:00:00 +09:00
 - Subfields: 1

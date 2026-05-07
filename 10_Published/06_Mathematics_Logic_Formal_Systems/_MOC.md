@@ -1,4 +1,4 @@
-﻿# 06_Mathematics_Logic_Formal_Systems MOC
+# 06_Mathematics_Logic_Formal_Systems MOC
 
 - Rebuilt: 2026-05-07 00:00:00 +09:00
 - Subfields: 0

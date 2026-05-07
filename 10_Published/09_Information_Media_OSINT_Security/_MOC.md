@@ -1,4 +1,4 @@
-﻿# 09_Information_Media_OSINT_Security MOC
+# 09_Information_Media_OSINT_Security MOC
 
 - Rebuilt: 2026-05-07 00:00:00 +09:00
 - Subfields: 0

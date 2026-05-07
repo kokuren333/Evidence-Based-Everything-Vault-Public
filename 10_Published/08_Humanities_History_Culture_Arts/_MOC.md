@@ -1,4 +1,4 @@
-﻿# 08_Humanities_History_Culture_Arts MOC
+# 08_Humanities_History_Culture_Arts MOC
 
 - Rebuilt: 2026-05-07 00:00:00 +09:00
 - Subfields: 1

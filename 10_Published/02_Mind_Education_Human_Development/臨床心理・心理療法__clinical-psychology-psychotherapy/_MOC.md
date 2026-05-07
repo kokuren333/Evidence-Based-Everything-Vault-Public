@@ -1,4 +1,4 @@
-﻿# 臨床心理・心理療法 MOC
+# 臨床心理・心理療法 MOC
 
 - Rebuilt: 2026-05-07 00:00:00 +09:00
 - Category: 02_Mind_Education_Human_Development

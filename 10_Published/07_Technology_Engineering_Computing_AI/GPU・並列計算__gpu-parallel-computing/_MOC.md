@@ -1,4 +1,4 @@
-﻿# GPU・並列計算 MOC
+# GPU・並列計算 MOC
 
 - Rebuilt: 2026-05-07 00:00:00 +09:00
 - Category: 07_Technology_Engineering_Computing_AI

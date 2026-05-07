@@ -1,4 +1,4 @@
-﻿# 食文化史 MOC
+# 食文化史 MOC
 
 - Rebuilt: 2026-05-07 00:00:00 +09:00
 - Category: 08_Humanities_History_Culture_Arts

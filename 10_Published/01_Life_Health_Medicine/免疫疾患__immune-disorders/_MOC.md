@@ -1,4 +1,4 @@
-﻿# 免疫疾患 MOC
+# 免疫疾患 MOC
 
 - Rebuilt: 2026-05-07 00:00:00 +09:00
 - Category: 01_Life_Health_Medicine

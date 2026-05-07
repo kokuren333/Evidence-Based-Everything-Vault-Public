@@ -1,4 +1,4 @@
-﻿# 飲食実践 MOC
+# 飲食実践 MOC
 
 - Rebuilt: 2026-05-07 00:00:00 +09:00
 - Category: 10_Life_Design_Practice_Creative_Work

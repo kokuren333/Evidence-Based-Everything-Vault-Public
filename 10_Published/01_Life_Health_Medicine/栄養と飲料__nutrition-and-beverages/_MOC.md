@@ -1,4 +1,4 @@
-﻿# 栄養と飲料 MOC
+# 栄養と飲料 MOC
 
 - Rebuilt: 2026-05-07 00:00:00 +09:00
 - Category: 01_Life_Health_Medicine

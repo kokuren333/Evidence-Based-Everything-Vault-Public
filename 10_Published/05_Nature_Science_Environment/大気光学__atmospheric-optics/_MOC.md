@@ -1,4 +1,4 @@
-﻿# 大気光学 MOC
+# 大気光学 MOC
 
 - Rebuilt: 2026-05-07 00:00:00 +09:00
 - Category: 05_Nature_Science_Environment

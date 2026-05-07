@@ -1,4 +1,4 @@
-﻿# 国際安全保障・戦争研究 MOC
+# 国際安全保障・戦争研究 MOC
 
 - Rebuilt: 2026-05-07 00:00:00 +09:00
 - Category: 03_Society_Policy_Law_Governance

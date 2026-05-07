@@ -1,4 +1,4 @@
-﻿# 深層学習アーキテクチャ MOC
+# 深層学習アーキテクチャ MOC
 
 - Rebuilt: 2026-05-07 00:00:00 +09:00
 - Category: 07_Technology_Engineering_Computing_AI

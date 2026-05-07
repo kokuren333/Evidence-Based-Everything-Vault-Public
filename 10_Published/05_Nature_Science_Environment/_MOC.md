@@ -1,4 +1,4 @@
-﻿# 05_Nature_Science_Environment MOC
+# 05_Nature_Science_Environment MOC
 
 - Rebuilt: 2026-05-07 00:00:00 +09:00
 - Subfields: 1

@@ -1,4 +1,4 @@
-﻿# 04_Economy_Business_Work MOC
+# 04_Economy_Business_Work MOC
 
 - Rebuilt: 2026-05-07 00:00:00 +09:00
 - Subfields: 1
