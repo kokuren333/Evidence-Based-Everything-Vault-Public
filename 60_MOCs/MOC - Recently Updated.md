@@ -60,3 +60,10 @@
 - 2026-05-07 10:47 - [[10_Published/01_Life_Health_Medicine/入院診療・急性期医学__inpatient-acute-care-medicine/入院中の腹膜炎疑い：初期対応から鑑別まで__inpatient-peritonitis-response-differential.md|入院中の腹膜炎疑い：初期対応から鑑別まで]]
 - 2026-05-07 10:47 - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/IgG4関連疾患の疾患概念と病態__igg4-related-disease-concept-pathogenesis.md|IgG4関連疾患の疾患概念と病態]]
 - 2026-05-07 10:47 - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/ANCA関連血管炎の種類と病態__anca-associated-vasculitis-types-pathophysiology.md|ANCA関連血管炎の種類と病態]]
+# MOC - Recently Updated
+
+> Updated by EBE workflow job-20260507053047-urq2wm on 2026-05-07. This readable section is the current canonical recent-updates index; older mojibake inventory below is retained as historical generated text and should be replaced in a future taxonomy repair.
+
+## Recently Updated Published Articles
+
+- 2026-05-07 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/成人ネフローゼ症候群に対する寛解導入__adult-nephrotic-syndrome-remission-induction.md|成人ネフローゼ症候群に対する寛解導入]]

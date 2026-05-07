@@ -109,3 +109,23 @@
 - [[10_Published/10_Life_Design_Practice_Creative_Work/北海道グルメ実践__hokkaido-food-practice/北海道の夜ラーメン案内__hokkaido-night-ramen-guide.md|北海道の夜ラーメン案内]]
 - [[10_Published/10_Life_Design_Practice_Creative_Work/料理実践__cooking-practice/美味しい唐揚げの作り方レシピ__karaage-recipe-evidence-based.md|美味しい唐揚げの作り方レシピ]]
 
+# MOC - All Published
+
+> Updated by EBE workflow job-20260507053047-urq2wm on 2026-05-07. This readable section is the current canonical global index; older mojibake inventory below is retained as historical generated text and should be replaced in a future taxonomy repair.
+
+## Categories
+
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]]
+- [[10_Published/02_Mind_Education_Human_Development/_MOC.md|心理・教育・人間発達]]
+- [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|社会・政策・法・ガバナンス]]
+- [[10_Published/04_Economy_Business_Work/_MOC.md|経済・ビジネス・仕事]]
+- [[10_Published/05_Nature_Science_Environment/_MOC.md|自然科学・環境]]
+- [[10_Published/06_Mathematics_Logic_Formal_Systems/_MOC.md|数学・論理・形式体系]]
+- [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|技術・工学・コンピューティング・AI]]
+- [[10_Published/08_Humanities_History_Culture_Arts/_MOC.md|人文・歴史・文化・芸術]]
+- [[10_Published/09_Information_Media_OSINT_Security/_MOC.md|情報・メディア・OSINT・セキュリティ]]
+- [[10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md|ライフデザイン・実践・創作]]
+
+## Newly Published
+
+- [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/成人ネフローゼ症候群に対する寛解導入__adult-nephrotic-syndrome-remission-induction.md|成人ネフローゼ症候群に対する寛解導入]]

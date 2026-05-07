@@ -34,3 +34,10 @@
 - [[30_Sources/神経薬理学__neuropharmacology/neuropharmacology-overview_sources.md|neuropharmacology-overview_sources]]
 - [[30_Sources/恋愛工学__love-engineering/love-engineering_sources.md|love-engineering_sources]]
 - [[30_Sources/inpatient-peritonitis-response-differential_sources.md|inpatient-peritonitis-response-differential_sources]]
+# MOC - All Sources
+
+> Updated by EBE workflow job-20260507053047-urq2wm on 2026-05-07.
+
+## Newly Added
+
+- [[30_Sources/adult-nephrotic-syndrome-remission-induction_sources.md|adult-nephrotic-syndrome-remission-induction_sources]]

@@ -34,3 +34,10 @@
 - [[40_Claims/神経薬理学__neuropharmacology/neuropharmacology-overview_claims.md|neuropharmacology-overview_claims]]
 - [[40_Claims/恋愛工学__love-engineering/love-engineering_claims.md|love-engineering_claims]]
 - [[40_Claims/inpatient-peritonitis-response-differential_claims.md|inpatient-peritonitis-response-differential_claims]]
+# MOC - All Claims
+
+> Updated by EBE workflow job-20260507053047-urq2wm on 2026-05-07.
+
+## Newly Added
+
+- [[40_Claims/adult-nephrotic-syndrome-remission-induction_claims.md|adult-nephrotic-syndrome-remission-induction_claims]]
