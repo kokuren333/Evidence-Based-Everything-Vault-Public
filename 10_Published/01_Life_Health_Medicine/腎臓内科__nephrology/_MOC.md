@@ -1,18 +1,19 @@
-﻿# 腎臓内科 MOC
+# 腎臓内科 MOC
 
-> Rebuilt by taxonomy repair job job-20260507012709-wmgm4y on 2026-05-07 10:42:56 +09:00. Generated from the current 10_Published filesystem inventory.
+> Rebuilt by taxonomy repair job job-20260507014703-3dknyy on 2026-05-07 10:59:02 +09:00. Generated from the current 10_Published filesystem inventory.
 
-## 位置づけ
+## ????
 
-- 大分類: [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学（01_Life_Health_Medicine）]]
-- 小分野パス: `10_Published/01_Life_Health_Medicine/腎臓内科__nephrology`
+- ???: [[10_Published/01_Life_Health_Medicine/_MOC.md|?????????01_Life_Health_Medicine?]]
+- ?????: `10_Published/01_Life_Health_Medicine/腎臓内科__nephrology`
 
-## 記事
+## ??
 
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ANCA関連血管炎と腎臓__anca-associated-vasculitis-kidney-nephrology.md|ANCA関連血管炎と腎臓]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/IgG4関連疾患と腎機能__igg4-related-disease-kidney-function.md|IgG4関連疾患と腎機能]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/エラスチカ・マッソン染色とIgG4関連腎疾患の腎生検__elastica-masson-igg4-related-kidney-biopsy.md|エラスチカ・マッソン染色とIgG4関連腎疾患の腎生検]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ネフローゼ症候群で起こりうる症状__nephrotic-syndrome-symptoms.md|ネフローゼ症候群で起こりうる症状]]
+- [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ネフローゼ症候群における腎生検の必要性__nephrotic-syndrome-kidney-biopsy-necessity.md|ネフローゼ症候群における腎生検の必要性]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ネフローゼ症候群の治療方針と治療薬__nephrotic-syndrome-treatment-medications.md|ネフローゼ症候群の治療方針と治療薬]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓の構造と機能__kidney-structure-function-residents.md|腎臓の構造と機能]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓疾患で気をつけるべき心電図所見__kidney-disease-ecg-findings.md|腎臓疾患で気をつけるべき心電図所見]]
@@ -24,7 +25,7 @@
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/透析管理のゴールドスタンダード__dialysis-management-gold-standard.md|透析管理のゴールドスタンダード]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/慢性腎臓病（CKD）の診断と治療__ckd-diagnosis-treatment.md|慢性腎臓病（CKD）の診断と治療]]
 
-## 上位MOC
+## ??MOC
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
