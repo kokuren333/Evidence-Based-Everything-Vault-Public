@@ -1,11 +1,12 @@
-# 06_Mathematics_Logic_Formal_Systems MOC
+# 数学・論理・形式体系 MOC
 
-- Rebuilt: 2026-05-07 00:00:00 +09:00
+- Rebuilt: 2026-05-07 09:17:18 +09:00
+- Category path: `10_Published/06_Mathematics_Logic_Formal_Systems`
 - Subfields: 0
 - Published articles: 0
 
 ## Overview
-This category MOC is rebuilt from the filesystem under `10_Published/06_Mathematics_Logic_Formal_Systems` and is organized by published subfield for complete coverage.
+`06_Mathematics_Logic_Formal_Systems` 配下の公開済み小分野と記事を、ファイルシステム走査に基づいて完全到達できる形で整理したMOCです。
 
 ## Subfield Index
 - No published subfields yet.

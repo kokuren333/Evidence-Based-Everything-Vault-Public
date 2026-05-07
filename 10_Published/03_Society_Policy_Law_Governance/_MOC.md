@@ -1,16 +1,18 @@
-# 03_Society_Policy_Law_Governance MOC
+# 社会・政策・法・ガバナンス MOC
 
-- Rebuilt: 2026-05-07 00:00:00 +09:00
+- Rebuilt: 2026-05-07 09:17:18 +09:00
+- Category path: `10_Published/03_Society_Policy_Law_Governance`
 - Subfields: 1
 - Published articles: 1
 
 ## Overview
-This category MOC is rebuilt from the filesystem under `10_Published/03_Society_Policy_Law_Governance` and is organized by published subfield for complete coverage.
+`03_Society_Policy_Law_Governance` 配下の公開済み小分野と記事を、ファイルシステム走査に基づいて完全到達できる形で整理したMOCです。
 
 ## Subfield Index
-- [[10_Published/03_Society_Policy_Law_Governance/国際安全保障・戦争研究__international-security-war-studies/_MOC.md|国際安全保障・戦争研究__international-security-war-studies]] - 1 articles
+- [[10_Published/03_Society_Policy_Law_Governance/国際安全保障・戦争研究__international-security-war-studies/_MOC.md|国際安全保障・戦争研究]] - 1 articles
 
 ## Article Map
+
 ### 国際安全保障・戦争研究
 - [[10_Published/03_Society_Policy_Law_Governance/国際安全保障・戦争研究__international-security-war-studies/現在の世界情勢を戦争の観点から読む__world-war-situation-2026-05-01.md|現在の世界情勢を戦争の観点から読む]] - updated 2026-05-01
 

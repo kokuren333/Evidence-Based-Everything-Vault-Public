@@ -1,16 +1,18 @@
-# 04_Economy_Business_Work MOC
+# 経済・ビジネス・仕事 MOC
 
-- Rebuilt: 2026-05-07 00:00:00 +09:00
+- Rebuilt: 2026-05-07 09:17:18 +09:00
+- Category path: `10_Published/04_Economy_Business_Work`
 - Subfields: 1
 - Published articles: 1
 
 ## Overview
-This category MOC is rebuilt from the filesystem under `10_Published/04_Economy_Business_Work` and is organized by published subfield for complete coverage.
+`04_Economy_Business_Work` 配下の公開済み小分野と記事を、ファイルシステム走査に基づいて完全到達できる形で整理したMOCです。
 
 ## Subfield Index
-- [[10_Published/04_Economy_Business_Work/個人資産形成__personal-wealth-building/_MOC.md|個人資産形成__personal-wealth-building]] - 1 articles
+- [[10_Published/04_Economy_Business_Work/個人資産形成__personal-wealth-building/_MOC.md|個人資産形成]] - 1 articles
 
 ## Article Map
+
 ### 個人資産形成
 - [[10_Published/04_Economy_Business_Work/個人資産形成__personal-wealth-building/日本における株式投資のスタンダード戦略__japan-stock-investing-standard-strategy.md|日本における株式投資のスタンダード戦略]] - updated 2026-05-02
 
