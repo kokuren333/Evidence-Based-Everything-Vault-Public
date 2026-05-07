@@ -1,27 +1,27 @@
 ﻿# MOC - All Published
 
-> Rebuilt by taxonomy maintenance job job-20260507012758-omj0nm on 2026-05-07 10:31:32 +09:00. This MOC is generated from the current vault filesystem inventory.
-
+> Rebuilt by taxonomy repair job job-20260507012709-wmgm4y on 2026-05-07 10:42:56 +09:00. Generated from the current 10_Published filesystem inventory.
 
 ## Root
 
-- [[10_Published/_MOC.md|Published MOC]]
+- [[10_Published/_MOC.md|Published Root MOC]]
 
 ## Categories
 
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|01_Life_Health_Medicine]]
-- [[10_Published/02_Mind_Education_Human_Development/_MOC.md|02_Mind_Education_Human_Development]]
-- [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|03_Society_Policy_Law_Governance]]
-- [[10_Published/04_Economy_Business_Work/_MOC.md|04_Economy_Business_Work]]
-- [[10_Published/05_Nature_Science_Environment/_MOC.md|05_Nature_Science_Environment]]
-- [[10_Published/06_Mathematics_Logic_Formal_Systems/_MOC.md|06_Mathematics_Logic_Formal_Systems]]
-- [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|07_Technology_Engineering_Computing_AI]]
-- [[10_Published/08_Humanities_History_Culture_Arts/_MOC.md|08_Humanities_History_Culture_Arts]]
-- [[10_Published/09_Information_Media_OSINT_Security/_MOC.md|09_Information_Media_OSINT_Security]]
-- [[10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md|10_Life_Design_Practice_Creative_Work]]
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学（01_Life_Health_Medicine）]] - 小分野 15、記事 34
+- [[10_Published/02_Mind_Education_Human_Development/_MOC.md|心理・教育・人間発達（02_Mind_Education_Human_Development）]] - 小分野 4、記事 5
+- [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|社会・政策・法・ガバナンス（03_Society_Policy_Law_Governance）]] - 小分野 1、記事 1
+- [[10_Published/04_Economy_Business_Work/_MOC.md|経済・ビジネス・仕事（04_Economy_Business_Work）]] - 小分野 1、記事 1
+- [[10_Published/05_Nature_Science_Environment/_MOC.md|自然科学・環境（05_Nature_Science_Environment）]] - 小分野 1、記事 1
+- [[10_Published/06_Mathematics_Logic_Formal_Systems/_MOC.md|数学・論理・形式体系（06_Mathematics_Logic_Formal_Systems）]] - 小分野 0、記事 0
+- [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|技術・工学・コンピューティング・AI（07_Technology_Engineering_Computing_AI）]] - 小分野 6、記事 8
+- [[10_Published/08_Humanities_History_Culture_Arts/_MOC.md|人文・歴史・文化・芸術（08_Humanities_History_Culture_Arts）]] - 小分野 1、記事 1
+- [[10_Published/09_Information_Media_OSINT_Security/_MOC.md|情報・メディア・OSINT・セキュリティ（09_Information_Media_OSINT_Security）]] - 小分野 0、記事 0
+- [[10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md|ライフデザイン・実践・創作（10_Life_Design_Practice_Creative_Work）]] - 小分野 3、記事 3
 
 ## All Published Articles
 
+### 生命・健康・医学
 - [[10_Published/01_Life_Health_Medicine/医学教育・臨床文書__medical-education-clinical-documentation/研修医の病歴要約の書き方__resident-case-summary-writing.md|研修医の病歴要約の書き方]]
 - [[10_Published/01_Life_Health_Medicine/栄養と飲料__nutrition-and-beverages/コーヒーと疾患予防効果およびリスク__coffee-disease-prevention-risks.md|コーヒーと疾患予防効果およびリスク]]
 - [[10_Published/01_Life_Health_Medicine/栄養と飲料__nutrition-and-beverages/緑茶とジャスミン茶はどちらが身体に良いのか__green-tea-vs-jasmine-tea-health.md|緑茶とジャスミン茶はどちらが身体に良いのか]]
@@ -36,6 +36,7 @@
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/エラスチカ・マッソン染色とIgG4関連腎疾患の腎生検__elastica-masson-igg4-related-kidney-biopsy.md|エラスチカ・マッソン染色とIgG4関連腎疾患の腎生検]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ネフローゼ症候群の治療方針と治療薬__nephrotic-syndrome-treatment-medications.md|ネフローゼ症候群の治療方針と治療薬]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓の構造と機能__kidney-structure-function-residents.md|腎臓の構造と機能]]
+- [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓疾患で気をつけるべき心電図所見__kidney-disease-ecg-findings.md|腎臓疾患で気をつけるべき心電図所見]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓内科でよく使う薬：一般名と商品名の対応表__nephrology-common-medications-generic-brand-list.md|腎臓内科でよく使う薬：一般名と商品名の対応表]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓内科における必須知識のまとめ__nephrology-essential-knowledge-summary.md|腎臓内科における必須知識のまとめ]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓内科学・内科一般を学ぶためのロードマップ__nephrology-internal-medicine-learning-roadmap.md|腎臓内科学・内科一般を学ぶためのロードマップ]]
@@ -55,14 +56,27 @@
 - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/ANCA関連血管炎の種類と病態__anca-associated-vasculitis-types-pathophysiology.md|ANCA関連血管炎の種類と病態]]
 - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/IgG4関連疾患の疾患概念と病態__igg4-related-disease-concept-pathogenesis.md|IgG4関連疾患の疾患概念と病態]]
 - [[10_Published/01_Life_Health_Medicine/臨床精神医学・精神病理学__clinical-psychiatry-psychopathology/臨床精神医学・精神病理学を学ぶためのロードマップ__clinical-psychiatry-psychopathology-learning-roadmap.md|臨床精神医学・精神病理学を学ぶためのロードマップ]]
+
+### 心理・教育・人間発達
 - [[10_Published/02_Mind_Education_Human_Development/進化心理学__evolutionary-psychology/恋愛と進化心理学：進化心理学とは__love-and-evolutionary-psychology-overview.md|恋愛と進化心理学：進化心理学とは]]
 - [[10_Published/02_Mind_Education_Human_Development/第二言語習得・英語学習__second-language-acquisition-english-learning/英語を確実に上達させるための完全な方法論__complete-methodology-for-improving-english.md|英語を確実に上達させるための完全な方法論]]
 - [[10_Published/02_Mind_Education_Human_Development/臨床心理・心理療法__clinical-psychology-psychotherapy/好性転移を起こした患者への対応方法__erotic-transference-management.md|好性転移を起こした患者への対応方法]]
 - [[10_Published/02_Mind_Education_Human_Development/恋愛・親密性研究__romance-intimacy-studies/with攻略法：価値観・誠実さ・安全性で出会いの質を上げる__with-dating-app-strategy.md|with攻略法：価値観・誠実さ・安全性で出会いの質を上げる]]
 - [[10_Published/02_Mind_Education_Human_Development/恋愛・親密性研究__romance-intimacy-studies/恋愛工学とは何か__love-engineering.md|恋愛工学とは何か]]
+
+### 社会・政策・法・ガバナンス
 - [[10_Published/03_Society_Policy_Law_Governance/国際安全保障・戦争研究__international-security-war-studies/現在の世界情勢を戦争の観点から読む__world-war-situation-2026-05-01.md|現在の世界情勢を戦争の観点から読む]]
+
+### 経済・ビジネス・仕事
 - [[10_Published/04_Economy_Business_Work/個人資産形成__personal-wealth-building/日本における株式投資のスタンダード戦略__japan-stock-investing-standard-strategy.md|日本における株式投資のスタンダード戦略]]
+
+### 自然科学・環境
 - [[10_Published/05_Nature_Science_Environment/大気光学__atmospheric-optics/空が青く見える理由__why-sky-appears-blue.md|空が青く見える理由]]
+
+### 数学・論理・形式体系
+- 現在、公開記事はありません。
+
+### 技術・工学・コンピューティング・AI
 - [[10_Published/07_Technology_Engineering_Computing_AI/3Dプリンティング材料__3d-printing-materials/3Dプリンターフィラメントの最新素材と2026年春のトレンド__3d-printer-filament-trends-2026-spring.md|3Dプリンターフィラメントの最新素材と2026年春のトレンド]]
 - [[10_Published/07_Technology_Engineering_Computing_AI/3Dプリンティング材料__3d-printing-materials/3Dプリンターフィラメント間の接着性比較__filament-adhesion-compatibility.md|3Dプリンターフィラメント間の接着性比較]]
 - [[10_Published/07_Technology_Engineering_Computing_AI/GPU・並列計算__gpu-parallel-computing/GPUとは何か__what-is-gpu.md|GPUとは何か]]
@@ -71,11 +85,14 @@
 - [[10_Published/07_Technology_Engineering_Computing_AI/橋梁設計・維持管理__bridge-design-maintenance/主に日本における橋梁設計は今後どう変わるか__future-of-bridge-design-in-japan.md|主に日本における橋梁設計は今後どう変わるか]]
 - [[10_Published/07_Technology_Engineering_Computing_AI/深層学習アーキテクチャ__deep-learning-architectures/Transformerとは何か：Attention Is All You Needの要点__transformer-attention-is-all-you-need.md|Transformerとは何か：Attention Is All You Needの要点]]
 - [[10_Published/07_Technology_Engineering_Computing_AI/数値計算・科学技術計算__numerical-scientific-computing/NumPyにおける主要な構文や関数__numpy-main-syntax-functions.md|NumPyにおける主要な構文や関数]]
+
+### 人文・歴史・文化・芸術
 - [[10_Published/08_Humanities_History_Culture_Arts/食文化史__food-culture-history/フランス料理の歴史__french-cuisine-history.md|フランス料理の歴史]]
+
+### 情報・メディア・OSINT・セキュリティ
+- 現在、公開記事はありません。
+
+### ライフデザイン・実践・創作
 - [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/代表的なカクテルとその作り方__representative-cocktails-how-to-make.md|代表的なカクテルとその作り方]]
 - [[10_Published/10_Life_Design_Practice_Creative_Work/北海道グルメ実践__hokkaido-food-practice/北海道の夜ラーメン案内__hokkaido-night-ramen-guide.md|北海道の夜ラーメン案内]]
 - [[10_Published/10_Life_Design_Practice_Creative_Work/料理実践__cooking-practice/美味しい唐揚げの作り方レシピ__karaage-recipe-evidence-based.md|美味しい唐揚げの作り方レシピ]]
-
-## Daily Briefings
-
-- [[11_Daily/_MOC.md|Daily Briefings MOC]]
