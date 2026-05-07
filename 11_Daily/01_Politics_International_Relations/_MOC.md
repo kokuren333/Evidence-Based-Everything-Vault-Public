@@ -1,14 +1,15 @@
 ﻿# 01_Politics_International_Relations Daily MOC
 
-> Rebuilt by taxonomy maintenance job job-20260507012758-omj0nm on 2026-05-07 10:31:32 +09:00. This MOC is generated from the current vault filesystem inventory.
+> Updated by daily news job job-20260507210007-irbkuk on 2026-05-08.
 
 
 ## 月別索引
 
-- [[11_Daily/01_Politics_International_Relations/2026-05/_MOC.md|2026-05]] - 記事 6
+- [[11_Daily/01_Politics_International_Relations/2026-05/_MOC.md|2026-05]] - 記事 7
 
 ## 記事一覧
 
+- [[11_Daily/01_Politics_International_Relations/2026-05/2026-05-08_Politics_International_Relations.md|2026-05-08_Politics_International_Relations]]
 - [[11_Daily/01_Politics_International_Relations/2026-05/2026-05-07_Politics_International_Relations.md|2026-05-07_Politics_International_Relations]]
 - [[11_Daily/01_Politics_International_Relations/2026-05/2026-05-06_Politics_International_Relations.md|2026-05-06_Politics_International_Relations]]
 - [[11_Daily/01_Politics_International_Relations/2026-05/2026-05-05_Politics_International_Relations.md|2026-05-05_Politics_International_Relations]]
