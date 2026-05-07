@@ -1,11 +1,11 @@
-# 03_Society_Policy_Law_Governance MOC
+﻿# 03_Society_Policy_Law_Governance MOC
 
 - Rebuilt: 2026-05-07 00:00:00 +09:00
 - Subfields: 1
 - Published articles: 1
 
 ## Overview
-This category MOC is rebuilt from the filesystem under $(Rel @{Path=C:\EBE_Worktrees\job-20260506234606-bj7x3f\10_Published\03_Society_Policy_Law_Governance; Name=03_Society_Policy_Law_Governance; Subfields=System.Object[]; ArticleCount=1}.Path) and is organized by published subfield.
+This category MOC is rebuilt from the filesystem under `10_Published/03_Society_Policy_Law_Governance` and is organized by published subfield for complete coverage.
 
 ## Subfield Index
 - [[10_Published/03_Society_Policy_Law_Governance/国際安全保障・戦争研究__international-security-war-studies/_MOC.md|国際安全保障・戦争研究__international-security-war-studies]] - 1 articles
@@ -17,6 +17,7 @@ This category MOC is rebuilt from the filesystem under $(Rel @{Path=C:\EBE_Workt
 ## Related MOCs
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
 
 ## Coverage Check
 - Every published subfield directory in this category is linked above.

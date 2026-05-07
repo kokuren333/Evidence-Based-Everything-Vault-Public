@@ -1,4 +1,4 @@
-# 料理実践 MOC
+﻿# 料理実践 MOC
 
 - Rebuilt: 2026-05-07 00:00:00 +09:00
 - Category: 10_Life_Design_Practice_Creative_Work
@@ -10,6 +10,7 @@
 ## Parent MOCs
 - [[10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md|10_Life_Design_Practice_Creative_Work]]
 - [[10_Published/_MOC.md|Published Root MOC]]
+- [[60_MOCs/MOC - All Published.md|MOC - All Published]]
 
 ## Coverage Check
 - Every non-MOC Markdown article in this subfield directory is listed above exactly once.

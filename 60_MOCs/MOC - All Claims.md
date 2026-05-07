@@ -31,3 +31,4 @@
 - [[40_Claims/研修医の病歴要約の書き方__resident-case-summary-writing/claims.md|claims]]
 - [[40_Claims/神経薬理学__neuropharmacology/neuropharmacology-overview_claims.md|neuropharmacology-overview_claims]]
 - [[40_Claims/恋愛工学__love-engineering/love-engineering_claims.md|love-engineering_claims]]
+- [[40_Claims/inpatient-peritonitis-response-differential_claims.md|inpatient-peritonitis-response-differential_claims]]

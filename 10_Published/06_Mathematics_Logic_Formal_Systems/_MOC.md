@@ -1,11 +1,11 @@
-# 06_Mathematics_Logic_Formal_Systems MOC
+﻿# 06_Mathematics_Logic_Formal_Systems MOC
 
 - Rebuilt: 2026-05-07 00:00:00 +09:00
 - Subfields: 0
 - Published articles: 0
 
 ## Overview
-This category MOC is rebuilt from the filesystem under $(Rel @{Path=C:\EBE_Worktrees\job-20260506234606-bj7x3f\10_Published\06_Mathematics_Logic_Formal_Systems; Name=06_Mathematics_Logic_Formal_Systems; Subfields=System.Object[]; ArticleCount=0}.Path) and is organized by published subfield.
+This category MOC is rebuilt from the filesystem under `10_Published/06_Mathematics_Logic_Formal_Systems` and is organized by published subfield for complete coverage.
 
 ## Subfield Index
 - No published subfields yet.
@@ -16,6 +16,7 @@ This category MOC is rebuilt from the filesystem under $(Rel @{Path=C:\EBE_Workt
 ## Related MOCs
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
 
 ## Coverage Check
 - Every published subfield directory in this category is linked above.

@@ -31,3 +31,4 @@
 - [[30_Sources/研修医の病歴要約の書き方__resident-case-summary-writing/sources.md|sources]]
 - [[30_Sources/神経薬理学__neuropharmacology/neuropharmacology-overview_sources.md|neuropharmacology-overview_sources]]
 - [[30_Sources/恋愛工学__love-engineering/love-engineering_sources.md|love-engineering_sources]]
+- [[30_Sources/inpatient-peritonitis-response-differential_sources.md|inpatient-peritonitis-response-differential_sources]]
