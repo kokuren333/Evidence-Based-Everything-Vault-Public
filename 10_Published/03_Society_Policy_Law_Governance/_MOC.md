@@ -1,12 +1,12 @@
 # 社会・政策・法・ガバナンス MOC
 
-- Rebuilt: 2026-05-07 09:17:18 +09:00
+- Rebuilt: 2026-05-07 00:09:23 +09:00
 - Category path: `10_Published/03_Society_Policy_Law_Governance`
 - Subfields: 1
 - Published articles: 1
 
 ## Overview
-`03_Society_Policy_Law_Governance` 配下の公開済み小分野と記事を、ファイルシステム走査に基づいて完全到達できる形で整理したMOCです。
+社会・政策・法・ガバナンス contains the published subfields and articles currently present under 10_Published/.
 
 ## Subfield Index
 - [[10_Published/03_Society_Policy_Law_Governance/国際安全保障・戦争研究__international-security-war-studies/_MOC.md|国際安全保障・戦争研究]] - 1 articles
@@ -24,3 +24,4 @@
 ## Coverage Check
 - Every published subfield directory in this category is linked above.
 - Every non-MOC Markdown article in this category is reachable through its subfield section.
+- No articles are placed directly under the major category directory.
