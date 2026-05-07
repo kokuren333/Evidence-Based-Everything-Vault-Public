@@ -1,12 +1,21 @@
-# Daily 08_Law_Institutions_Ethics  - Field path: 11_Daily/08_Law_Institutions_Ethics - Months: 1 - Briefings: 3 - Rebuilt: 2026-05-05 10:07:12 +09:00  ## Month Index
-- [[11_Daily/08_Law_Institutions_Ethics/2026-05/_MOC.md|2026-05]] - 3 briefings
+﻿# 08_Law_Institutions_Ethics Daily MOC
 
-## Briefings By Date
-### 2026-05
-- [[11_Daily/08_Law_Institutions_Ethics/2026-05/2026-05-02_Law_Institutions_Ethics.md|2026-05-02_Law_Institutions_Ethics]]
-- [[11_Daily/08_Law_Institutions_Ethics/2026-05/2026-05-03_Law_Institutions_Ethics.md|2026-05-03_Law_Institutions_Ethics]]
+> Rebuilt by taxonomy maintenance job job-20260507012758-omj0nm on 2026-05-07 10:31:32 +09:00. This MOC is generated from the current vault filesystem inventory.
+
+
+## 月別索引
+
+- [[11_Daily/08_Law_Institutions_Ethics/2026-05/_MOC.md|2026-05]] - 記事 6
+
+## 記事一覧
+
+- [[11_Daily/08_Law_Institutions_Ethics/2026-05/2026-05-07_Law_Institutions_Ethics.md|2026-05-07_Law_Institutions_Ethics]]
+- [[11_Daily/08_Law_Institutions_Ethics/2026-05/2026-05-06_Law_Institutions_Ethics.md|2026-05-06_Law_Institutions_Ethics]]
+- [[11_Daily/08_Law_Institutions_Ethics/2026-05/2026-05-05_Law_Institutions_Ethics.md|2026-05-05_Law_Institutions_Ethics]]
 - [[11_Daily/08_Law_Institutions_Ethics/2026-05/2026-05-04_Law_Institutions_Ethics.md|2026-05-04_Law_Institutions_Ethics]]
+- [[11_Daily/08_Law_Institutions_Ethics/2026-05/2026-05-03_Law_Institutions_Ethics.md|2026-05-03_Law_Institutions_Ethics]]
+- [[11_Daily/08_Law_Institutions_Ethics/2026-05/2026-05-02_Law_Institutions_Ethics.md|2026-05-02_Law_Institutions_Ethics]]
 
-## Navigation
-- 
-[[11_Daily/_MOC.md|Daily Root MOC]]
+## 上位MOC
+
+- [[11_Daily/_MOC.md|Daily Briefings MOC]]

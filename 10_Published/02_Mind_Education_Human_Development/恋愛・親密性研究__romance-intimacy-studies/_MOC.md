@@ -1,19 +1,18 @@
-# 恋愛・親密性研究 MOC
+﻿# 恋愛・親密性研究 MOC
 
-- Rebuilt: 2026-05-07 00:09:23 +09:00
-- Category: [[10_Published/02_Mind_Education_Human_Development/_MOC.md|心理・教育・人間発達]]
-- Subfield path: `10_Published/02_Mind_Education_Human_Development/恋愛・親密性研究__romance-intimacy-studies`
-- Published articles: 2
+> Rebuilt by taxonomy maintenance job job-20260507012758-omj0nm on 2026-05-07 10:31:32 +09:00. This MOC is generated from the current vault filesystem inventory.
 
-## Articles
-- [[10_Published/02_Mind_Education_Human_Development/恋愛・親密性研究__romance-intimacy-studies/with攻略法：価値観・誠実さ・安全性で出会いの質を上げる__with-dating-app-strategy.md|with攻略法：価値観・誠実さ・安全性で出会いの質を上げる]] - updated 2026-05-05
-- [[10_Published/02_Mind_Education_Human_Development/恋愛・親密性研究__romance-intimacy-studies/恋愛工学とは何か__love-engineering.md|恋愛工学とは何か]] - updated 2026-05-02
 
-## Related MOCs
-- [[10_Published/_MOC.md|Published Root MOC]]
-- [[60_MOCs/MOC - All Published.md|MOC - All Published]]
-- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
+## 所属
 
-## Coverage Check
-- Every non-MOC Markdown article in this subfield directory is listed above.
-- This MOC is linked from the category MOC and global published indexes.
+- 大分類: [[10_Published/02_Mind_Education_Human_Development/_MOC.md|02_Mind_Education_Human_Development]]
+- 小分野ディレクトリ: $(@{Category=02_Mind_Education_Human_Development; Subfield=恋愛・親密性研究__romance-intimacy-studies; Articles=System.Object[]}.Subfield.Name) 
+
+## 記事一覧
+
+- [[10_Published/02_Mind_Education_Human_Development/恋愛・親密性研究__romance-intimacy-studies/with攻略法：価値観・誠実さ・安全性で出会いの質を上げる__with-dating-app-strategy.md|with攻略法：価値観・誠実さ・安全性で出会いの質を上げる]]
+- [[10_Published/02_Mind_Education_Human_Development/恋愛・親密性研究__romance-intimacy-studies/恋愛工学とは何か__love-engineering.md|恋愛工学とは何か]]
+
+## 上位MOC
+
+- [[10_Published/_MOC.md|Published MOC]]

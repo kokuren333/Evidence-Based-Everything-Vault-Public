@@ -1,19 +1,18 @@
-# 機械学習予測 MOC
+﻿# 機械学習予測 MOC
 
-- Rebuilt: 2026-05-07 00:09:23 +09:00
-- Category: [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|技術・工学・コンピューティング・AI]]
-- Subfield path: `10_Published/07_Technology_Engineering_Computing_AI/機械学習予測__machine-learning-prediction`
-- Published articles: 2
+> Rebuilt by taxonomy maintenance job job-20260507012758-omj0nm on 2026-05-07 10:31:32 +09:00. This MOC is generated from the current vault filesystem inventory.
 
-## Articles
-- [[10_Published/07_Technology_Engineering_Computing_AI/機械学習予測__machine-learning-prediction/競輪の機械学習予測についてわかっていること__keirin-machine-learning-prediction.md|競輪の機械学習予測についてわかっていること]] - updated 2026-05-06
-- [[10_Published/07_Technology_Engineering_Computing_AI/機械学習予測__machine-learning-prediction/公営競技で優れたモデルを構築できればオッズを見なくても勝てるか__public-sports-model-odds-expected-value.md|公営競技で優れたモデルを構築できればオッズを見なくても勝てるか]] - updated 2026-05-07
 
-## Related MOCs
-- [[10_Published/_MOC.md|Published Root MOC]]
-- [[60_MOCs/MOC - All Published.md|MOC - All Published]]
-- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
+## 所属
 
-## Coverage Check
-- Every non-MOC Markdown article in this subfield directory is listed above.
-- This MOC is linked from the category MOC and global published indexes.
+- 大分類: [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|07_Technology_Engineering_Computing_AI]]
+- 小分野ディレクトリ: $(@{Category=07_Technology_Engineering_Computing_AI; Subfield=機械学習予測__machine-learning-prediction; Articles=System.Object[]}.Subfield.Name) 
+
+## 記事一覧
+
+- [[10_Published/07_Technology_Engineering_Computing_AI/機械学習予測__machine-learning-prediction/競輪の機械学習予測についてわかっていること__keirin-machine-learning-prediction.md|競輪の機械学習予測についてわかっていること]]
+- [[10_Published/07_Technology_Engineering_Computing_AI/機械学習予測__machine-learning-prediction/公営競技で優れたモデルを構築できればオッズを見なくても勝てるか__public-sports-model-odds-expected-value.md|公営競技で優れたモデルを構築できればオッズを見なくても勝てるか]]
+
+## 上位MOC
+
+- [[10_Published/_MOC.md|Published MOC]]

@@ -1,25 +1,19 @@
-# 数学・論理・形式体系 MOC
+﻿# 06_Mathematics_Logic_Formal_Systems MOC
 
-- Rebuilt: 2026-05-07 00:09:23 +09:00
-- Category path: `10_Published/06_Mathematics_Logic_Formal_Systems`
-- Subfields: 0
-- Published articles: 0
+> Rebuilt by taxonomy maintenance job job-20260507012758-omj0nm on 2026-05-07 10:31:32 +09:00. This MOC is generated from the current vault filesystem inventory.
 
-## Overview
-数学・論理・形式体系 contains the published subfields and articles currently present under 10_Published/.
 
-## Subfield Index
-- No published subfields yet.
+## 概説
 
-## Article Map
-- No published articles yet.
+この大分類には、現在 0 小分野、0 記事が収録されています。
 
-## Related MOCs
-- [[10_Published/_MOC.md|Published Root MOC]]
+## 小分野索引
+
+- 収録小分野なし
+
+## 体系別記事一覧
+
+## 関連MOC
+
+- [[10_Published/_MOC.md|Published MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
-- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
-
-## Coverage Check
-- Every published subfield directory in this category is linked above.
-- Every non-MOC Markdown article in this category is reachable through its subfield section.
-- No articles are placed directly under the major category directory.

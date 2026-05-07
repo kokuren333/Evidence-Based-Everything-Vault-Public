@@ -1,18 +1,17 @@
-# 数値計算・科学技術計算 MOC
+﻿# 数値計算・科学技術計算 MOC
 
-- Rebuilt: 2026-05-07 00:09:23 +09:00
-- Category: [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|技術・工学・コンピューティング・AI]]
-- Subfield path: `10_Published/07_Technology_Engineering_Computing_AI/数値計算・科学技術計算__numerical-scientific-computing`
-- Published articles: 1
+> Rebuilt by taxonomy maintenance job job-20260507012758-omj0nm on 2026-05-07 10:31:32 +09:00. This MOC is generated from the current vault filesystem inventory.
 
-## Articles
-- [[10_Published/07_Technology_Engineering_Computing_AI/数値計算・科学技術計算__numerical-scientific-computing/NumPyにおける主要な構文や関数__numpy-main-syntax-functions.md|NumPyにおける主要な構文や関数]] - updated 2026-05-01
 
-## Related MOCs
-- [[10_Published/_MOC.md|Published Root MOC]]
-- [[60_MOCs/MOC - All Published.md|MOC - All Published]]
-- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
+## 所属
 
-## Coverage Check
-- Every non-MOC Markdown article in this subfield directory is listed above.
-- This MOC is linked from the category MOC and global published indexes.
+- 大分類: [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|07_Technology_Engineering_Computing_AI]]
+- 小分野ディレクトリ: $(@{Category=07_Technology_Engineering_Computing_AI; Subfield=数値計算・科学技術計算__numerical-scientific-computing; Articles=NumPyにおける主要な構文や関数__numpy-main-syntax-functions.md}.Subfield.Name) 
+
+## 記事一覧
+
+- [[10_Published/07_Technology_Engineering_Computing_AI/数値計算・科学技術計算__numerical-scientific-computing/NumPyにおける主要な構文や関数__numpy-main-syntax-functions.md|NumPyにおける主要な構文や関数]]
+
+## 上位MOC
+
+- [[10_Published/_MOC.md|Published MOC]]

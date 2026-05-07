@@ -1,27 +1,23 @@
-# 経済・ビジネス・仕事 MOC
+﻿# 04_Economy_Business_Work MOC
 
-- Rebuilt: 2026-05-07 00:09:23 +09:00
-- Category path: `10_Published/04_Economy_Business_Work`
-- Subfields: 1
-- Published articles: 1
+> Rebuilt by taxonomy maintenance job job-20260507012758-omj0nm on 2026-05-07 10:31:32 +09:00. This MOC is generated from the current vault filesystem inventory.
 
-## Overview
-経済・ビジネス・仕事 contains the published subfields and articles currently present under 10_Published/.
 
-## Subfield Index
-- [[10_Published/04_Economy_Business_Work/個人資産形成__personal-wealth-building/_MOC.md|個人資産形成]] - 1 articles
+## 概説
 
-## Article Map
+この大分類には、現在 1 小分野、1 記事が収録されています。
+
+## 小分野索引
+
+- [[10_Published/04_Economy_Business_Work/個人資産形成__personal-wealth-building/_MOC.md|個人資産形成]] - 記事 1
+
+## 体系別記事一覧
 
 ### 個人資産形成
-- [[10_Published/04_Economy_Business_Work/個人資産形成__personal-wealth-building/日本における株式投資のスタンダード戦略__japan-stock-investing-standard-strategy.md|日本における株式投資のスタンダード戦略]] - updated 2026-05-02
 
-## Related MOCs
-- [[10_Published/_MOC.md|Published Root MOC]]
+- [[10_Published/04_Economy_Business_Work/個人資産形成__personal-wealth-building/日本における株式投資のスタンダード戦略__japan-stock-investing-standard-strategy.md|日本における株式投資のスタンダード戦略]]
+
+## 関連MOC
+
+- [[10_Published/_MOC.md|Published MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
-- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
-
-## Coverage Check
-- Every published subfield directory in this category is linked above.
-- Every non-MOC Markdown article in this category is reachable through its subfield section.
-- No articles are placed directly under the major category directory.
