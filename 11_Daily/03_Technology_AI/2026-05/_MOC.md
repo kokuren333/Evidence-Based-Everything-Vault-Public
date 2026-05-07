@@ -10,6 +10,7 @@
 
 ## 日付別記事
 
+- [[11_Daily/03_Technology_AI/2026-05/2026-05-08_Technology_AI.md|2026-05-08_Technology_AI]]
 - [[11_Daily/03_Technology_AI/2026-05/2026-05-07_Technology_AI.md|2026-05-07_Technology_AI]]
 - [[11_Daily/03_Technology_AI/2026-05/2026-05-06_Technology_AI.md|2026-05-06_Technology_AI]]
 - [[11_Daily/03_Technology_AI/2026-05/2026-05-05_Technology_AI.md|2026-05-05_Technology_AI]]

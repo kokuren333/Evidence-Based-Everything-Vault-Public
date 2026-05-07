@@ -1,23 +1,25 @@
-# ????????????08_Humanities_History_Culture_Arts?MOC
+# 人文学・歴史・文化・芸術 MOC
 
-> Rebuilt by taxonomy repair job job-20260507014703-3dknyy on 2026-05-07 10:59:02 +09:00. Generated from the current 10_Published filesystem inventory.
+> Rebuilt by taxonomy repair job job-20260507232547-x0mipa on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
 
-## ??
+## Overview
 
-??????????????????????????????????????MOC???
+- Subfields: 1
+- Published articles: 1
 
-## ?????
+## Subfields
 
-- [[10_Published/08_Humanities_History_Culture_Arts/食文化史__food-culture-history/_MOC.md|食文化史]] - ?? 1
+- [[10_Published/08_Humanities_History_Culture_Arts/食文化史__food-culture-history/_MOC.md|食文化史]] - 1 articles
 
-## ????
+## Articles
 
 ### 食文化史
 
 - [[10_Published/08_Humanities_History_Culture_Arts/食文化史__food-culture-history/フランス料理の歴史__french-cuisine-history.md|フランス料理の歴史]]
 
-## ??MOC
+## Related MOCs
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
