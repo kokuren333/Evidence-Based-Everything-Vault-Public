@@ -8,6 +8,8 @@
 
 ## Articles
 
+- [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/タンパク尿と血尿の病態の違い__proteinuria-vs-hematuria-pathology.md|タンパク尿と血尿の病態の違い]]
+
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ANCA関連血管炎と腎臓__anca-associated-vasculitis-kidney-nephrology.md|ANCA関連血管炎と腎臓]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/IgG4関連疾患と腎機能__igg4-related-disease-kidney-function.md|IgG4関連疾患と腎機能]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/どこから腎不全か__renal-failure-thresholds.md|どこから腎不全か]]

@@ -23,6 +23,8 @@
 
 ### Recent Addition
 
+- [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/タンパク尿と血尿の病態の違い__proteinuria-vs-hematuria-pathology.md|タンパク尿と血尿の病態の違い]]
+
 - [[10_Published/01_Life_Health_Medicine/抗菌薬治療__antimicrobial-therapy/セフメタゾール__cefmetazole.md|セフメタゾール]]
 
 ### 01_Life_Health_Medicine

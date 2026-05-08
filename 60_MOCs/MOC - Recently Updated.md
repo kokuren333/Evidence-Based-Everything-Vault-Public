@@ -4,6 +4,8 @@
 
 ## Recently Updated Articles
 
+- 2026-05-08 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/タンパク尿と血尿の病態の違い__proteinuria-vs-hematuria-pathology.md|タンパク尿と血尿の病態の違い]]
+
 - 2026-05-08 - [[10_Published/01_Life_Health_Medicine/抗菌薬治療__antimicrobial-therapy/セフメタゾール__cefmetazole.md|セフメタゾール]]
 
 - 2026-05-08 11:24:34 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/透析対象患者で気をつけるべき心電図__dialysis-ecg-watchpoints.md|透析対象患者で気をつけるべき心電図]]

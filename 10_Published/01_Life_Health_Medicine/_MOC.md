@@ -8,6 +8,10 @@
 
 ## Subfield Index
 
+## Recent Addition
+
+- [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/タンパク尿と血尿の病態の違い__proteinuria-vs-hematuria-pathology.md|タンパク尿と血尿の病態の違い]]
+
 - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/_MOC.md|免疫疾患 / immune-disorders]] - 4 articles
 - [[10_Published/01_Life_Health_Medicine/入院診療・急性期医学__inpatient-acute-care-medicine/_MOC.md|入院診療・急性期医学 / inpatient-acute-care-medicine]] - 1 article
 - [[10_Published/01_Life_Health_Medicine/医学教育・臨床文書__medical-education-clinical-documentation/_MOC.md|医学教育・臨床文書 / medical-education-clinical-documentation]] - 3 articles
