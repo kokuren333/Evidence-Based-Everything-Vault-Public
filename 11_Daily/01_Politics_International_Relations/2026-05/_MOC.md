@@ -1,6 +1,6 @@
 ﻿# 01_Politics_International_Relations 2026-05 MOC
 
-> Updated by daily news job job-20260507210007-irbkuk on 2026-05-08.
+> Updated by daily news job job-20260508210022-kh7lu7 on 2026-05-09.
 
 
 ## 所属
@@ -10,6 +10,7 @@
 
 ## 日付別記事
 
+- [[11_Daily/01_Politics_International_Relations/2026-05/2026-05-09_Politics_International_Relations.md|2026-05-09_Politics_International_Relations]]
 - [[11_Daily/01_Politics_International_Relations/2026-05/2026-05-08_Politics_International_Relations.md|2026-05-08_Politics_International_Relations]]
 - [[11_Daily/01_Politics_International_Relations/2026-05/2026-05-07_Politics_International_Relations.md|2026-05-07_Politics_International_Relations]]
 - [[11_Daily/01_Politics_International_Relations/2026-05/2026-05-06_Politics_International_Relations.md|2026-05-06_Politics_International_Relations]]
