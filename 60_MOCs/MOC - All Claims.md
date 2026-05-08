@@ -4,6 +4,8 @@
 
 ## Index
 
+- [[40_Claims/01_Life_Health_Medicine/免疫疾患__immune-disorders/igg4-related-disease-exclusion-diagnosis_claims.md|igg4-related-disease-exclusion-diagnosis_claims]]
+
 - [[40_Claims/01_Life_Health_Medicine/history-of-present-illness-writing-rules_claims.md|history-of-present-illness-writing-rules_claims]]
 - [[40_Claims/01_Life_Health_Medicine/nephrology/adult-nephrotic-syndrome-classification_claims.md|adult-nephrotic-syndrome-classification_claims]]
 - [[40_Claims/01_Life_Health_Medicine/nephrology/kidney-structure-function-residents_claims.md|kidney-structure-function-residents_claims]]

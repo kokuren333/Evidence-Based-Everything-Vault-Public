@@ -4,6 +4,8 @@
 
 ## Index
 
+- [[30_Sources/01_Life_Health_Medicine/免疫疾患__immune-disorders/igg4-related-disease-exclusion-diagnosis_sources.md|igg4-related-disease-exclusion-diagnosis_sources]]
+
 - [[30_Sources/01_Life_Health_Medicine/history-of-present-illness-writing-rules_sources.md|history-of-present-illness-writing-rules_sources]]
 - [[30_Sources/01_Life_Health_Medicine/nephrology/adult-nephrotic-syndrome-classification_sources.md|adult-nephrotic-syndrome-classification_sources]]
 - [[30_Sources/01_Life_Health_Medicine/nephrology/kidney-structure-function-residents_sources.md|kidney-structure-function-residents_sources]]
