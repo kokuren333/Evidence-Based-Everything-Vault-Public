@@ -1,10 +1,10 @@
-# 医学教育・臨床文書__medical-education-clinical-documentation MOC
+# 医学教育・臨床文書 MOC
 
-> Rebuilt by EBE job job-20260508021256-fa8rk5 on 2026-05-08 from the current subfield inventory.
+> Rebuilt by EBE job job-20260508043305-a6fczi on 2026-05-08 from the current subfield inventory.
 
 ## Parent Category
 
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|01_Life_Health_Medicine]]
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]]
 
 ## Articles
 
@@ -16,4 +16,5 @@
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

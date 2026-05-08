@@ -1,10 +1,10 @@
-# 06_Mathematics_Logic_Formal_Systems MOC
+# 数学・論理・形式体系 MOC
 
-> Rebuilt by EBE job job-20260508021256-fa8rk5 on 2026-05-08 from the current category inventory.
+> Rebuilt by EBE job job-20260508043305-a6fczi on 2026-05-08 from the current category inventory.
 
 ## Overview
 
-Published category MOC rebuilt from the current filesystem inventory.
+This MOC covers all published subfields and articles under `10_Published/06_Mathematics_Logic_Formal_Systems/` using the current filesystem inventory.
 
 ## Subfield Index
 
@@ -13,6 +13,7 @@ Published category MOC rebuilt from the current filesystem inventory.
 ## Article Coverage
 
 - No published articles yet.
+
 ## Related MOCs
 
 - [[10_Published/_MOC.md|Published Root MOC]]

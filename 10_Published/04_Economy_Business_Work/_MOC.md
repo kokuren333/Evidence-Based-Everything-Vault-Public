@@ -1,18 +1,18 @@
-# 04_Economy_Business_Work MOC
+# 経済・ビジネス・仕事 MOC
 
-> Rebuilt by EBE job job-20260508021256-fa8rk5 on 2026-05-08 from the current category inventory.
+> Rebuilt by EBE job job-20260508043305-a6fczi on 2026-05-08 from the current category inventory.
 
 ## Overview
 
-Published category MOC rebuilt from the current filesystem inventory.
+This MOC covers all published subfields and articles under `10_Published/04_Economy_Business_Work/` using the current filesystem inventory.
 
 ## Subfield Index
 
-- [[10_Published/04_Economy_Business_Work/個人資産形成__personal-wealth-building/_MOC.md|個人資産形成__personal-wealth-building]] - 1 articles
+- [[10_Published/04_Economy_Business_Work/個人資産形成__personal-wealth-building/_MOC.md|個人資産形成 / personal-wealth-building]] - 1 article
 
 ## Article Coverage
 
-### 個人資産形成__personal-wealth-building
+### 個人資産形成
 
 - [[10_Published/04_Economy_Business_Work/個人資産形成__personal-wealth-building/日本における株式投資のスタンダード戦略__japan-stock-investing-standard-strategy.md|日本における株式投資のスタンダード戦略]]
 

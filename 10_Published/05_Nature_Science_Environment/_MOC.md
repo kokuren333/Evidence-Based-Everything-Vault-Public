@@ -1,18 +1,18 @@
-# 05_Nature_Science_Environment MOC
+# 自然・科学・環境 MOC
 
-> Rebuilt by EBE job job-20260508021256-fa8rk5 on 2026-05-08 from the current category inventory.
+> Rebuilt by EBE job job-20260508043305-a6fczi on 2026-05-08 from the current category inventory.
 
 ## Overview
 
-Published category MOC rebuilt from the current filesystem inventory.
+This MOC covers all published subfields and articles under `10_Published/05_Nature_Science_Environment/` using the current filesystem inventory.
 
 ## Subfield Index
 
-- [[10_Published/05_Nature_Science_Environment/大気光学__atmospheric-optics/_MOC.md|大気光学__atmospheric-optics]] - 1 articles
+- [[10_Published/05_Nature_Science_Environment/大気光学__atmospheric-optics/_MOC.md|大気光学 / atmospheric-optics]] - 1 article
 
 ## Article Coverage
 
-### 大気光学__atmospheric-optics
+### 大気光学
 
 - [[10_Published/05_Nature_Science_Environment/大気光学__atmospheric-optics/空が青く見える理由__why-sky-appears-blue.md|空が青く見える理由]]
 

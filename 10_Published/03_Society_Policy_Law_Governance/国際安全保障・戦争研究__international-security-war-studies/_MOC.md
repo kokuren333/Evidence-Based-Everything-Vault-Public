@@ -1,10 +1,10 @@
-# 国際安全保障・戦争研究__international-security-war-studies MOC
+# 国際安全保障・戦争研究 MOC
 
-> Rebuilt by EBE job job-20260508021256-fa8rk5 on 2026-05-08 from the current subfield inventory.
+> Rebuilt by EBE job job-20260508043305-a6fczi on 2026-05-08 from the current subfield inventory.
 
 ## Parent Category
 
-- [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|03_Society_Policy_Law_Governance]]
+- [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|社会・政策・法・ガバナンス]]
 
 ## Articles
 
@@ -14,4 +14,5 @@
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

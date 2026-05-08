@@ -1,10 +1,10 @@
-# 進化心理学__evolutionary-psychology MOC
+# 進化心理学 MOC
 
-> Rebuilt by EBE job job-20260508021256-fa8rk5 on 2026-05-08 from the current subfield inventory.
+> Rebuilt by EBE job job-20260508043305-a6fczi on 2026-05-08 from the current subfield inventory.
 
 ## Parent Category
 
-- [[10_Published/02_Mind_Education_Human_Development/_MOC.md|02_Mind_Education_Human_Development]]
+- [[10_Published/02_Mind_Education_Human_Development/_MOC.md|心・教育・人間発達]]
 
 ## Articles
 
@@ -14,4 +14,5 @@
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

@@ -1,10 +1,10 @@
-# 機械学習予測__machine-learning-prediction MOC
+# 機械学習予測 MOC
 
-> Rebuilt by EBE job job-20260508021256-fa8rk5 on 2026-05-08 from the current subfield inventory.
+> Rebuilt by EBE job job-20260508043305-a6fczi on 2026-05-08 from the current subfield inventory.
 
 ## Parent Category
 
-- [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|07_Technology_Engineering_Computing_AI]]
+- [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|技術・工学・コンピューティング・AI]]
 
 ## Articles
 
@@ -15,4 +15,5 @@
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
