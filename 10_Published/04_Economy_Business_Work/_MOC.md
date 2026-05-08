@@ -1,6 +1,6 @@
 ﻿# 経済・ビジネス・仕事 MOC
 
-> Rebuilt by taxonomy repair job job-20260507232548-5oyk3z on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
+> Rebuilt by taxonomy repair job job-20260507233655-4wiwal on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
 
 ## Overview
 

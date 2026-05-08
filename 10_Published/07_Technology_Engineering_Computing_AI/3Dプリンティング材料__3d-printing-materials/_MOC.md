@@ -1,8 +1,19 @@
-﻿# 3Dプリンティング材料 MOC  > Rebuilt by taxonomy repair job job-20260507232548-5oyk3z on 2026-05-08. Generated from the current subfield inventory.  ## Parent MOCs  - [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|技術・工学・コンピューティング・AI MOC]] - [[10_Published/_MOC.md|Published Root MOC]]  ## Published Articles 
+﻿# 3Dプリンティング材料 MOC
+
+> Rebuilt by taxonomy repair job job-20260507233655-4wiwal on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
+
+## Overview
+
+- Category: [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|技術・工学・コンピューティング・AI]]
+- Published articles: 2
+
+## Articles
+
 - [[10_Published/07_Technology_Engineering_Computing_AI/3Dプリンティング材料__3d-printing-materials/3Dプリンターフィラメントの最新素材と2026年春のトレンド__3d-printer-filament-trends-2026-spring.md|3Dプリンターフィラメントの最新素材と2026年春のトレンド]]
 - [[10_Published/07_Technology_Engineering_Computing_AI/3Dプリンティング材料__3d-printing-materials/3Dプリンターフィラメント間の接着性比較__filament-adhesion-compatibility.md|3Dプリンターフィラメント間の接着性比較]]
 
-## Coverage Check
+## Related MOCs
 
-- Article count: 2
-- Source: filesystem inventory at rebuild time.
+- [[10_Published/_MOC.md|Published Root MOC]]
+- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
+- [[60_MOCs/MOC - All Published.md|MOC - All Published]]

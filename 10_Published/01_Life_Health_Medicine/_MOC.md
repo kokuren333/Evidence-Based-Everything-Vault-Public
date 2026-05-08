@@ -1,11 +1,11 @@
 ﻿# 生命・健康・医学 MOC
 
-> Rebuilt by taxonomy repair job job-20260507232548-5oyk3z on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
+> Rebuilt by taxonomy repair job job-20260507233655-4wiwal on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
 
 ## Overview
 
 - Subfields: 15
-- Published articles: 37
+- Published articles: 38
 - Parent: [[10_Published/_MOC.md|Published Root MOC]]
 
 ## Subfield Index
@@ -17,7 +17,7 @@
 - [[10_Published/01_Life_Health_Medicine/神経生理学__neurophysiology/_MOC.md|神経生理学]] - 1 articles
 - [[10_Published/01_Life_Health_Medicine/神経免疫学__neuroimmunology/_MOC.md|神経免疫学]] - 2 articles
 - [[10_Published/01_Life_Health_Medicine/神経薬理学__neuropharmacology/_MOC.md|神経薬理学]] - 1 articles
-- [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/_MOC.md|腎臓内科]] - 16 articles
+- [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/_MOC.md|腎臓内科]] - 17 articles
 - [[10_Published/01_Life_Health_Medicine/睡眠医学__sleep-medicine/_MOC.md|睡眠医学]] - 1 articles
 - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/_MOC.md|精神医学]] - 5 articles
 - [[10_Published/01_Life_Health_Medicine/入院診療・急性期医学__inpatient-acute-care-medicine/_MOC.md|入院診療・急性期医学]] - 1 articles
@@ -66,6 +66,7 @@
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ネフローゼ症候群で起こりうる症状__nephrotic-syndrome-symptoms.md|ネフローゼ症候群で起こりうる症状]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ネフローゼ症候群における腎生検の必要性__nephrotic-syndrome-kidney-biopsy-necessity.md|ネフローゼ症候群における腎生検の必要性]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ネフローゼ症候群の治療方針と治療薬__nephrotic-syndrome-treatment-medications.md|ネフローゼ症候群の治療方針と治療薬]]
+- [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/バスキャスと血液透析__vascular-catheter-hemodialysis.md|バスキャスと血液透析]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓の構造と機能__kidney-structure-function-residents.md|腎臓の構造と機能]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓疾患で気をつけるべき心電図所見__kidney-disease-ecg-findings.md|腎臓疾患で気をつけるべき心電図所見]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓内科でよく使う薬：一般名と商品名の対応表__nephrology-common-medications-generic-brand-list.md|腎臓内科でよく使う薬：一般名と商品名の対応表]]

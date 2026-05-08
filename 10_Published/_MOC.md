@@ -1,10 +1,10 @@
 ﻿# Published Root MOC
 
-> Rebuilt by taxonomy repair job job-20260507232548-5oyk3z on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
+> Rebuilt by taxonomy repair job job-20260507233655-4wiwal on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
 
 ## Categories
 
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]] - 15 subfields, 37 articles
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]] - 15 subfields, 38 articles
 - [[10_Published/02_Mind_Education_Human_Development/_MOC.md|心理・教育・人間発達]] - 4 subfields, 5 articles
 - [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|社会・政策・法・ガバナンス]] - 1 subfields, 1 articles
 - [[10_Published/04_Economy_Business_Work/_MOC.md|経済・ビジネス・仕事]] - 1 subfields, 1 articles
@@ -17,7 +17,7 @@
 
 ## Coverage Summary
 
-- Published articles: 57
+- Published articles: 58
 - Subfields: 32
 - Direct articles under category roots: 0
 

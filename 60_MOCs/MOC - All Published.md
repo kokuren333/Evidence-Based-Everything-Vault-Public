@@ -1,15 +1,14 @@
 ﻿# MOC - All Published
 
-> Rebuilt by taxonomy repair job job-20260507232548-5oyk3z on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
+> Rebuilt by taxonomy repair job job-20260507233655-4wiwal on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
 
 ## Root
 
-- 
-[[10_Published/_MOC.md|Published Root MOC]]
+- [[10_Published/_MOC.md|Published Root MOC]]
 
 ## Categories
 
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]] - 15 subfields, 37 articles
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]] - 15 subfields, 38 articles
 - [[10_Published/02_Mind_Education_Human_Development/_MOC.md|心理・教育・人間発達]] - 4 subfields, 5 articles
 - [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|社会・政策・法・ガバナンス]] - 1 subfields, 1 articles
 - [[10_Published/04_Economy_Business_Work/_MOC.md|経済・ビジネス・仕事]] - 1 subfields, 1 articles
@@ -39,6 +38,7 @@
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ネフローゼ症候群で起こりうる症状__nephrotic-syndrome-symptoms.md|ネフローゼ症候群で起こりうる症状]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ネフローゼ症候群における腎生検の必要性__nephrotic-syndrome-kidney-biopsy-necessity.md|ネフローゼ症候群における腎生検の必要性]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ネフローゼ症候群の治療方針と治療薬__nephrotic-syndrome-treatment-medications.md|ネフローゼ症候群の治療方針と治療薬]]
+- [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/バスキャスと血液透析__vascular-catheter-hemodialysis.md|バスキャスと血液透析]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓の構造と機能__kidney-structure-function-residents.md|腎臓の構造と機能]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓疾患で気をつけるべき心電図所見__kidney-disease-ecg-findings.md|腎臓疾患で気をつけるべき心電図所見]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓内科でよく使う薬：一般名と商品名の対応表__nephrology-common-medications-generic-brand-list.md|腎臓内科でよく使う薬：一般名と商品名の対応表]]
