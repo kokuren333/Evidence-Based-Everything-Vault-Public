@@ -1,6 +1,6 @@
 # 星座占い・占術文化 MOC
 
-> Rebuilt by EBE job job-20260508210023-9y5w9f on 2026-05-09 from the current subfield inventory.
+> Rebuilt by EBE job job-20260508210023-0rw2kv on 2026-05-09 from the current subfield inventory.
 
 ## Articles
 

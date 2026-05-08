@@ -1,6 +1,6 @@
 # 機械学習予測 MOC
 
-> Rebuilt by EBE job job-20260508210023-9y5w9f on 2026-05-09 from the current subfield inventory.
+> Rebuilt by EBE job job-20260508210023-0rw2kv on 2026-05-09 from the current subfield inventory.
 
 ## Articles
 
@@ -9,6 +9,6 @@
 
 ## Related MOCs
 
-- [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|Technology Engineering Computing AI]]
+- [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|Category MOC]]
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
