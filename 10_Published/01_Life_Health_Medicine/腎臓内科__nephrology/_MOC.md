@@ -1,10 +1,10 @@
-# 腎臓内科__nephrology MOC
+# 腎臓内科 MOC
 
-> Rebuilt by EBE job job-20260508021256-fa8rk5 on 2026-05-08 from the current subfield inventory.
+> Rebuilt by EBE job job-20260508023832-rbsktq on 2026-05-08 from the current subfield inventory.
 
 ## Parent Category
 
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|01_Life_Health_Medicine]]
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]]
 
 ## Articles
 
@@ -24,6 +24,7 @@
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓内科における必須知識のまとめ__nephrology-essential-knowledge-summary.md|腎臓内科における必須知識のまとめ]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓内科学・内科一般を学ぶためのロードマップ__nephrology-internal-medicine-learning-roadmap.md|腎臓内科学・内科一般を学ぶためのロードマップ]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/腎臓疾患で気をつけるべき心電図所見__kidney-disease-ecg-findings.md|腎臓疾患で気をつけるべき心電図所見]]
+- [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/血清、尿中クレアチニンでは何がわかる__serum-urine-creatinine-interpretation.md|血清、尿中クレアチニンでは何がわかる]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/透析対象患者で気をつけるべき心電図__dialysis-ecg-watchpoints.md|透析対象患者で気をつけるべき心電図]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/透析管理における血圧・心胸郭比・BNPの立ち位置__dialysis-bp-ctr-bnp-positioning.md|透析管理における血圧・心胸郭比・BNPの立ち位置]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/透析管理のゴールドスタンダード__dialysis-management-gold-standard.md|透析管理のゴールドスタンダード]]
