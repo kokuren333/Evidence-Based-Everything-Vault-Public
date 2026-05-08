@@ -1,6 +1,6 @@
 # Information Media OSINT Security MOC
 
-> Rebuilt by EBE job job-20260508210023-0rw2kv on 2026-05-09 from the current category inventory.
+> Rebuilt by EBE job job-20260508210023-83b7bc on 2026-05-09 from the current category inventory.
 
 ## Overview
 
@@ -13,7 +13,6 @@ This MOC covers all published subfields and articles under `10_Published/09_Info
 ## Article Coverage
 
 - No published articles currently exist in this category.
-
 ## Related MOCs
 
 - [[10_Published/_MOC.md|Published Root MOC]]

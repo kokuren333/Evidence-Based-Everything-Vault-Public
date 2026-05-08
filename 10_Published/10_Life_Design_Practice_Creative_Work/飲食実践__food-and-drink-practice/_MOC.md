@@ -1,6 +1,6 @@
 # 飲食実践 MOC
 
-> Rebuilt by EBE job job-20260508210023-0rw2kv on 2026-05-09 from the current subfield inventory.
+> Rebuilt by EBE job job-20260508210023-83b7bc on 2026-05-09 from the current subfield inventory.
 
 ## Articles
 
