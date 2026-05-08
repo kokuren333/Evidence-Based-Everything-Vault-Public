@@ -5,10 +5,11 @@
 
 ## 月別索引
 
-- [[11_Daily/10_Incidents_Risks_Safety/2026-05/_MOC.md|2026-05]] - 記事 7
+- [[11_Daily/10_Incidents_Risks_Safety/2026-05/_MOC.md|2026-05]] - 記事 8
 
 ## 記事一覧
 
+- [[11_Daily/10_Incidents_Risks_Safety/2026-05/2026-05-09_Incidents_Risks_Safety.md|2026-05-09_Incidents_Risks_Safety]]
 - [[11_Daily/10_Incidents_Risks_Safety/2026-05/2026-05-08_Incidents_Risks_Safety.md|2026-05-08_Incidents_Risks_Safety]]
 - [[11_Daily/10_Incidents_Risks_Safety/2026-05/2026-05-07_Incidents_Risks_Safety.md|2026-05-07_Incidents_Risks_Safety]]
 - [[11_Daily/10_Incidents_Risks_Safety/2026-05/2026-05-06_Incidents_Risks_Safety.md|2026-05-06_Incidents_Risks_Safety]]
