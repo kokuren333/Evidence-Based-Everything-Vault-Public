@@ -1,11 +1,10 @@
-# 大気光学 MOC
+# 大気光学__atmospheric-optics MOC
 
-> Rebuilt by taxonomy repair job job-20260508013632-epmy6r on 2026-05-08 from the current `10_Published/` filesystem inventory.
+> Rebuilt by EBE job job-20260508021256-fa8rk5 on 2026-05-08 from the current subfield inventory.
 
-## 所属
+## Parent Category
 
-- 大分類: [[10_Published/05_Nature_Science_Environment/_MOC.md|Nature Science Environment]]
-- 小分野: 大気光学__atmospheric-optics
+- [[10_Published/05_Nature_Science_Environment/_MOC.md|05_Nature_Science_Environment]]
 
 ## Articles
 
@@ -15,3 +14,4 @@
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

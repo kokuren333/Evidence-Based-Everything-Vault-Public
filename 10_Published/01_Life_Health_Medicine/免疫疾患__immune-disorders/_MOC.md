@@ -1,9 +1,10 @@
-# 免疫疾患 MOC
+# 免疫疾患__immune-disorders MOC
 
-## 所属
+> Rebuilt by EBE job job-20260508021256-fa8rk5 on 2026-05-08 from the current subfield inventory.
 
-- 大分類: [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]]
-- 小分野: 免疫疾患__immune-disorders
+## Parent Category
+
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|01_Life_Health_Medicine]]
 
 ## Articles
 
@@ -12,13 +13,8 @@
 - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/IgG4関連疾患の診断基準__igg4-related-disease-diagnostic-criteria.md|IgG4関連疾患の診断基準]]
 - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/IgG4関連疾患を疑った際の除外診断__igg4-related-disease-exclusion-diagnosis.md|IgG4関連疾患を疑った際の除外診断]]
 
-## 主なテーマ
-
-- IgG4関連疾患
-- ANCA関連血管炎
-- 免疫疾患の診断基準、病態、鑑別診断
-
 ## Related MOCs
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

@@ -1,11 +1,10 @@
-# 神経免疫学 MOC
+# 神経免疫学__neuroimmunology MOC
 
-> Rebuilt by taxonomy repair job job-20260508013632-epmy6r on 2026-05-08 from the current `10_Published/` filesystem inventory.
+> Rebuilt by EBE job job-20260508021256-fa8rk5 on 2026-05-08 from the current subfield inventory.
 
-## 所属
+## Parent Category
 
-- 大分類: [[10_Published/01_Life_Health_Medicine/_MOC.md|Life Health Medicine]]
-- 小分野: 神経免疫学__neuroimmunology
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|01_Life_Health_Medicine]]
 
 ## Articles
 
@@ -16,3 +15,4 @@
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

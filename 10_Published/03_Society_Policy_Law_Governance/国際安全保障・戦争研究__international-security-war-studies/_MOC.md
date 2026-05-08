@@ -1,11 +1,10 @@
-# 国際安全保障・戦争研究 MOC
+# 国際安全保障・戦争研究__international-security-war-studies MOC
 
-> Rebuilt by taxonomy repair job job-20260508013632-epmy6r on 2026-05-08 from the current `10_Published/` filesystem inventory.
+> Rebuilt by EBE job job-20260508021256-fa8rk5 on 2026-05-08 from the current subfield inventory.
 
-## 所属
+## Parent Category
 
-- 大分類: [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|Society Policy Law Governance]]
-- 小分野: 国際安全保障・戦争研究__international-security-war-studies
+- [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|03_Society_Policy_Law_Governance]]
 
 ## Articles
 
@@ -15,3 +14,4 @@
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

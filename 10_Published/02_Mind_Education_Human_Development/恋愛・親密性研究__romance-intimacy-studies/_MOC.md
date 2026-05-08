@@ -1,11 +1,10 @@
-# 恋愛・親密性研究 MOC
+# 恋愛・親密性研究__romance-intimacy-studies MOC
 
-> Rebuilt by taxonomy repair job job-20260508013632-epmy6r on 2026-05-08 from the current `10_Published/` filesystem inventory.
+> Rebuilt by EBE job job-20260508021256-fa8rk5 on 2026-05-08 from the current subfield inventory.
 
-## 所属
+## Parent Category
 
-- 大分類: [[10_Published/02_Mind_Education_Human_Development/_MOC.md|Mind Education Human Development]]
-- 小分野: 恋愛・親密性研究__romance-intimacy-studies
+- [[10_Published/02_Mind_Education_Human_Development/_MOC.md|02_Mind_Education_Human_Development]]
 
 ## Articles
 
@@ -16,3 +15,4 @@
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

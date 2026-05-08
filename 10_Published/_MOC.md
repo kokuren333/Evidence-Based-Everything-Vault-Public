@@ -1,10 +1,10 @@
-﻿# Published Root MOC
+# Published Root MOC
 
-> Rebuilt by EBE job job-20260508020002-910i3w on 2026-05-08 from the current 10_Published/ filesystem inventory.
+> Rebuilt by EBE job job-20260508021256-fa8rk5 on 2026-05-08 from the current 10_Published/ filesystem inventory.
 
 ## Category Index
 
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|01_Life_Health_Medicine]] - 17 subfields, 45 articles
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|01_Life_Health_Medicine]] - 17 subfields, 46 articles
 - [[10_Published/02_Mind_Education_Human_Development/_MOC.md|02_Mind_Education_Human_Development]] - 4 subfields, 5 articles
 - [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|03_Society_Policy_Law_Governance]] - 1 subfields, 1 articles
 - [[10_Published/04_Economy_Business_Work/_MOC.md|04_Economy_Business_Work]] - 1 subfields, 1 articles
@@ -15,9 +15,11 @@
 - [[10_Published/09_Information_Media_OSINT_Security/_MOC.md|09_Information_Media_OSINT_Security]] - 0 subfields, 0 articles
 - [[10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md|10_Life_Design_Practice_Creative_Work]] - 3 subfields, 3 articles
 
-## Recent Additions
+## Coverage Summary
 
-- [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/IgG4関連疾患を疑った際の除外診断__igg4-related-disease-exclusion-diagnosis.md|IgG4関連疾患を疑った際の除外診断]]
+- Categories: 10
+- Subfields: 34
+- Articles: 66
 
 ## Related MOCs
 
