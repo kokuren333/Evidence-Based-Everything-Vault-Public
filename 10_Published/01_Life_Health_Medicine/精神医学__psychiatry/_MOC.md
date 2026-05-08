@@ -1,16 +1,13 @@
-# 精神医学
+# 精神医学 MOC
 
-> Rebuilt by taxonomy job job-20260508011753-1bd51u on 2026-05-08 from the current subfield inventory.
+> Rebuilt by taxonomy repair job job-20260508013632-epmy6r on 2026-05-08 from the current `10_Published/` filesystem inventory.
 
-## Parent Category
+## 所属
 
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|Life Health Medicine]]
+- 大分類: [[10_Published/01_Life_Health_Medicine/_MOC.md|Life Health Medicine]]
+- 小分野: 精神医学__psychiatry
 
-## Scope
-
-This MOC indexes published articles in the subfield: 精神医学
-
-## Published Articles
+## Articles
 
 - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/計算論的精神医学とは何か__computational-psychiatry-overview.md|計算論的精神医学とは何か]]
 - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/計算論的精神医学を専門にするための学習分野と文献ロードマップ__computational-psychiatry-learning-roadmap.md|計算論的精神医学を専門にするための学習分野と文献ロードマップ]]
@@ -22,5 +19,3 @@ This MOC indexes published articles in the subfield: 精神医学
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
-- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
-- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

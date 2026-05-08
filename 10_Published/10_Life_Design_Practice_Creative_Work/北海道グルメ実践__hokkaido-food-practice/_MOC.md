@@ -1,16 +1,13 @@
-# 北海道グルメ実践
+# 北海道グルメ実践 MOC
 
-> Rebuilt by taxonomy job job-20260508011753-1bd51u on 2026-05-08 from the current subfield inventory.
+> Rebuilt by taxonomy repair job job-20260508013632-epmy6r on 2026-05-08 from the current `10_Published/` filesystem inventory.
 
-## Parent Category
+## 所属
 
-- [[10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md|Life Design Practice Creative Work]]
+- 大分類: [[10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md|Life Design Practice Creative Work]]
+- 小分野: 北海道グルメ実践__hokkaido-food-practice
 
-## Scope
-
-This MOC indexes published articles in the subfield: 北海道グルメ実践
-
-## Published Articles
+## Articles
 
 - [[10_Published/10_Life_Design_Practice_Creative_Work/北海道グルメ実践__hokkaido-food-practice/北海道の夜ラーメン案内__hokkaido-night-ramen-guide.md|北海道の夜ラーメン案内]]
 
@@ -18,5 +15,3 @@ This MOC indexes published articles in the subfield: 北海道グルメ実践
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
-- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
-- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

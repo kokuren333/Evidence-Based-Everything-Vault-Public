@@ -1,16 +1,13 @@
-# 恋愛・親密性研究
+# 恋愛・親密性研究 MOC
 
-> Rebuilt by taxonomy job job-20260508011753-1bd51u on 2026-05-08 from the current subfield inventory.
+> Rebuilt by taxonomy repair job job-20260508013632-epmy6r on 2026-05-08 from the current `10_Published/` filesystem inventory.
 
-## Parent Category
+## 所属
 
-- [[10_Published/02_Mind_Education_Human_Development/_MOC.md|Mind Education Human Development]]
+- 大分類: [[10_Published/02_Mind_Education_Human_Development/_MOC.md|Mind Education Human Development]]
+- 小分野: 恋愛・親密性研究__romance-intimacy-studies
 
-## Scope
-
-This MOC indexes published articles in the subfield: 恋愛・親密性研究
-
-## Published Articles
+## Articles
 
 - [[10_Published/02_Mind_Education_Human_Development/恋愛・親密性研究__romance-intimacy-studies/with攻略法：価値観・誠実さ・安全性で出会いの質を上げる__with-dating-app-strategy.md|with攻略法：価値観・誠実さ・安全性で出会いの質を上げる]]
 - [[10_Published/02_Mind_Education_Human_Development/恋愛・親密性研究__romance-intimacy-studies/恋愛工学とは何か__love-engineering.md|恋愛工学とは何か]]
@@ -19,5 +16,3 @@ This MOC indexes published articles in the subfield: 恋愛・親密性研究
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
-- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
-- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

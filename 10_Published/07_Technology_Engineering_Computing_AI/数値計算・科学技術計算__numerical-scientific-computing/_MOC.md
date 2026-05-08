@@ -1,16 +1,13 @@
-# 数値計算・科学技術計算
+# 数値計算・科学技術計算 MOC
 
-> Rebuilt by taxonomy job job-20260508011753-1bd51u on 2026-05-08 from the current subfield inventory.
+> Rebuilt by taxonomy repair job job-20260508013632-epmy6r on 2026-05-08 from the current `10_Published/` filesystem inventory.
 
-## Parent Category
+## 所属
 
-- [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|Technology Engineering Computing AI]]
+- 大分類: [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|Technology Engineering Computing AI]]
+- 小分野: 数値計算・科学技術計算__numerical-scientific-computing
 
-## Scope
-
-This MOC indexes published articles in the subfield: 数値計算・科学技術計算
-
-## Published Articles
+## Articles
 
 - [[10_Published/07_Technology_Engineering_Computing_AI/数値計算・科学技術計算__numerical-scientific-computing/NumPyにおける主要な構文や関数__numpy-main-syntax-functions.md|NumPyにおける主要な構文や関数]]
 
@@ -18,5 +15,3 @@ This MOC indexes published articles in the subfield: 数値計算・科学技術
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
-- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
-- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

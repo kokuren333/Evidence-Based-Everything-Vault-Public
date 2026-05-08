@@ -1,16 +1,13 @@
-# 腎臓内科
+# 腎臓内科 MOC
 
-> Rebuilt by taxonomy job job-20260508011753-1bd51u on 2026-05-08 from the current subfield inventory.
+> Rebuilt by taxonomy repair job job-20260508013632-epmy6r on 2026-05-08 from the current `10_Published/` filesystem inventory.
 
-## Parent Category
+## 所属
 
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|Life Health Medicine]]
+- 大分類: [[10_Published/01_Life_Health_Medicine/_MOC.md|Life Health Medicine]]
+- 小分野: 腎臓内科__nephrology
 
-## Scope
-
-This MOC indexes published articles in the subfield: 腎臓内科
-
-## Published Articles
+## Articles
 
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ANCA関連血管炎と腎臓__anca-associated-vasculitis-kidney-nephrology.md|ANCA関連血管炎と腎臓]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/IgG4関連疾患と腎機能__igg4-related-disease-kidney-function.md|IgG4関連疾患と腎機能]]
@@ -35,5 +32,3 @@ This MOC indexes published articles in the subfield: 腎臓内科
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
-- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
-- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

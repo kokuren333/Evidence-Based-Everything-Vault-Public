@@ -1,11 +1,15 @@
-# Life Health Medicine
+# Life Health Medicine MOC
 
-> Rebuilt by taxonomy job job-20260508011753-1bd51u on 2026-05-08 from the current category inventory.
+> Rebuilt by taxonomy repair job job-20260508013632-epmy6r on 2026-05-08 from the current `10_Published/` filesystem inventory.
 
 ## Overview
 
-- Subfields: 16
-- Published articles: 43
+This MOC provides systematic coverage for the published articles and subfields in this category.
+
+## Coverage Summary
+
+- Subfields: 17
+- Articles: 44
 
 ## Subfield Index
 
@@ -20,13 +24,14 @@
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/_MOC.md|腎臓内科]] - 18 articles
 - [[10_Published/01_Life_Health_Medicine/睡眠医学__sleep-medicine/_MOC.md|睡眠医学]] - 1 articles
 - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/_MOC.md|精神医学]] - 5 articles
+- [[10_Published/01_Life_Health_Medicine/糖尿病治療__diabetes-care/_MOC.md|糖尿病治療]] - 1 articles
 - [[10_Published/01_Life_Health_Medicine/入院診療・急性期医学__inpatient-acute-care-medicine/_MOC.md|入院診療・急性期医学]] - 1 articles
 - [[10_Published/01_Life_Health_Medicine/皮膚科救急・薬疹__dermatologic-emergencies-drug-eruptions/_MOC.md|皮膚科救急・薬疹]] - 1 articles
 - [[10_Published/01_Life_Health_Medicine/放射線治療__radiation-oncology/_MOC.md|放射線治療]] - 1 articles
 - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/_MOC.md|免疫疾患]] - 3 articles
 - [[10_Published/01_Life_Health_Medicine/臨床精神医学・精神病理学__clinical-psychiatry-psychopathology/_MOC.md|臨床精神医学・精神病理学]] - 1 articles
 
-## Published Articles By Subfield
+## Article Coverage
 
 ### 医学教育・臨床文書
 
@@ -96,6 +101,10 @@
 - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/神経性やせ症のサブタイプと予後の比較__anorexia-nervosa-subtypes-prognosis.md|神経性やせ症のサブタイプと予後の比較]]
 - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/精神科診療でよく出る治療薬：一般名と商品名の対応表__psychiatry-common-medications-generic-brand-list.md|精神科診療でよく出る治療薬：一般名と商品名の対応表]]
 - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/理論駆動型の計算論的精神医学__theory-driven-computational-psychiatry.md|理論駆動型の計算論的精神医学]]
+
+### 糖尿病治療
+
+- [[10_Published/01_Life_Health_Medicine/糖尿病治療__diabetes-care/糖尿病患者に対する合併症のステロイド治療のリスクとベネフィット__diabetes-steroid-risk-benefit.md|糖尿病患者に対する合併症のステロイド治療のリスクとベネフィット]]
 
 ### 入院診療・急性期医学
 

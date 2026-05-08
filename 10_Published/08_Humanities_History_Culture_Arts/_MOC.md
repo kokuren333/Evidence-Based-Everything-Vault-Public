@@ -1,17 +1,21 @@
-# Humanities History Culture Arts
+# Humanities History Culture Arts MOC
 
-> Rebuilt by taxonomy job job-20260508011753-1bd51u on 2026-05-08 from the current category inventory.
+> Rebuilt by taxonomy repair job job-20260508013632-epmy6r on 2026-05-08 from the current `10_Published/` filesystem inventory.
 
 ## Overview
 
+This MOC provides systematic coverage for the published articles and subfields in this category.
+
+## Coverage Summary
+
 - Subfields: 1
-- Published articles: 1
+- Articles: 1
 
 ## Subfield Index
 
 - [[10_Published/08_Humanities_History_Culture_Arts/食文化史__food-culture-history/_MOC.md|食文化史]] - 1 articles
 
-## Published Articles By Subfield
+## Article Coverage
 
 ### 食文化史
 

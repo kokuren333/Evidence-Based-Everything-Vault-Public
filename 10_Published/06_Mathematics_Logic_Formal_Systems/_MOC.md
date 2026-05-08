@@ -1,19 +1,24 @@
-# Mathematics Logic Formal Systems
+# Mathematics Logic Formal Systems MOC
 
-> Rebuilt by taxonomy job job-20260508011753-1bd51u on 2026-05-08 from the current category inventory.
+> Rebuilt by taxonomy repair job job-20260508013632-epmy6r on 2026-05-08 from the current `10_Published/` filesystem inventory.
 
 ## Overview
 
+This MOC provides systematic coverage for the published articles and subfields in this category.
+
+## Coverage Summary
+
 - Subfields: 0
-- Published articles: 0
+- Articles: 0
 
 ## Subfield Index
 
-- No published subfields in this category.
+- No published subfields yet.
 
-## Published Articles By Subfield
+## Article Coverage
 
-- No published articles in this category.
+- No published articles yet.
+
 ## Related MOCs
 
 - [[10_Published/_MOC.md|Published Root MOC]]
