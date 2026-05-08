@@ -1,18 +1,18 @@
-﻿# 社会・政策・法・ガバナンス MOC
+# 社会・政策・法・ガバナンス
 
-> Rebuilt by taxonomy repair job job-20260507233655-4wiwal on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
+> Rebuilt by taxonomy repair job job-20260507234912-87tq3v on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
 
-## Overview
+## Category Overview
 
 - Subfields: 1
 - Published articles: 1
-- Parent: [[10_Published/_MOC.md|Published Root MOC]]
 
 ## Subfield Index
 
 - [[10_Published/03_Society_Policy_Law_Governance/国際安全保障・戦争研究__international-security-war-studies/_MOC.md|国際安全保障・戦争研究]] - 1 articles
 
-## Articles by Subfield
+## Published Articles
+
 
 ### 国際安全保障・戦争研究
 
@@ -20,5 +20,6 @@
 
 ## Related MOCs
 
-- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
+- [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

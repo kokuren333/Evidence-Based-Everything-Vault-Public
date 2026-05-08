@@ -1,19 +1,14 @@
-# 情報・メディア・OSINT・セキュリティ
+# 循環器・血栓止血
 
 > Rebuilt by taxonomy repair job job-20260507234912-87tq3v on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
 
-## Category Overview
+## Parent Category
 
-- Subfields: 0
-- Published articles: 0
-
-## Subfield Index
-
-- No published subfields yet.
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]]
 
 ## Published Articles
 
-- No published articles in this category.
+- [[10_Published/01_Life_Health_Medicine/循環器・血栓止血__cardiovascular-thrombosis-hemostasis/リクシアナとヘパリンの違い__lixiana-vs-heparin.md|リクシアナとヘパリンの違い]]
 
 ## Related MOCs
 
