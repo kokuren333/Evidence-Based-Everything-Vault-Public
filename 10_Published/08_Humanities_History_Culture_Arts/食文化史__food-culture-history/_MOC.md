@@ -1,10 +1,10 @@
 # 食文化史 MOC
 
-> Rebuilt by EBE job job-20260508043305-a6fczi on 2026-05-08 from the current subfield inventory.
+> Rebuilt by EBE job job-20260508210022-b1yus1 on 2026-05-09 from the current subfield inventory.
 
 ## Parent Category
 
-- [[10_Published/08_Humanities_History_Culture_Arts/_MOC.md|人文学・歴史・文化・芸術]]
+- [[10_Published/08_Humanities_History_Culture_Arts/_MOC.md|人文・歴史・文化・芸術]]
 
 ## Articles
 
