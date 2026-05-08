@@ -6,7 +6,7 @@
 ## 全体像
 
 - 分野: 10
-- daily記事: 65
+- daily記事: 66
 
 ## 分野別索引
 
@@ -16,7 +16,7 @@
 - [[11_Daily/04_Science_Medicine_Life/_MOC.md|04_Science_Medicine_Life]] - 月 1, 記事 7
 - [[11_Daily/05_Environment_Energy_Resources/_MOC.md|05_Environment_Energy_Resources]] - 月 1, 記事 6
 - [[11_Daily/06_Society_Population_Education/_MOC.md|06_Society_Population_Education]] - 月 1, 記事 6
-- [[11_Daily/07_Culture_Media_Ideas/_MOC.md|07_Culture_Media_Ideas]] - 月 1, 記事 7
+- [[11_Daily/07_Culture_Media_Ideas/_MOC.md|07_Culture_Media_Ideas]] - 月 1, 記事 8
 - [[11_Daily/08_Law_Institutions_Ethics/_MOC.md|08_Law_Institutions_Ethics]] - 月 1, 記事 6
 - [[11_Daily/09_Business_Industry_Innovation/_MOC.md|09_Business_Industry_Innovation]] - 月 1, 記事 6
 - [[11_Daily/10_Incidents_Risks_Safety/_MOC.md|10_Incidents_Risks_Safety]] - 月 1, 記事 7
@@ -25,6 +25,7 @@
 
 ### 2026-05-09
 - [[11_Daily/01_Politics_International_Relations/2026-05/2026-05-09_Politics_International_Relations.md|2026-05-09_Politics_International_Relations]]
+- [[11_Daily/07_Culture_Media_Ideas/2026-05/2026-05-09_Culture_Media_Ideas.md|2026-05-09_Culture_Media_Ideas]]
 
 ### 2026-05-08
 - [[11_Daily/02_Economy_Finance/2026-05/2026-05-08_Economy_Finance.md|2026-05-08_Economy_Finance]]
