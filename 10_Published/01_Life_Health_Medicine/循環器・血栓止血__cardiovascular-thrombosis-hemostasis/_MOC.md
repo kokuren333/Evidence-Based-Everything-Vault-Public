@@ -1,6 +1,6 @@
 # 循環器・血栓止血
 
-> Rebuilt by taxonomy job job-20260508010616-hfs9zh on 2026-05-08 from the current subfield inventory.
+> Rebuilt by taxonomy job job-20260508011753-1bd51u on 2026-05-08 from the current subfield inventory.
 
 ## Parent Category
 
@@ -8,7 +8,7 @@
 
 ## Scope
 
-This MOC indexes published articles in the subfield: 循環器・血栓止血.
+This MOC indexes published articles in the subfield: 循環器・血栓止血
 
 ## Published Articles
 

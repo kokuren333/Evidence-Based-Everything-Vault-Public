@@ -1,10 +1,8 @@
 # Nature Science Environment
 
-> Rebuilt by taxonomy job job-20260508010616-hfs9zh on 2026-05-08 from the current category inventory.
+> Rebuilt by taxonomy job job-20260508011753-1bd51u on 2026-05-08 from the current category inventory.
 
-## Category Overview
-
-This MOC indexes all published subfields and articles under 05_Nature_Science_Environment. It prioritizes complete reachability over chronological ordering.
+## Overview
 
 - Subfields: 1
 - Published articles: 1
@@ -13,7 +11,7 @@ This MOC indexes all published subfields and articles under 05_Nature_Science_En
 
 - [[10_Published/05_Nature_Science_Environment/大気光学__atmospheric-optics/_MOC.md|大気光学]] - 1 articles
 
-## Published Articles by Subfield
+## Published Articles By Subfield
 
 ### 大気光学
 

@@ -1,10 +1,8 @@
 # Society Policy Law Governance
 
-> Rebuilt by taxonomy job job-20260508010616-hfs9zh on 2026-05-08 from the current category inventory.
+> Rebuilt by taxonomy job job-20260508011753-1bd51u on 2026-05-08 from the current category inventory.
 
-## Category Overview
-
-This MOC indexes all published subfields and articles under 03_Society_Policy_Law_Governance. It prioritizes complete reachability over chronological ordering.
+## Overview
 
 - Subfields: 1
 - Published articles: 1
@@ -13,7 +11,7 @@ This MOC indexes all published subfields and articles under 03_Society_Policy_La
 
 - [[10_Published/03_Society_Policy_Law_Governance/国際安全保障・戦争研究__international-security-war-studies/_MOC.md|国際安全保障・戦争研究]] - 1 articles
 
-## Published Articles by Subfield
+## Published Articles By Subfield
 
 ### 国際安全保障・戦争研究
 

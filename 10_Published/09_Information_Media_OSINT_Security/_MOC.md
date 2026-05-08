@@ -1,10 +1,8 @@
 # Information Media OSINT Security
 
-> Rebuilt by taxonomy job job-20260508010616-hfs9zh on 2026-05-08 from the current category inventory.
+> Rebuilt by taxonomy job job-20260508011753-1bd51u on 2026-05-08 from the current category inventory.
 
-## Category Overview
-
-This MOC indexes all published subfields and articles under 09_Information_Media_OSINT_Security. It prioritizes complete reachability over chronological ordering.
+## Overview
 
 - Subfields: 0
 - Published articles: 0
@@ -13,10 +11,9 @@ This MOC indexes all published subfields and articles under 09_Information_Media
 
 - No published subfields in this category.
 
-## Published Articles by Subfield
+## Published Articles By Subfield
 
 - No published articles in this category.
-
 ## Related MOCs
 
 - [[10_Published/_MOC.md|Published Root MOC]]

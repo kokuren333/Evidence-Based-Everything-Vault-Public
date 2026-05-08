@@ -1,21 +1,23 @@
 # Life Design Practice Creative Work
 
-> Rebuilt by taxonomy job job-20260508010616-hfs9zh on 2026-05-08 from the current category inventory.
+> Rebuilt by taxonomy job job-20260508011753-1bd51u on 2026-05-08 from the current category inventory.
 
-## Category Overview
-
-This MOC indexes all published subfields and articles under 10_Life_Design_Practice_Creative_Work. It prioritizes complete reachability over chronological ordering.
+## Overview
 
 - Subfields: 3
 - Published articles: 3
 
 ## Subfield Index
 
+- [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/_MOC.md|飲食実践]] - 1 articles
 - [[10_Published/10_Life_Design_Practice_Creative_Work/北海道グルメ実践__hokkaido-food-practice/_MOC.md|北海道グルメ実践]] - 1 articles
 - [[10_Published/10_Life_Design_Practice_Creative_Work/料理実践__cooking-practice/_MOC.md|料理実践]] - 1 articles
-- [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/_MOC.md|飲食実践]] - 1 articles
 
-## Published Articles by Subfield
+## Published Articles By Subfield
+
+### 飲食実践
+
+- [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/代表的なカクテルとその作り方__representative-cocktails-how-to-make.md|代表的なカクテルとその作り方]]
 
 ### 北海道グルメ実践
 
@@ -24,10 +26,6 @@ This MOC indexes all published subfields and articles under 10_Life_Design_Pract
 ### 料理実践
 
 - [[10_Published/10_Life_Design_Practice_Creative_Work/料理実践__cooking-practice/美味しい唐揚げの作り方レシピ__karaage-recipe-evidence-based.md|美味しい唐揚げの作り方レシピ]]
-
-### 飲食実践
-
-- [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/代表的なカクテルとその作り方__representative-cocktails-how-to-make.md|代表的なカクテルとその作り方]]
 
 ## Related MOCs
 
