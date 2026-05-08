@@ -8,7 +8,7 @@
 
 ## Categories
 
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|01_Life_Health_Medicine]] - 17 subfields, 46 articles
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|01_Life_Health_Medicine]] - 17 subfields, 47 articles
 - [[10_Published/02_Mind_Education_Human_Development/_MOC.md|02_Mind_Education_Human_Development]] - 4 subfields, 5 articles
 - [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|03_Society_Policy_Law_Governance]] - 1 subfields, 1 articles
 - [[10_Published/04_Economy_Business_Work/_MOC.md|04_Economy_Business_Work]] - 1 subfields, 1 articles
@@ -20,6 +20,10 @@
 - [[10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md|10_Life_Design_Practice_Creative_Work]] - 3 subfields, 3 articles
 
 ## Articles By Category
+
+### Recent Addition
+
+- [[10_Published/01_Life_Health_Medicine/抗菌薬治療__antimicrobial-therapy/セフメタゾール__cefmetazole.md|セフメタゾール]]
 
 ### 01_Life_Health_Medicine
 

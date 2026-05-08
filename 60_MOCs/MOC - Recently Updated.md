@@ -4,6 +4,8 @@
 
 ## Recently Updated Articles
 
+- 2026-05-08 - [[10_Published/01_Life_Health_Medicine/抗菌薬治療__antimicrobial-therapy/セフメタゾール__cefmetazole.md|セフメタゾール]]
+
 - 2026-05-08 11:24:34 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/透析対象患者で気をつけるべき心電図__dialysis-ecg-watchpoints.md|透析対象患者で気をつけるべき心電図]]
 - 2026-05-08 11:24:33 - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/IgG4関連疾患を疑った際の除外診断__igg4-related-disease-exclusion-diagnosis.md|IgG4関連疾患を疑った際の除外診断]]
 - 2026-05-08 11:13:05 - [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/代表的なカクテルとその作り方__representative-cocktails-how-to-make.md|代表的なカクテルとその作り方]]
