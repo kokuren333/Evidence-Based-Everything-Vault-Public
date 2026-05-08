@@ -1,10 +1,10 @@
-# 自然科学・環境 MOC
+# Nature Science Environment MOC
 
-> Rebuilt by EBE job job-20260508210022-b1yus1 on 2026-05-09 from the current category inventory.
+> Rebuilt by EBE job job-20260508210023-9y5w9f on 2026-05-09 from the current category inventory.
 
 ## Overview
 
-This MOC covers all published subfields and articles under $(@{Name=05_Nature_Science_Environment; Ja=自然科学・環境; Rel=10_Published/05_Nature_Science_Environment; Moc=10_Published/05_Nature_Science_Environment/_MOC.md; Subfields=System.Object[]; DirectArticles=System.Object[]; ArticleCount=1}.Rel)/ using the current filesystem inventory.
+This MOC covers all published subfields and articles under `10_Published/05_Nature_Science_Environment/`.
 
 ## Subfield Index
 

@@ -1,22 +1,18 @@
-# ライフデザイン・実践・創作 MOC
+# Life Design Practice Creative Work MOC
 
-> Rebuilt by EBE job job-20260508210022-b1yus1 on 2026-05-09 from the current category inventory.
+> Rebuilt by EBE job job-20260508210023-9y5w9f on 2026-05-09 from the current category inventory.
 
 ## Overview
 
-This MOC covers all published subfields and articles under $(@{Name=10_Life_Design_Practice_Creative_Work; Ja=ライフデザイン・実践・創作; Rel=10_Published/10_Life_Design_Practice_Creative_Work; Moc=10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md; Subfields=System.Object[]; DirectArticles=System.Object[]; ArticleCount=3}.Rel)/ using the current filesystem inventory.
+This MOC covers all published subfields and articles under `10_Published/10_Life_Design_Practice_Creative_Work/`.
 
 ## Subfield Index
 
-- [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/_MOC.md|飲食実践 / food-and-drink-practice]] - 1 article
 - [[10_Published/10_Life_Design_Practice_Creative_Work/北海道グルメ実践__hokkaido-food-practice/_MOC.md|北海道グルメ実践 / hokkaido-food-practice]] - 1 article
 - [[10_Published/10_Life_Design_Practice_Creative_Work/料理実践__cooking-practice/_MOC.md|料理実践 / cooking-practice]] - 1 article
+- [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/_MOC.md|飲食実践 / food-and-drink-practice]] - 1 article
 
 ## Article Coverage
-
-### 飲食実践
-
-- [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/代表的なカクテルとその作り方__representative-cocktails-how-to-make.md|代表的なカクテルとその作り方]]
 
 ### 北海道グルメ実践
 
@@ -25,6 +21,10 @@ This MOC covers all published subfields and articles under $(@{Name=10_Life_Desi
 ### 料理実践
 
 - [[10_Published/10_Life_Design_Practice_Creative_Work/料理実践__cooking-practice/美味しい唐揚げの作り方レシピ__karaage-recipe-evidence-based.md|美味しい唐揚げの作り方レシピ]]
+
+### 飲食実践
+
+- [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/代表的なカクテルとその作り方__representative-cocktails-how-to-make.md|代表的なカクテルとその作り方]]
 
 ## Related MOCs
 

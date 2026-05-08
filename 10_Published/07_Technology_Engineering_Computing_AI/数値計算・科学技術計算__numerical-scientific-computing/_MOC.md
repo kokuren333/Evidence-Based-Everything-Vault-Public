@@ -1,10 +1,6 @@
 # 数値計算・科学技術計算 MOC
 
-> Rebuilt by EBE job job-20260508210022-b1yus1 on 2026-05-09 from the current subfield inventory.
-
-## Parent Category
-
-- [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|技術・工学・コンピューティング・AI]]
+> Rebuilt by EBE job job-20260508210023-9y5w9f on 2026-05-09 from the current subfield inventory.
 
 ## Articles
 
@@ -12,7 +8,6 @@
 
 ## Related MOCs
 
+- [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|Technology Engineering Computing AI]]
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
-- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
-- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

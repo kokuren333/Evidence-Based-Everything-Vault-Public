@@ -1,10 +1,10 @@
-# 社会・政策・法・ガバナンス MOC
+# Society Policy Law Governance MOC
 
-> Rebuilt by EBE job job-20260508210022-b1yus1 on 2026-05-09 from the current category inventory.
+> Rebuilt by EBE job job-20260508210023-9y5w9f on 2026-05-09 from the current category inventory.
 
 ## Overview
 
-This MOC covers all published subfields and articles under $(@{Name=03_Society_Policy_Law_Governance; Ja=社会・政策・法・ガバナンス; Rel=10_Published/03_Society_Policy_Law_Governance; Moc=10_Published/03_Society_Policy_Law_Governance/_MOC.md; Subfields=System.Object[]; DirectArticles=System.Object[]; ArticleCount=1}.Rel)/ using the current filesystem inventory.
+This MOC covers all published subfields and articles under `10_Published/03_Society_Policy_Law_Governance/`.
 
 ## Subfield Index
 
