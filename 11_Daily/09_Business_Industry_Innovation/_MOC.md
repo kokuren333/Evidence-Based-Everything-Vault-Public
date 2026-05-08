@@ -5,10 +5,11 @@
 
 ## 月別索引
 
-- [[11_Daily/09_Business_Industry_Innovation/2026-05/_MOC.md|2026-05]] - 記事 6
+- [[11_Daily/09_Business_Industry_Innovation/2026-05/_MOC.md|2026-05]] - 記事 7
 
 ## 記事一覧
 
+- [[11_Daily/09_Business_Industry_Innovation/2026-05/2026-05-08_Business_Industry_Innovation.md|2026-05-08_Business_Industry_Innovation]]
 - [[11_Daily/09_Business_Industry_Innovation/2026-05/2026-05-07_Business_Industry_Innovation.md|2026-05-07_Business_Industry_Innovation]]
 - [[11_Daily/09_Business_Industry_Innovation/2026-05/2026-05-06_Business_Industry_Innovation.md|2026-05-06_Business_Industry_Innovation]]
 - [[11_Daily/09_Business_Industry_Innovation/2026-05/2026-05-05_Business_Industry_Innovation.md|2026-05-05_Business_Industry_Innovation]]
