@@ -4,6 +4,7 @@
 
 ## Index
 
+- [[30_Sources/01_Life_Health_Medicine/history-of-present-illness-writing-rules_sources.md|history-of-present-illness-writing-rules_sources]]
 - [[30_Sources/01_Life_Health_Medicine/nephrology/adult-nephrotic-syndrome-classification_sources.md|adult-nephrotic-syndrome-classification_sources]]
 - [[30_Sources/01_Life_Health_Medicine/nephrology/kidney-structure-function-residents_sources.md|kidney-structure-function-residents_sources]]
 - [[30_Sources/01_Life_Health_Medicine/抗菌薬治療__antimicrobial-therapy/cefazolin-indications_sources.md|cefazolin-indications_sources]]
@@ -52,5 +53,5 @@
 
 ## Coverage Summary
 
-- Source notes: 45
+- Source notes: 46
 - Source: filesystem inventory at rebuild time.

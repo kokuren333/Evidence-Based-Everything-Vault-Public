@@ -1,21 +1,23 @@
 # 生命・健康・医学
 
+> Updated for job-20260508010902-dk9hwl on 2026-05-08 from the current category inventory.
+
 ## Category Overview
 
-医学、公衆衛生、栄養、睡眠、運動、心理、疾患、生命科学を扱う。この記事群は、読者が疾患概念、診断、治療、実践上の注意点へ体系的に到達できるように、小分野MOCを中心に構成する。
+医学、公衆衛生、栄養、睡眠、運動、心理、疾患、生命科学、臨床実務を扱う。読者が疾患概念、診断、治療、臨床文書、実践上の注意点へ体系的に到達できるよう、小分野MOCを入口として整理する。
 
 - Subfields: 16
-- Published articles: 40
+- Published articles: 41
 
 ## Foundations
 
-- 疾患概念と病態: 免疫疾患、腎臓内科、神経免疫学、精神医学など
-- 診断と検査: 免疫疾患、腎臓内科、皮膚科救急・薬疹、医学教育・臨床文書など
-- 治療と実践: 抗菌薬治療、放射線治療、入院診療・急性期医学、栄養と飲料など
+- 疾患概念と病態: 免疫疾患、神経免疫学、精神医学、腎臓内科など。
+- 診断と検査: 腎臓内科、循環器・血栓止血、皮膚科救急・薬疹、臨床文書など。
+- 治療と実践: 抗菌薬治療、放射線治療、入院診療・急性期医学、栄養と飲料など。
 
 ## Subfield Index
 
-- [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/_MOC.md|免疫疾患]] - 3 articles
+- [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/_MOC.md|免疫疾患]]
 - [[10_Published/01_Life_Health_Medicine/入院診療・急性期医学__inpatient-acute-care-medicine/_MOC.md|入院診療・急性期医学]]
 - [[10_Published/01_Life_Health_Medicine/医学教育・臨床文書__medical-education-clinical-documentation/_MOC.md|医学教育・臨床文書]]
 - [[10_Published/01_Life_Health_Medicine/循環器・血栓止血__cardiovascular-thrombosis-hemostasis/_MOC.md|循環器・血栓止血]]
@@ -32,16 +34,15 @@
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/_MOC.md|腎臓内科]]
 - [[10_Published/01_Life_Health_Medicine/臨床精神医学・精神病理学__clinical-psychiatry-psychopathology/_MOC.md|臨床精神医学・精神病理学]]
 
-## Key Articles
+## Clinical Documentation
 
-### 免疫疾患
-
-- [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/ANCA関連血管炎の種類と病態__anca-associated-vasculitis-types-pathophysiology.md|ANCA関連血管炎の種類と病態]]
-- [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/IgG4関連疾患の疾患概念と病態__igg4-related-disease-concept-pathogenesis.md|IgG4関連疾患の疾患概念と病態]]
-- [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/IgG4関連疾患の診断基準__igg4-related-disease-diagnostic-criteria.md|IgG4関連疾患の診断基準]]
+- [[10_Published/01_Life_Health_Medicine/医学教育・臨床文書__medical-education-clinical-documentation/カルテにおける現病歴の書き方のルール__history-of-present-illness-writing-rules.md|カルテにおける現病歴の書き方のルール]]
+- [[10_Published/01_Life_Health_Medicine/医学教育・臨床文書__medical-education-clinical-documentation/研修医の病歴要約の書き方__resident-case-summary-writing.md|研修医の病歴要約の書き方]]
 
 ## Related MOCs
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
+

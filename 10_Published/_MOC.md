@@ -4,7 +4,7 @@
 
 ## Categories
 
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]] - 16 subfields, 40 articles
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]] - 16 subfields, 41 articles
 - [[10_Published/02_Mind_Education_Human_Development/_MOC.md|心理・教育・人間発達]] - 4 subfields, 5 articles
 - [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|社会・政策・法・ガバナンス]] - 1 subfields, 1 articles
 - [[10_Published/04_Economy_Business_Work/_MOC.md|経済・ビジネス・仕事]] - 1 subfields, 1 articles
@@ -17,7 +17,7 @@
 
 ## Coverage Summary
 
-- Published articles: 60
+- Published articles: 61
 - Subfields: 33
 - Direct articles under category roots: 0
 

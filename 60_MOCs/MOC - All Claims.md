@@ -4,6 +4,7 @@
 
 ## Index
 
+- [[40_Claims/01_Life_Health_Medicine/history-of-present-illness-writing-rules_claims.md|history-of-present-illness-writing-rules_claims]]
 - [[40_Claims/01_Life_Health_Medicine/nephrology/adult-nephrotic-syndrome-classification_claims.md|adult-nephrotic-syndrome-classification_claims]]
 - [[40_Claims/01_Life_Health_Medicine/nephrology/kidney-structure-function-residents_claims.md|kidney-structure-function-residents_claims]]
 - [[40_Claims/01_Life_Health_Medicine/抗菌薬治療__antimicrobial-therapy/cefazolin-indications_claims.md|cefazolin-indications_claims]]
@@ -52,5 +53,5 @@
 
 ## Coverage Summary
 
-- Claim notes: 45
+- Claim notes: 46
 - Source: filesystem inventory at rebuild time.

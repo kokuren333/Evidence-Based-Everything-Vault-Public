@@ -8,7 +8,7 @@
 
 ## Categories
 
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|Life_Health_Medicine]] - 16 subfields, 40 articles
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|Life_Health_Medicine]] - 16 subfields, 41 articles
 - [[10_Published/02_Mind_Education_Human_Development/_MOC.md|Mind_Education_Human_Development]] - 4 subfields, 5 articles
 - [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|Society_Policy_Law_Governance]] - 1 subfields, 1 articles
 - [[10_Published/04_Economy_Business_Work/_MOC.md|Economy_Business_Work]] - 1 subfields, 1 articles
@@ -23,6 +23,7 @@
 
 ### Life_Health_Medicine
 
+- [[10_Published/01_Life_Health_Medicine/医学教育・臨床文書__medical-education-clinical-documentation/カルテにおける現病歴の書き方のルール__history-of-present-illness-writing-rules.md|カルテにおける現病歴の書き方のルール]]
 - [[10_Published/01_Life_Health_Medicine/医学教育・臨床文書__medical-education-clinical-documentation/研修医の病歴要約の書き方__resident-case-summary-writing.md|研修医の病歴要約の書き方]]
 - [[10_Published/01_Life_Health_Medicine/栄養と飲料__nutrition-and-beverages/コーヒーと疾患予防効果およびリスク__coffee-disease-prevention-risks.md|コーヒーと疾患予防効果およびリスク]]
 - [[10_Published/01_Life_Health_Medicine/栄養と飲料__nutrition-and-beverages/緑茶とジャスミン茶はどちらが身体に良いのか__green-tea-vs-jasmine-tea-health.md|緑茶とジャスミン茶はどちらが身体に良いのか]]

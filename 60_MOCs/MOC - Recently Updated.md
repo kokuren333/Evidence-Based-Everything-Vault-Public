@@ -4,6 +4,7 @@
 
 ## Recently Updated Published Articles
 
+- 2026-05-08 10:30 - [[10_Published/01_Life_Health_Medicine/医学教育・臨床文書__medical-education-clinical-documentation/カルテにおける現病歴の書き方のルール__history-of-present-illness-writing-rules.md|カルテにおける現病歴の書き方のルール]]
 - 2026-05-08 09:49 - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/IgG4関連疾患の診断基準__igg4-related-disease-diagnostic-criteria.md|IgG4関連疾患の診断基準]]
 - 2026-05-08 09:43 - [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/代表的なカクテルとその作り方__representative-cocktails-how-to-make.md|代表的なカクテルとその作り方]]
 - 2026-05-08 09:43 - [[10_Published/10_Life_Design_Practice_Creative_Work/料理実践__cooking-practice/美味しい唐揚げの作り方レシピ__karaage-recipe-evidence-based.md|美味しい唐揚げの作り方レシピ]]
