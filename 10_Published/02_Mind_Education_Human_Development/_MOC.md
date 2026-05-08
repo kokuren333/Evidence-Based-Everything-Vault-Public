@@ -1,8 +1,10 @@
-# 心理・教育・人間発達
+# Mind Education Human Development
 
-> Rebuilt by taxonomy repair job job-20260507234912-87tq3v on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
+> Rebuilt by taxonomy job job-20260508010616-hfs9zh on 2026-05-08 from the current category inventory.
 
 ## Category Overview
+
+This MOC indexes all published subfields and articles under 02_Mind_Education_Human_Development. It prioritizes complete reachability over chronological ordering.
 
 - Subfields: 4
 - Published articles: 5
@@ -14,8 +16,7 @@
 - [[10_Published/02_Mind_Education_Human_Development/臨床心理・心理療法__clinical-psychology-psychotherapy/_MOC.md|臨床心理・心理療法]] - 1 articles
 - [[10_Published/02_Mind_Education_Human_Development/進化心理学__evolutionary-psychology/_MOC.md|進化心理学]] - 1 articles
 
-## Published Articles
-
+## Published Articles by Subfield
 
 ### 恋愛・親密性研究
 
@@ -38,4 +39,5 @@
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

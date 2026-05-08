@@ -1,8 +1,10 @@
-# 技術・工学・コンピューティング・AI
+# Technology Engineering Computing AI
 
-> Rebuilt by taxonomy repair job job-20260507234912-87tq3v on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
+> Rebuilt by taxonomy job job-20260508010616-hfs9zh on 2026-05-08 from the current category inventory.
 
 ## Category Overview
+
+This MOC indexes all published subfields and articles under 07_Technology_Engineering_Computing_AI. It prioritizes complete reachability over chronological ordering.
 
 - Subfields: 6
 - Published articles: 8
@@ -16,8 +18,7 @@
 - [[10_Published/07_Technology_Engineering_Computing_AI/機械学習予測__machine-learning-prediction/_MOC.md|機械学習予測]] - 2 articles
 - [[10_Published/07_Technology_Engineering_Computing_AI/深層学習アーキテクチャ__deep-learning-architectures/_MOC.md|深層学習アーキテクチャ]] - 1 articles
 
-## Published Articles
-
+## Published Articles by Subfield
 
 ### 3Dプリンティング材料
 
@@ -49,4 +50,5 @@
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

@@ -1,8 +1,10 @@
-# 人文・歴史・文化・芸術
+# Humanities History Culture Arts
 
-> Rebuilt by taxonomy repair job job-20260507234912-87tq3v on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
+> Rebuilt by taxonomy job job-20260508010616-hfs9zh on 2026-05-08 from the current category inventory.
 
 ## Category Overview
+
+This MOC indexes all published subfields and articles under 08_Humanities_History_Culture_Arts. It prioritizes complete reachability over chronological ordering.
 
 - Subfields: 1
 - Published articles: 1
@@ -11,8 +13,7 @@
 
 - [[10_Published/08_Humanities_History_Culture_Arts/食文化史__food-culture-history/_MOC.md|食文化史]] - 1 articles
 
-## Published Articles
-
+## Published Articles by Subfield
 
 ### 食文化史
 
@@ -22,4 +23,5 @@
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

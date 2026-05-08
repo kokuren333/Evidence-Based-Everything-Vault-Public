@@ -1,12 +1,14 @@
 # 免疫疾患
 
+> Rebuilt by taxonomy job job-20260508010616-hfs9zh on 2026-05-08 from the current subfield inventory.
+
 ## Parent Category
 
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]]
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|Life Health Medicine]]
 
-## Overview
+## Scope
 
-免疫疾患小分野では、自己免疫疾患、自己炎症性疾患、血管炎、免疫介在性臓器障害、診断基準、病態、臓器別合併症を扱う。
+This MOC indexes published articles in the subfield: 免疫疾患.
 
 ## Published Articles
 
@@ -18,4 +20,5 @@
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

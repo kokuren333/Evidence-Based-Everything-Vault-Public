@@ -1,17 +1,19 @@
-# 情報・メディア・OSINT・セキュリティ
+# Information Media OSINT Security
 
-> Rebuilt by taxonomy repair job job-20260507234912-87tq3v on 2026-05-08. Generated from the current `10_Published/` filesystem inventory.
+> Rebuilt by taxonomy job job-20260508010616-hfs9zh on 2026-05-08 from the current category inventory.
 
 ## Category Overview
+
+This MOC indexes all published subfields and articles under 09_Information_Media_OSINT_Security. It prioritizes complete reachability over chronological ordering.
 
 - Subfields: 0
 - Published articles: 0
 
 ## Subfield Index
 
-- No published subfields yet.
+- No published subfields in this category.
 
-## Published Articles
+## Published Articles by Subfield
 
 - No published articles in this category.
 
@@ -19,4 +21,5 @@
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
