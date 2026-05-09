@@ -1,6 +1,6 @@
 # 大気光学 MOC
 
-> Rebuilt by EBE job job-20260508210023-83b7bc on 2026-05-09 from the current subfield inventory.
+> Rebuilt by EBE job job-20260509210034-mk6h0w on 2026-05-10 from the current subfield filesystem inventory.
 
 ## Articles
 
@@ -8,6 +8,6 @@
 
 ## Related MOCs
 
-- [[10_Published/05_Nature_Science_Environment/_MOC.md|Category MOC]]
+- [[10_Published/05_Nature_Science_Environment/_MOC.md|自然科学・環境 MOC]]
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]

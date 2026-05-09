@@ -1,6 +1,6 @@
-# Mind Education Human Development MOC
+# 心理・教育・人間発達 MOC
 
-> Rebuilt by EBE job job-20260508210023-83b7bc on 2026-05-09 from the current category inventory.
+> Rebuilt by EBE job job-20260509210034-mk6h0w on 2026-05-10 from the current category filesystem inventory.
 
 ## Overview
 
