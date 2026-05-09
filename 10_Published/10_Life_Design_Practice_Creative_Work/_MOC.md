@@ -1,17 +1,18 @@
-# ライフデザイン・実践・創作 MOC
+# ライフデザイン・実践・創作
 
-> Rebuilt by EBE job job-20260509210034-keuymm on 2026-05-10 from the current category filesystem inventory.
+> Rebuilt by EBE job job-20260509210034-8xb0nv on 2026-05-10 from the current `10_Published/` filesystem inventory.
 
 ## Overview
 
-This MOC covers all published subfields and articles under `10_Published/10_Life_Design_Practice_Creative_Work/`.
+This category currently contains 3 subfields and 3 published articles.
 
 ## Subfield Index
-- [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/_MOC.md|飲食実践 / food-and-drink-practice]] - 1 article
-- [[10_Published/10_Life_Design_Practice_Creative_Work/北海道グルメ実践__hokkaido-food-practice/_MOC.md|北海道グルメ実践 / hokkaido-food-practice]] - 1 article
-- [[10_Published/10_Life_Design_Practice_Creative_Work/料理実践__cooking-practice/_MOC.md|料理実践 / cooking-practice]] - 1 article
 
-## Article Coverage
+- [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/_MOC.md|飲食実践]] - 1 articles
+- [[10_Published/10_Life_Design_Practice_Creative_Work/北海道グルメ実践__hokkaido-food-practice/_MOC.md|北海道グルメ実践]] - 1 articles
+- [[10_Published/10_Life_Design_Practice_Creative_Work/料理実践__cooking-practice/_MOC.md|料理実践]] - 1 articles
+
+## Complete Article Coverage
 
 ### 飲食実践
 

@@ -1,16 +1,17 @@
-# 人文・歴史・文化・芸術 MOC
+# 人文・歴史・文化・芸術
 
-> Rebuilt by EBE job job-20260509210034-keuymm on 2026-05-10 from the current category filesystem inventory.
+> Rebuilt by EBE job job-20260509210034-8xb0nv on 2026-05-10 from the current `10_Published/` filesystem inventory.
 
 ## Overview
 
-This MOC covers all published subfields and articles under `10_Published/08_Humanities_History_Culture_Arts/`.
+This category currently contains 2 subfields and 2 published articles.
 
 ## Subfield Index
-- [[10_Published/08_Humanities_History_Culture_Arts/食文化史__food-culture-history/_MOC.md|食文化史 / food-culture-history]] - 1 article
-- [[10_Published/08_Humanities_History_Culture_Arts/星座占い・占術文化__horoscope-divination-culture/_MOC.md|星座占い・占術文化 / horoscope-divination-culture]] - 1 article
 
-## Article Coverage
+- [[10_Published/08_Humanities_History_Culture_Arts/食文化史__food-culture-history/_MOC.md|食文化史]] - 1 articles
+- [[10_Published/08_Humanities_History_Culture_Arts/星座占い・占術文化__horoscope-divination-culture/_MOC.md|星座占い・占術文化]] - 1 articles
+
+## Complete Article Coverage
 
 ### 食文化史
 

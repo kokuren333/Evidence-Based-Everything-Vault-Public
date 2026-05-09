@@ -1,15 +1,16 @@
-# 社会・政策・法・ガバナンス MOC
+# 社会・政策・法・ガバナンス
 
-> Rebuilt by EBE job job-20260509210034-keuymm on 2026-05-10 from the current category filesystem inventory.
+> Rebuilt by EBE job job-20260509210034-8xb0nv on 2026-05-10 from the current `10_Published/` filesystem inventory.
 
 ## Overview
 
-This MOC covers all published subfields and articles under `10_Published/03_Society_Policy_Law_Governance/`.
+This category currently contains 1 subfields and 1 published articles.
 
 ## Subfield Index
-- [[10_Published/03_Society_Policy_Law_Governance/国際安全保障・戦争研究__international-security-war-studies/_MOC.md|国際安全保障・戦争研究 / international-security-war-studies]] - 1 article
 
-## Article Coverage
+- [[10_Published/03_Society_Policy_Law_Governance/国際安全保障・戦争研究__international-security-war-studies/_MOC.md|国際安全保障・戦争研究]] - 1 articles
+
+## Complete Article Coverage
 
 ### 国際安全保障・戦争研究
 

@@ -1,18 +1,19 @@
-# 心理・教育・人間発達 MOC
+# 心理・教育・人間発達
 
-> Rebuilt by EBE job job-20260509210034-keuymm on 2026-05-10 from the current category filesystem inventory.
+> Rebuilt by EBE job job-20260509210034-8xb0nv on 2026-05-10 from the current `10_Published/` filesystem inventory.
 
 ## Overview
 
-This MOC covers all published subfields and articles under `10_Published/02_Mind_Education_Human_Development/`.
+This category currently contains 4 subfields and 5 published articles.
 
 ## Subfield Index
-- [[10_Published/02_Mind_Education_Human_Development/進化心理学__evolutionary-psychology/_MOC.md|進化心理学 / evolutionary-psychology]] - 1 article
-- [[10_Published/02_Mind_Education_Human_Development/第二言語習得・英語学習__second-language-acquisition-english-learning/_MOC.md|第二言語習得・英語学習 / second-language-acquisition-english-learning]] - 1 article
-- [[10_Published/02_Mind_Education_Human_Development/臨床心理・心理療法__clinical-psychology-psychotherapy/_MOC.md|臨床心理・心理療法 / clinical-psychology-psychotherapy]] - 1 article
-- [[10_Published/02_Mind_Education_Human_Development/恋愛・親密性研究__romance-intimacy-studies/_MOC.md|恋愛・親密性研究 / romance-intimacy-studies]] - 2 articles
 
-## Article Coverage
+- [[10_Published/02_Mind_Education_Human_Development/進化心理学__evolutionary-psychology/_MOC.md|進化心理学]] - 1 articles
+- [[10_Published/02_Mind_Education_Human_Development/第二言語習得・英語学習__second-language-acquisition-english-learning/_MOC.md|第二言語習得・英語学習]] - 1 articles
+- [[10_Published/02_Mind_Education_Human_Development/臨床心理・心理療法__clinical-psychology-psychotherapy/_MOC.md|臨床心理・心理療法]] - 1 articles
+- [[10_Published/02_Mind_Education_Human_Development/恋愛・親密性研究__romance-intimacy-studies/_MOC.md|恋愛・親密性研究]] - 2 articles
+
+## Complete Article Coverage
 
 ### 進化心理学
 

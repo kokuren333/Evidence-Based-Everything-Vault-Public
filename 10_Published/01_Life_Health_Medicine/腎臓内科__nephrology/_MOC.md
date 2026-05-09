@@ -1,8 +1,13 @@
-# 腎臓内科 MOC
+# 腎臓内科
 
-> Rebuilt by EBE job job-20260509210034-keuymm on 2026-05-10 from the current subfield filesystem inventory.
+> Rebuilt by EBE job job-20260509210034-8xb0nv on 2026-05-10 from the current `10_Published/` filesystem inventory.
+
+## Parent Category
+
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]]
 
 ## Articles
+
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ANCA関連血管炎と腎臓__anca-associated-vasculitis-kidney-nephrology.md|ANCA関連血管炎と腎臓]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/IgG4関連疾患と腎機能__igg4-related-disease-kidney-function.md|IgG4関連疾患と腎機能]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/エラスチカ・マッソン染色とIgG4関連腎疾患の腎生検__elastica-masson-igg4-related-kidney-biopsy.md|エラスチカ・マッソン染色とIgG4関連腎疾患の腎生検]]
@@ -28,7 +33,5 @@
 
 ## Related MOCs
 
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学 MOC]]
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
-- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

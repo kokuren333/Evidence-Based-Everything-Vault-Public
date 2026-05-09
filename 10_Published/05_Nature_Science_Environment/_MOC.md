@@ -1,15 +1,16 @@
-# 自然科学・環境 MOC
+# 自然科学・環境
 
-> Rebuilt by EBE job job-20260509210034-keuymm on 2026-05-10 from the current category filesystem inventory.
+> Rebuilt by EBE job job-20260509210034-8xb0nv on 2026-05-10 from the current `10_Published/` filesystem inventory.
 
 ## Overview
 
-This MOC covers all published subfields and articles under `10_Published/05_Nature_Science_Environment/`.
+This category currently contains 1 subfields and 1 published articles.
 
 ## Subfield Index
-- [[10_Published/05_Nature_Science_Environment/大気光学__atmospheric-optics/_MOC.md|大気光学 / atmospheric-optics]] - 1 article
 
-## Article Coverage
+- [[10_Published/05_Nature_Science_Environment/大気光学__atmospheric-optics/_MOC.md|大気光学]] - 1 articles
+
+## Complete Article Coverage
 
 ### 大気光学
 
