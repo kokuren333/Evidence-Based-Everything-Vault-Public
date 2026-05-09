@@ -1,13 +1,12 @@
 # 経済・ビジネス・仕事 MOC
 
-> Rebuilt by EBE job job-20260509210034-0j9szx on 2026-05-10 from the current category filesystem inventory.
+> Rebuilt by EBE job job-20260509210034-keuymm on 2026-05-10 from the current category filesystem inventory.
 
 ## Overview
 
 This MOC covers all published subfields and articles under `10_Published/04_Economy_Business_Work/`.
 
 ## Subfield Index
-
 - [[10_Published/04_Economy_Business_Work/個人資産形成__personal-wealth-building/_MOC.md|個人資産形成 / personal-wealth-building]] - 1 article
 
 ## Article Coverage

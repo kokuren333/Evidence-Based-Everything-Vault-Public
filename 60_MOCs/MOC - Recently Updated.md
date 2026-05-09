@@ -1,8 +1,8 @@
 # MOC - Recently Updated
 
-> Updated by EBE job job-20260509210034-0j9szx on 2026-05-10 from file modification times in `10_Published/`.
+> Rebuilt by EBE job job-20260509210034-keuymm on 2026-05-10 from file modification times in `10_Published/`.
 
-## Recent Published Articles
+## Recently Updated Articles
 
 - [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/代表的なカクテルとその作り方__representative-cocktails-how-to-make.md|代表的なカクテルとその作り方]] (ライフデザイン・実践・創作 / 飲食実践)
 - [[10_Published/10_Life_Design_Practice_Creative_Work/料理実践__cooking-practice/美味しい唐揚げの作り方レシピ__karaage-recipe-evidence-based.md|美味しい唐揚げの作り方レシピ]] (ライフデザイン・実践・創作 / 料理実践)
