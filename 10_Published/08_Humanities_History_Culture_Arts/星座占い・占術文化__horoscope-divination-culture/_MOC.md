@@ -1,12 +1,12 @@
-# 星座占い・占術文化
+# 星座占い・占術文化 MOC
 
-> Rebuilt by EBE job job-20260509210034-8xb0nv on 2026-05-10 from the current `10_Published/` filesystem inventory.
+> Rebuilt by EBE job job-20260509210034-s3p6aq on 2026-05-10 from the current `10_Published/` filesystem inventory.
 
 ## Parent Category
 
-- [[10_Published/08_Humanities_History_Culture_Arts/_MOC.md|人文・歴史・文化・芸術]]
+- [[10_Published/08_Humanities_History_Culture_Arts/_MOC.md|???????????]]
 
-## Articles
+## Published Articles
 
 - [[10_Published/08_Humanities_History_Culture_Arts/星座占い・占術文化__horoscope-divination-culture/今日の星座占いをエビデンスに基づいて読む__today-horoscope-evidence-reading.md|今日の星座占いをエビデンスに基づいて読む]]
 

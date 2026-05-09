@@ -1,10 +1,12 @@
-# 情報・メディア・OSINT・セキュリティ
+# ????????OSINT??????? MOC
 
-> Rebuilt by EBE job job-20260509210034-8xb0nv on 2026-05-10 from the current `10_Published/` filesystem inventory.
+> Rebuilt by EBE job job-20260509210034-s3p6aq on 2026-05-10 from the current `10_Published/` filesystem inventory.
 
 ## Overview
 
-This category currently contains 0 subfields and 0 published articles.
+- Subfields: 0
+- Published articles: 0
+- Parent: [[10_Published/_MOC.md|Published Root MOC]]
 
 ## Subfield Index
 
@@ -13,9 +15,9 @@ This category currently contains 0 subfields and 0 published articles.
 ## Complete Article Coverage
 
 - No published articles currently exist in this category.
+
 ## Related MOCs
 
-- [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
 - [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

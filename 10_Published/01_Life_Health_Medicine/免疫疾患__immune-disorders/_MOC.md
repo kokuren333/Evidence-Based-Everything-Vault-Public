@@ -1,12 +1,12 @@
-# 免疫疾患
+# 免疫疾患 MOC
 
-> Rebuilt by EBE job job-20260509210034-8xb0nv on 2026-05-10 from the current `10_Published/` filesystem inventory.
+> Rebuilt by EBE job job-20260509210034-s3p6aq on 2026-05-10 from the current `10_Published/` filesystem inventory.
 
 ## Parent Category
 
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]]
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|????????]]
 
-## Articles
+## Published Articles
 
 - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/ANCA関連血管炎の種類と病態__anca-associated-vasculitis-types-pathophysiology.md|ANCA関連血管炎の種類と病態]]
 - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/IgG4関連疾患の疾患概念と病態__igg4-related-disease-concept-pathogenesis.md|IgG4関連疾患の疾患概念と病態]]

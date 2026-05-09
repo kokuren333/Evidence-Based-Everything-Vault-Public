@@ -1,6 +1,6 @@
 ﻿# 09_Business_Industry_Innovation 2026-05 MOC
 
-> Rebuilt by taxonomy maintenance job job-20260507012758-omj0nm on 2026-05-07 10:31:32 +09:00. This MOC is generated from the current vault filesystem inventory.
+> Updated by daily news job job-20260509210034-pcs5p6 on 2026-05-10.
 
 
 ## 所属
@@ -10,6 +10,7 @@
 
 ## 日付別記事
 
+- [[11_Daily/09_Business_Industry_Innovation/2026-05/2026-05-10_Business_Industry_Innovation.md|2026-05-10_Business_Industry_Innovation]]
 - [[11_Daily/09_Business_Industry_Innovation/2026-05/2026-05-09_Business_Industry_Innovation.md|2026-05-09_Business_Industry_Innovation]]
 - [[11_Daily/09_Business_Industry_Innovation/2026-05/2026-05-08_Business_Industry_Innovation.md|2026-05-08_Business_Industry_Innovation]]
 - [[11_Daily/09_Business_Industry_Innovation/2026-05/2026-05-07_Business_Industry_Innovation.md|2026-05-07_Business_Industry_Innovation]]

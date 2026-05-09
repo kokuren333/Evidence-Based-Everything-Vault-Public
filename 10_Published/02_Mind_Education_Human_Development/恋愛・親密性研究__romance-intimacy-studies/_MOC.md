@@ -1,12 +1,12 @@
-# 恋愛・親密性研究
+# 恋愛・親密性研究 MOC
 
-> Rebuilt by EBE job job-20260509210034-8xb0nv on 2026-05-10 from the current `10_Published/` filesystem inventory.
+> Rebuilt by EBE job job-20260509210034-s3p6aq on 2026-05-10 from the current `10_Published/` filesystem inventory.
 
 ## Parent Category
 
-- [[10_Published/02_Mind_Education_Human_Development/_MOC.md|心理・教育・人間発達]]
+- [[10_Published/02_Mind_Education_Human_Development/_MOC.md|??????????]]
 
-## Articles
+## Published Articles
 
 - [[10_Published/02_Mind_Education_Human_Development/恋愛・親密性研究__romance-intimacy-studies/with攻略法：価値観・誠実さ・安全性で出会いの質を上げる__with-dating-app-strategy.md|with攻略法：価値観・誠実さ・安全性で出会いの質を上げる]]
 - [[10_Published/02_Mind_Education_Human_Development/恋愛・親密性研究__romance-intimacy-studies/恋愛工学とは何か__love-engineering.md|恋愛工学とは何か]]

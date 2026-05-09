@@ -1,10 +1,12 @@
-# 経済・ビジネス・仕事
+# ?????????? MOC
 
-> Rebuilt by EBE job job-20260509210034-8xb0nv on 2026-05-10 from the current `10_Published/` filesystem inventory.
+> Rebuilt by EBE job job-20260509210034-s3p6aq on 2026-05-10 from the current `10_Published/` filesystem inventory.
 
 ## Overview
 
-This category currently contains 1 subfields and 1 published articles.
+- Subfields: 1
+- Published articles: 1
+- Parent: [[10_Published/_MOC.md|Published Root MOC]]
 
 ## Subfield Index
 
@@ -18,7 +20,6 @@ This category currently contains 1 subfields and 1 published articles.
 
 ## Related MOCs
 
-- [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
 - [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
