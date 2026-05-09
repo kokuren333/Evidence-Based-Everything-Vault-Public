@@ -1,10 +1,10 @@
 # 進化心理学 MOC
 
-> Rebuilt by EBE job job-20260509210034-s3p6aq on 2026-05-10 from the current `10_Published/` filesystem inventory.
+> Rebuilt by EBE job job-20260509210034-ptozih on 2026-05-10 from the current `10_Published/` filesystem inventory.
 
 ## Parent Category
 
-- [[10_Published/02_Mind_Education_Human_Development/_MOC.md|??????????]]
+- [[10_Published/02_Mind_Education_Human_Development/_MOC.md|心理・教育・人間発達]]
 
 ## Published Articles
 
