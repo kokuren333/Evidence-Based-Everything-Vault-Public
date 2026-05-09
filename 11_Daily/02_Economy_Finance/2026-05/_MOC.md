@@ -1,6 +1,6 @@
 ﻿# 02_Economy_Finance 2026-05 MOC
 
-> Updated by daily news job job-20260508210022-l4vs0q on 2026-05-09.
+> Updated by daily news job job-20260509210034-w13v2t on 2026-05-10.
 
 
 ## 所属
@@ -10,6 +10,7 @@
 
 ## 日付別記事
 
+- [[11_Daily/02_Economy_Finance/2026-05/2026-05-10_Economy_Finance.md|2026-05-10_Economy_Finance]]
 - [[11_Daily/02_Economy_Finance/2026-05/2026-05-09_Economy_Finance.md|2026-05-09_Economy_Finance]]
 - [[11_Daily/02_Economy_Finance/2026-05/2026-05-08_Economy_Finance.md|2026-05-08_Economy_Finance]]
 - [[11_Daily/02_Economy_Finance/2026-05/2026-05-07_Economy_Finance.md|2026-05-07_Economy_Finance]]

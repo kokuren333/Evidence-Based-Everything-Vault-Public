@@ -1,17 +1,17 @@
 ﻿# Daily Briefings MOC
 
-> Updated by daily news job job-20260508210022-kh7lu7 on 2026-05-09.
+> Updated by daily news job job-20260509210034-w13v2t on 2026-05-10.
 
 
 ## 全体像
 
 - 分野: 10
-- daily記事: 67
+- daily記事: 69
 
 ## 分野別索引
 
 - [[11_Daily/01_Politics_International_Relations/_MOC.md|01_Politics_International_Relations]] - 月 1, 記事 8
-- [[11_Daily/02_Economy_Finance/_MOC.md|02_Economy_Finance]] - 月 1, 記事 7
+- [[11_Daily/02_Economy_Finance/_MOC.md|02_Economy_Finance]] - 月 1, 記事 9
 - [[11_Daily/03_Technology_AI/_MOC.md|03_Technology_AI]] - 月 1, 記事 6
 - [[11_Daily/04_Science_Medicine_Life/_MOC.md|04_Science_Medicine_Life]] - 月 1, 記事 7
 - [[11_Daily/05_Environment_Energy_Resources/_MOC.md|05_Environment_Energy_Resources]] - 月 1, 記事 6
@@ -23,8 +23,12 @@
 
 ## 日付別索引
 
+### 2026-05-10
+- [[11_Daily/02_Economy_Finance/2026-05/2026-05-10_Economy_Finance.md|2026-05-10_Economy_Finance]]
+
 ### 2026-05-09
 - [[11_Daily/01_Politics_International_Relations/2026-05/2026-05-09_Politics_International_Relations.md|2026-05-09_Politics_International_Relations]]
+- [[11_Daily/02_Economy_Finance/2026-05/2026-05-09_Economy_Finance.md|2026-05-09_Economy_Finance]]
 - [[11_Daily/07_Culture_Media_Ideas/2026-05/2026-05-09_Culture_Media_Ideas.md|2026-05-09_Culture_Media_Ideas]]
 - [[11_Daily/10_Incidents_Risks_Safety/2026-05/2026-05-09_Incidents_Risks_Safety.md|2026-05-09_Incidents_Risks_Safety]]
 
