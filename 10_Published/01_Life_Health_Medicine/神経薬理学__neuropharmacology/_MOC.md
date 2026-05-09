@@ -1,6 +1,6 @@
 # 神経薬理学 MOC
 
-> Rebuilt by EBE job job-20260509210034-mk6h0w on 2026-05-10 from the current subfield filesystem inventory.
+> Rebuilt by EBE job job-20260509210034-0j9szx on 2026-05-10 from the current subfield filesystem inventory.
 
 ## Articles
 
