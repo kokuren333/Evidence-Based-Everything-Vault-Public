@@ -20,3 +20,4 @@ Evidence Based Everything（EBE）の公開記事入口です。大分類MOCか�
 - [[10_Published/_MOC.md|公開記事ルートMOC]]
 - [[60_MOCs/MOC - All Published.md|全公開記事一覧]]
 - [[60_MOCs/MOC - Recently Updated.md|最近更新された記事]]
+- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
