@@ -1,6 +1,6 @@
 ﻿# 06_Society_Population_Education 2026-05 MOC
 
-> Updated by daily news job job-20260509210034-oqw8p0 on 2026-05-10.
+> Updated by daily news job job-20260510210046-p7aech on 2026-05-11.
 
 
 ## 所属
@@ -10,6 +10,7 @@
 
 ## 日付別記事
 
+- [[11_Daily/06_Society_Population_Education/2026-05/2026-05-11_Society_Population_Education.md|2026-05-11_Society_Population_Education]]
 - [[11_Daily/06_Society_Population_Education/2026-05/2026-05-10_Society_Population_Education.md|2026-05-10_Society_Population_Education]]
 - [[11_Daily/06_Society_Population_Education/2026-05/2026-05-09_Society_Population_Education.md|2026-05-09_Society_Population_Education]]
 - [[11_Daily/06_Society_Population_Education/2026-05/2026-05-08_Society_Population_Education.md|2026-05-08_Society_Population_Education]]
