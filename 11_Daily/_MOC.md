@@ -1,16 +1,16 @@
 ﻿# Daily Briefings MOC
 
-> Updated by daily news job job-20260509210034-pcs5p6 on 2026-05-10.
+> Updated by daily news job job-20260510210045-jopczg on 2026-05-11.
 
 
 ## 全体像
 
 - 分野: 10
-- daily記事: 71
+- daily記事: 72
 
 ## 分野別索引
 
-- [[11_Daily/01_Politics_International_Relations/_MOC.md|01_Politics_International_Relations]] - 月 1, 記事 8
+- [[11_Daily/01_Politics_International_Relations/_MOC.md|01_Politics_International_Relations]] - 月 1, 記事 10
 - [[11_Daily/02_Economy_Finance/_MOC.md|02_Economy_Finance]] - 月 1, 記事 9
 - [[11_Daily/03_Technology_AI/_MOC.md|03_Technology_AI]] - 月 1, 記事 6
 - [[11_Daily/04_Science_Medicine_Life/_MOC.md|04_Science_Medicine_Life]] - 月 1, 記事 7
@@ -22,6 +22,9 @@
 - [[11_Daily/10_Incidents_Risks_Safety/_MOC.md|10_Incidents_Risks_Safety]] - 月 1, 記事 8
 
 ## 日付別索引
+
+### 2026-05-11
+- [[11_Daily/01_Politics_International_Relations/2026-05/2026-05-11_Politics_International_Relations.md|2026-05-11_Politics_International_Relations]]
 
 ### 2026-05-10
 - [[11_Daily/02_Economy_Finance/2026-05/2026-05-10_Economy_Finance.md|2026-05-10_Economy_Finance]]
