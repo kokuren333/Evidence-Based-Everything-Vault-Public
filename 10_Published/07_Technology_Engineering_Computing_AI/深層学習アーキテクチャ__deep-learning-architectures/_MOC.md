@@ -1,12 +1,13 @@
 # 深層学習アーキテクチャ MOC
 
-> Rebuilt by EBE job job-20260509210034-ptozih on 2026-05-10 from the current `10_Published/` filesystem inventory.
+> Rebuilt by EBE job job-20260510210046-2rpkks on 2026-05-11 from the current `10_Published/` filesystem inventory.
 
-## Parent Category
+## Overview
 
-- [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|技術・工学・コンピューティング・AI]]
+- Parent category: [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|技術・工学・コンピューティング・AI]]
+- Published articles: 1
 
-## Published Articles
+## Articles
 
 - [[10_Published/07_Technology_Engineering_Computing_AI/深層学習アーキテクチャ__deep-learning-architectures/Transformerとは何か：Attention Is All You Needの要点__transformer-attention-is-all-you-need.md|Transformerとは何か：Attention Is All You Needの要点]]
 
@@ -14,3 +15,4 @@
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
