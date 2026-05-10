@@ -1,6 +1,6 @@
-# 経済・ビジネス・仕事 MOC
+﻿# 経済・ビジネス・仕事 MOC
 
-> Rebuilt by EBE job job-20260510210046-331uz5 on 2026-05-11 from the current `10_Published/` filesystem inventory.
+> Rebuilt by EBE job job-20260510210046-7ehydd on 2026-05-11 from the current `10_Published/` filesystem inventory.
 
 ## Overview
 

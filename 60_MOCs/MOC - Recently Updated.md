@@ -1,6 +1,6 @@
-# MOC - Recently Updated
+﻿# MOC - Recently Updated
 
-> Rebuilt by EBE job job-20260510210046-331uz5 on 2026-05-11 from file modification times in `10_Published/`. MOC files are excluded.
+> Rebuilt by EBE job job-20260510210046-7ehydd on 2026-05-11 from file modification times in `10_Published/`. MOC files are excluded.
 
 ## Recently Updated Articles
 
