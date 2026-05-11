@@ -5,10 +5,11 @@
 
 ## 月別索引
 
-- [[11_Daily/04_Science_Medicine_Life/2026-05/_MOC.md|2026-05]] - 記事 10
+- [[11_Daily/04_Science_Medicine_Life/2026-05/_MOC.md|2026-05]] - 記事 11
 
 ## 記事一覧
 
+- [[11_Daily/04_Science_Medicine_Life/2026-05/2026-05-12_Science_Medicine_Life.md|2026-05-12_Science_Medicine_Life]]
 - [[11_Daily/04_Science_Medicine_Life/2026-05/2026-05-11_Science_Medicine_Life.md|2026-05-11_Science_Medicine_Life]]
 - [[11_Daily/04_Science_Medicine_Life/2026-05/2026-05-10_Science_Medicine_Life.md|2026-05-10_Science_Medicine_Life]]
 - [[11_Daily/04_Science_Medicine_Life/2026-05/2026-05-09_Science_Medicine_Life.md|2026-05-09_Science_Medicine_Life]]
