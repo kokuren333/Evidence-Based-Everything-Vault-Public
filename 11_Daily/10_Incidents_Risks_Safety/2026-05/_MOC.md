@@ -1,6 +1,6 @@
 ﻿# 10_Incidents_Risks_Safety 2026-05 MOC
 
-> Updated by daily news job job-20260510210046-7ehydd on 2026-05-11.
+> Updated by daily news job job-20260511210059-5yavb9 on 2026-05-12.
 
 
 ## 所属
@@ -10,6 +10,7 @@
 
 ## 日付別記事
 
+- [[11_Daily/10_Incidents_Risks_Safety/2026-05/2026-05-12_Incidents_Risks_Safety.md|2026-05-12_Incidents_Risks_Safety]]
 - [[11_Daily/10_Incidents_Risks_Safety/2026-05/2026-05-11_Incidents_Risks_Safety.md|2026-05-11_Incidents_Risks_Safety]]
 - [[11_Daily/10_Incidents_Risks_Safety/2026-05/2026-05-10_Incidents_Risks_Safety.md|2026-05-10_Incidents_Risks_Safety]]
 - [[11_Daily/10_Incidents_Risks_Safety/2026-05/2026-05-09_Incidents_Risks_Safety.md|2026-05-09_Incidents_Risks_Safety]]
