@@ -1,16 +1,13 @@
-# 進化心理学
+# 進化心理学 MOC
 
-> Rebuilt by EBE job job-20260511210059-qz42nq on 2026-05-12 from the current published filesystem inventory.
+> Rebuilt by EBE job job-20260511210059-6az7cn on 2026-05-12 from the current published filesystem inventory.
 
-## Parent Category
-
-- [[10_Published/02_Mind_Education_Human_Development/_MOC.md|心理・教育・人間発達]]
-
-## Published Articles
-
-- [[10_Published/02_Mind_Education_Human_Development/進化心理学__evolutionary-psychology/恋愛と進化心理学：進化心理学とは__love-and-evolutionary-psychology-overview.md|恋愛と進化心理学：進化心理学とは]]
-
-## Related MOCs
+## Navigation
 
 - [[10_Published/_MOC.md|Published Root MOC]]
+- [[10_Published/02_Mind_Education_Human_Development/_MOC.md|心理・教育・人間発達 MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+
+## Articles
+
+- [[10_Published/02_Mind_Education_Human_Development/進化心理学__evolutionary-psychology/恋愛と進化心理学：進化心理学とは__love-and-evolutionary-psychology-overview.md|恋愛と進化心理学：進化心理学とは]]
