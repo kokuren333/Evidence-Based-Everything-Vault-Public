@@ -1,13 +1,12 @@
-﻿# 医学教育・臨床文書 MOC
+# 医学教育・臨床文書
 
-> Rebuilt by EBE job job-20260511210059-779w0n on 2026-05-12 from the current `10_Published/` filesystem inventory.
+> Rebuilt by EBE job job-20260511210059-qz42nq on 2026-05-12 from the current published filesystem inventory.
 
-## Overview
+## Parent Category
 
-- Parent category: [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]]
-- Published articles: 3
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]]
 
-## Articles
+## Published Articles
 
 - [[10_Published/01_Life_Health_Medicine/医学教育・臨床文書__medical-education-clinical-documentation/カルテにおける現病歴の書き方のルール__history-of-present-illness-writing-rules.md|カルテにおける現病歴の書き方のルール]]
 - [[10_Published/01_Life_Health_Medicine/医学教育・臨床文書__medical-education-clinical-documentation/研修医の病歴要約の書き方__resident-case-summary-writing.md|研修医の病歴要約の書き方]]
@@ -17,4 +16,3 @@
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
-- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

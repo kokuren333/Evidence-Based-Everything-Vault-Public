@@ -1,8 +1,8 @@
-﻿# Published Root MOC
+# Published Root MOC
 
-> Rebuilt by EBE job job-20260511210059-779w0n on 2026-05-12 from the current `10_Published/` filesystem inventory.
+> Rebuilt by EBE job job-20260511210059-qz42nq on 2026-05-12. Coverage: 10 categories, 35 subfields, 71 articles.
 
-## Category Index
+## Categories
 
 - [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]] - 17 subfields, 50 articles
 - [[10_Published/02_Mind_Education_Human_Development/_MOC.md|心理・教育・人間発達]] - 4 subfields, 5 articles
@@ -15,14 +15,8 @@
 - [[10_Published/09_Information_Media_OSINT_Security/_MOC.md|情報・メディア・OSINT・セキュリティ]] - 0 subfields, 0 articles
 - [[10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md|ライフデザイン・実践・創作]] - 3 subfields, 3 articles
 
-## Coverage Summary
+## Global Navigation
 
-- Categories: 10
-- Subfields: 35
-- Articles: 71
-
-## Related MOCs
-
-- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
 - [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
+- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

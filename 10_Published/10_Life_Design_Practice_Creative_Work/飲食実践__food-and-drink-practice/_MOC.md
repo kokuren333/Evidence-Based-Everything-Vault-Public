@@ -1,13 +1,12 @@
-﻿# 飲食実践 MOC
+# 飲食実践
 
-> Rebuilt by EBE job job-20260511210059-779w0n on 2026-05-12 from the current `10_Published/` filesystem inventory.
+> Rebuilt by EBE job job-20260511210059-qz42nq on 2026-05-12 from the current published filesystem inventory.
 
-## Overview
+## Parent Category
 
-- Parent category: [[10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md|ライフデザイン・実践・創作]]
-- Published articles: 1
+- [[10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md|ライフデザイン・実践・創作]]
 
-## Articles
+## Published Articles
 
 - [[10_Published/10_Life_Design_Practice_Creative_Work/飲食実践__food-and-drink-practice/代表的なカクテルとその作り方__representative-cocktails-how-to-make.md|代表的なカクテルとその作り方]]
 
@@ -15,4 +14,3 @@
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
-- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

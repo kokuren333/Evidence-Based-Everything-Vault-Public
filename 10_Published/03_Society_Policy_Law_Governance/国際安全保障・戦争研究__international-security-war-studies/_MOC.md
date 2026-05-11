@@ -1,13 +1,12 @@
-﻿# 国際安全保障・戦争研究 MOC
+# 国際安全保障・戦争研究
 
-> Rebuilt by EBE job job-20260511210059-779w0n on 2026-05-12 from the current `10_Published/` filesystem inventory.
+> Rebuilt by EBE job job-20260511210059-qz42nq on 2026-05-12 from the current published filesystem inventory.
 
-## Overview
+## Parent Category
 
-- Parent category: [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|社会・政策・法・ガバナンス]]
-- Published articles: 1
+- [[10_Published/03_Society_Policy_Law_Governance/_MOC.md|社会・政策・法・ガバナンス]]
 
-## Articles
+## Published Articles
 
 - [[10_Published/03_Society_Policy_Law_Governance/国際安全保障・戦争研究__international-security-war-studies/現在の世界情勢を戦争の観点から読む__world-war-situation-2026-05-01.md|現在の世界情勢を戦争の観点から読む]]
 
@@ -15,4 +14,3 @@
 
 - [[10_Published/_MOC.md|Published Root MOC]]
 - [[60_MOCs/MOC - All Published.md|MOC - All Published]]
-- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

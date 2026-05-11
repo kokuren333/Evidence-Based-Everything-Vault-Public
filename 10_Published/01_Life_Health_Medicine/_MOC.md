@@ -1,11 +1,10 @@
-﻿# 生命・健康・医学 MOC
+# 生命・健康・医学
 
-> Rebuilt by EBE job job-20260511210059-779w0n on 2026-05-12 from the current `10_Published/` filesystem inventory.
+> Rebuilt by EBE job job-20260511210059-qz42nq on 2026-05-12. Coverage: 17 subfields, 50 articles.
 
 ## Overview
 
-- Subfields: 17
-- Published articles: 50
+- Scope: 医学、公衆衛生、栄養、睡眠、運動、心理、疾患、生命科学を扱う。
 - Parent: [[10_Published/_MOC.md|Published Root MOC]]
 
 ## Subfield Index
@@ -28,47 +27,38 @@
 - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/_MOC.md|免疫疾患]] - 4 articles
 - [[10_Published/01_Life_Health_Medicine/臨床精神医学・精神病理学__clinical-psychiatry-psychopathology/_MOC.md|臨床精神医学・精神病理学]] - 1 articles
 
-## Complete Article Coverage
+## Complete Coverage
 
 ### 医学教育・臨床文書
-
 - [[10_Published/01_Life_Health_Medicine/医学教育・臨床文書__medical-education-clinical-documentation/カルテにおける現病歴の書き方のルール__history-of-present-illness-writing-rules.md|カルテにおける現病歴の書き方のルール]]
 - [[10_Published/01_Life_Health_Medicine/医学教育・臨床文書__medical-education-clinical-documentation/研修医の病歴要約の書き方__resident-case-summary-writing.md|研修医の病歴要約の書き方]]
 - [[10_Published/01_Life_Health_Medicine/医学教育・臨床文書__medical-education-clinical-documentation/病歴要約で確認すべき履歴__medical-history-summary-history-checklist.md|病歴要約で確認すべき履歴]]
 
 ### 栄養と飲料
-
 - [[10_Published/01_Life_Health_Medicine/栄養と飲料__nutrition-and-beverages/コーヒーと疾患予防効果およびリスク__coffee-disease-prevention-risks.md|コーヒーと疾患予防効果およびリスク]]
 - [[10_Published/01_Life_Health_Medicine/栄養と飲料__nutrition-and-beverages/緑茶とジャスミン茶はどちらが身体に良いのか__green-tea-vs-jasmine-tea-health.md|緑茶とジャスミン茶はどちらが身体に良いのか]]
 
 ### 抗菌薬治療
-
 - [[10_Published/01_Life_Health_Medicine/抗菌薬治療__antimicrobial-therapy/セファゾリンの適応__cefazolin-indications.md|セファゾリンの適応]]
 - [[10_Published/01_Life_Health_Medicine/抗菌薬治療__antimicrobial-therapy/セフメタゾール__cefmetazole.md|セフメタゾール]]
 
 ### 循環器・血栓止血
-
 - [[10_Published/01_Life_Health_Medicine/循環器・血栓止血__cardiovascular-thrombosis-hemostasis/リクシアナとヘパリンの違い__lixiana-vs-heparin.md|リクシアナとヘパリンの違い]]
 
 ### 神経解剖学
-
 - [[10_Published/01_Life_Health_Medicine/神経解剖学__neuroanatomy/神経解剖学をはじめから学ぶ__neuroanatomy-from-first-principles.md|神経解剖学をはじめから学ぶ]]
 
 ### 神経生理学
-
 - [[10_Published/01_Life_Health_Medicine/神経生理学__neurophysiology/神経生理学を始めから丁寧に学ぶ__neurophysiology-from-first-principles.md|神経生理学を始めから丁寧に学ぶ]]
 
 ### 神経免疫学
-
 - [[10_Published/01_Life_Health_Medicine/神経免疫学__neuroimmunology/ミクログリアと神経炎症仮説__microglia-neuroinflammation-hypothesis.md|ミクログリアと神経炎症仮説]]
 - [[10_Published/01_Life_Health_Medicine/神経免疫学__neuroimmunology/ミクログリアと脳の炎症・病態__microglia-neuroinflammation-pathophysiology.md|ミクログリアと脳の炎症・病態]]
 
 ### 神経薬理学
-
 - [[10_Published/01_Life_Health_Medicine/神経薬理学__neuropharmacology/神経薬理学とは何か__neuropharmacology-overview.md|神経薬理学とは何か]]
 
 ### 腎臓内科
-
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/ANCA関連血管炎と腎臓__anca-associated-vasculitis-kidney-nephrology.md|ANCA関連血管炎と腎臓]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/IgG4関連疾患と腎機能__igg4-related-disease-kidney-function.md|IgG4関連疾患と腎機能]]
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/エラスチカ・マッソン染色とIgG4関連腎疾患の腎生検__elastica-masson-igg4-related-kidney-biopsy.md|エラスチカ・マッソン染色とIgG4関連腎疾患の腎生検]]
@@ -93,11 +83,9 @@
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/慢性腎臓病（CKD）の診断と治療__ckd-diagnosis-treatment.md|慢性腎臓病（CKD）の診断と治療]]
 
 ### 睡眠医学
-
 - [[10_Published/01_Life_Health_Medicine/睡眠医学__sleep-medicine/睡眠は質と時間ならどちらが重要か__sleep-quality-vs-duration.md|睡眠は質と時間ならどちらが重要か]]
 
 ### 精神医学
-
 - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/計算論的精神医学とは何か__computational-psychiatry-overview.md|計算論的精神医学とは何か]]
 - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/計算論的精神医学を専門にするための学習分野と文献ロードマップ__computational-psychiatry-learning-roadmap.md|計算論的精神医学を専門にするための学習分野と文献ロードマップ]]
 - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/神経性やせ症のサブタイプと予後の比較__anorexia-nervosa-subtypes-prognosis.md|神経性やせ症のサブタイプと予後の比較]]
@@ -105,30 +93,24 @@
 - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/理論駆動型の計算論的精神医学__theory-driven-computational-psychiatry.md|理論駆動型の計算論的精神医学]]
 
 ### 糖尿病治療
-
 - [[10_Published/01_Life_Health_Medicine/糖尿病治療__diabetes-care/糖尿病患者に対する合併症のステロイド治療のリスクとベネフィット__diabetes-steroid-risk-benefit.md|糖尿病患者に対する合併症のステロイド治療のリスクとベネフィット]]
 
 ### 入院診療・急性期医学
-
 - [[10_Published/01_Life_Health_Medicine/入院診療・急性期医学__inpatient-acute-care-medicine/入院中の腹膜炎疑い：初期対応から鑑別まで__inpatient-peritonitis-response-differential.md|入院中の腹膜炎疑い：初期対応から鑑別まで]]
 
 ### 皮膚科救急・薬疹
-
 - [[10_Published/01_Life_Health_Medicine/皮膚科救急・薬疹__dermatologic-emergencies-drug-eruptions/重症薬疹の診断と初期対応__severe-cutaneous-adverse-reactions.md|重症薬疹の診断と初期対応]]
 
 ### 放射線治療
-
 - [[10_Published/01_Life_Health_Medicine/放射線治療__radiation-oncology/肝腫瘍リアルタイム適応放射線治療の真球状金マーカー留置__hepatic-rar-true-spherical-fiducial-marker.md|肝腫瘍リアルタイム適応放射線治療の真球状金マーカー留置]]
 
 ### 免疫疾患
-
 - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/ANCA関連血管炎の種類と病態__anca-associated-vasculitis-types-pathophysiology.md|ANCA関連血管炎の種類と病態]]
 - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/IgG4関連疾患の疾患概念と病態__igg4-related-disease-concept-pathogenesis.md|IgG4関連疾患の疾患概念と病態]]
 - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/IgG4関連疾患の診断基準__igg4-related-disease-diagnostic-criteria.md|IgG4関連疾患の診断基準]]
 - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/IgG4関連疾患を疑った際の除外診断__igg4-related-disease-exclusion-diagnosis.md|IgG4関連疾患を疑った際の除外診断]]
 
 ### 臨床精神医学・精神病理学
-
 - [[10_Published/01_Life_Health_Medicine/臨床精神医学・精神病理学__clinical-psychiatry-psychopathology/臨床精神医学・精神病理学を学ぶためのロードマップ__clinical-psychiatry-psychopathology-learning-roadmap.md|臨床精神医学・精神病理学を学ぶためのロードマップ]]
 
 ## Related MOCs

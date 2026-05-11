@@ -1,6 +1,6 @@
-﻿# MOC - All Published
+# MOC - All Published
 
-> Rebuilt by EBE job job-20260511210059-779w0n on 2026-05-12 from the current `10_Published/` filesystem inventory.
+> Rebuilt by EBE job job-20260511210059-qz42nq on 2026-05-12 from the current 10_Published/ filesystem inventory.
 
 ## Root
 
