@@ -1,10 +1,10 @@
-# 生命・健康・医学 MOC
+# 生命・健康・医学
 
-> Rebuilt by EBE job job-20260512210012-90m6tl on 2026-05-13. Coverage: 17 subfields, 50 articles.
+> Rebuilt by EBE job job-20260512210013-khpukz on 2026-05-13. Coverage: 17 subfields, 50 articles.
 
 ## Overview
 
-- This category currently contains 50 published articles across 17 subfields.
+医学、公衆衛生、栄養、睡眠、運動、心理、疾患、生命科学を扱う。
 
 ## Subfield Index
 
@@ -132,5 +132,5 @@
 ## Related MOCs
 
 - [[10_Published/_MOC.md|Published Root MOC]]
-- [[60_MOCs/MOC - All Published.md|MOC - All Published]]
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
+- [[60_MOCs/MOC - All Published.md|MOC - All Published]]

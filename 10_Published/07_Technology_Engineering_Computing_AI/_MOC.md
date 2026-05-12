@@ -1,10 +1,10 @@
-# 技術・工学・コンピューティング・AI MOC
+# 技術・工学・コンピューティング・AI
 
-> Rebuilt by EBE job job-20260512210012-90m6tl on 2026-05-13. Coverage: 6 subfields, 8 articles.
+> Rebuilt by EBE job job-20260512210013-khpukz on 2026-05-13. Coverage: 6 subfields, 8 articles.
 
 ## Overview
 
-- This category currently contains 8 published articles across 6 subfields.
+工学、ソフトウェア、AI、機械学習、データサイエンス、ロボティクス、セキュリティを扱う。
 
 ## Subfield Index
 
@@ -46,5 +46,5 @@
 ## Related MOCs
 
 - [[10_Published/_MOC.md|Published Root MOC]]
-- [[60_MOCs/MOC - All Published.md|MOC - All Published]]
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
+- [[60_MOCs/MOC - All Published.md|MOC - All Published]]

@@ -1,10 +1,10 @@
-# 経済・ビジネス・仕事 MOC
+# 経済・ビジネス・仕事
 
-> Rebuilt by EBE job job-20260512210012-90m6tl on 2026-05-13. Coverage: 1 subfields, 1 articles.
+> Rebuilt by EBE job job-20260512210013-khpukz on 2026-05-13. Coverage: 1 subfields, 1 articles.
 
 ## Overview
 
-- This category currently contains 1 published articles across 1 subfields.
+経済、金融、経営、会計、マーケティング、産業、労働、キャリアを扱う。
 
 ## Subfield Index
 
@@ -19,5 +19,5 @@
 ## Related MOCs
 
 - [[10_Published/_MOC.md|Published Root MOC]]
-- [[60_MOCs/MOC - All Published.md|MOC - All Published]]
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
+- [[60_MOCs/MOC - All Published.md|MOC - All Published]]

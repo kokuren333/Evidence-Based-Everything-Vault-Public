@@ -1,10 +1,10 @@
-# 社会・政策・法・ガバナンス MOC
+# 社会・政策・法・ガバナンス
 
-> Rebuilt by EBE job job-20260512210012-90m6tl on 2026-05-13. Coverage: 1 subfields, 1 articles.
+> Rebuilt by EBE job job-20260512210013-khpukz on 2026-05-13. Coverage: 1 subfields, 1 articles.
 
 ## Overview
 
-- This category currently contains 1 published articles across 1 subfields.
+社会制度、政策、法律、行政、国際関係、政治、倫理、規制、公共政策を扱う。
 
 ## Subfield Index
 
@@ -19,5 +19,5 @@
 ## Related MOCs
 
 - [[10_Published/_MOC.md|Published Root MOC]]
-- [[60_MOCs/MOC - All Published.md|MOC - All Published]]
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
+- [[60_MOCs/MOC - All Published.md|MOC - All Published]]

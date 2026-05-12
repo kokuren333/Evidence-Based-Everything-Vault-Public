@@ -1,12 +1,10 @@
-# 臨床精神医学・精神病理学 MOC
+# 臨床精神医学・精神病理学
 
-> Rebuilt by EBE job job-20260512210012-90m6tl on 2026-05-13 from the current 10_Published/ filesystem inventory.
+> Rebuilt by EBE job job-20260512210013-khpukz on 2026-05-13 from the current published filesystem inventory.
 
-## Navigation
+## Parent Category
 
-- [[10_Published/_MOC.md|Published Root MOC]]
-- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学 MOC]]
-- [[60_MOCs/MOC - All Published.md|MOC - All Published]]
+- [[10_Published/01_Life_Health_Medicine/_MOC.md|生命・健康・医学]]
 
 ## Articles
 
@@ -14,5 +12,5 @@
 
 ## Related MOCs
 
-- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
-- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
+- [[10_Published/_MOC.md|Published Root MOC]]
+- [[60_MOCs/MOC - All Published.md|MOC - All Published]]

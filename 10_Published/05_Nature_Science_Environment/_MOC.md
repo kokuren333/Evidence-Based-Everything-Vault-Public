@@ -1,10 +1,10 @@
-# 自然科学・環境 MOC
+# 自然科学・環境
 
-> Rebuilt by EBE job job-20260512210012-90m6tl on 2026-05-13. Coverage: 1 subfields, 1 articles.
+> Rebuilt by EBE job job-20260512210013-khpukz on 2026-05-13. Coverage: 1 subfields, 1 articles.
 
 ## Overview
 
-- This category currently contains 1 published articles across 1 subfields.
+物理、化学、生物、地球科学、環境、気候、宇宙、エネルギーを扱う。
 
 ## Subfield Index
 
@@ -19,5 +19,5 @@
 ## Related MOCs
 
 - [[10_Published/_MOC.md|Published Root MOC]]
-- [[60_MOCs/MOC - All Published.md|MOC - All Published]]
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
+- [[60_MOCs/MOC - All Published.md|MOC - All Published]]

@@ -1,6 +1,6 @@
 ﻿# 09_Business_Industry_Innovation 2026-05 MOC
 
-> Updated by daily news job job-20260511210059-ban296 on 2026-05-12.
+> Updated by daily news job job-20260512210013-khpukz on 2026-05-13.
 
 
 ## 所属
@@ -10,6 +10,7 @@
 
 ## 日付別記事
 
+- [[11_Daily/09_Business_Industry_Innovation/2026-05/2026-05-13_Business_Industry_Innovation.md|2026-05-13_Business_Industry_Innovation]]
 - [[11_Daily/09_Business_Industry_Innovation/2026-05/2026-05-12_Business_Industry_Innovation.md|2026-05-12_Business_Industry_Innovation]]
 - [[11_Daily/09_Business_Industry_Innovation/2026-05/2026-05-11_Business_Industry_Innovation.md|2026-05-11_Business_Industry_Innovation]]
 - [[11_Daily/09_Business_Industry_Innovation/2026-05/2026-05-10_Business_Industry_Innovation.md|2026-05-10_Business_Industry_Innovation]]

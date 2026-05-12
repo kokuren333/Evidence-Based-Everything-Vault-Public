@@ -1,10 +1,10 @@
-# ライフデザイン・実践・創作 MOC
+# ライフデザイン・実践・創作
 
-> Rebuilt by EBE job job-20260512210012-90m6tl on 2026-05-13. Coverage: 3 subfields, 3 articles.
+> Rebuilt by EBE job job-20260512210013-khpukz on 2026-05-13. Coverage: 3 subfields, 3 articles.
 
 ## Overview
 
-- This category currently contains 3 published articles across 3 subfields.
+生活設計、実践知、創作、研究習慣、個人知識管理、意思決定を扱う。
 
 ## Subfield Index
 
@@ -29,5 +29,5 @@
 ## Related MOCs
 
 - [[10_Published/_MOC.md|Published Root MOC]]
-- [[60_MOCs/MOC - All Published.md|MOC - All Published]]
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
+- [[60_MOCs/MOC - All Published.md|MOC - All Published]]

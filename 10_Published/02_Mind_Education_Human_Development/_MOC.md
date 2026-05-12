@@ -1,10 +1,10 @@
-# 心理・教育・人間発達 MOC
+# 心理・教育・人間発達
 
-> Rebuilt by EBE job job-20260512210012-90m6tl on 2026-05-13. Coverage: 4 subfields, 5 articles.
+> Rebuilt by EBE job job-20260512210013-khpukz on 2026-05-13. Coverage: 4 subfields, 5 articles.
 
 ## Overview
 
-- This category currently contains 5 published articles across 4 subfields.
+心理学、認知科学、教育、学習、発達、メンタルヘルス、人間理解を扱う。
 
 ## Subfield Index
 
@@ -35,5 +35,5 @@
 ## Related MOCs
 
 - [[10_Published/_MOC.md|Published Root MOC]]
-- [[60_MOCs/MOC - All Published.md|MOC - All Published]]
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
+- [[60_MOCs/MOC - All Published.md|MOC - All Published]]

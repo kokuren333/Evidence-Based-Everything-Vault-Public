@@ -1,10 +1,10 @@
-# 人文・歴史・文化・芸術 MOC
+# 人文・歴史・文化・芸術
 
-> Rebuilt by EBE job job-20260512210012-90m6tl on 2026-05-13. Coverage: 2 subfields, 2 articles.
+> Rebuilt by EBE job job-20260512210013-khpukz on 2026-05-13. Coverage: 2 subfields, 2 articles.
 
 ## Overview
 
-- This category currently contains 2 published articles across 2 subfields.
+歴史、哲学、文学、宗教、文化、芸術、言語、思想史を扱う。
 
 ## Subfield Index
 
@@ -24,5 +24,5 @@
 ## Related MOCs
 
 - [[10_Published/_MOC.md|Published Root MOC]]
-- [[60_MOCs/MOC - All Published.md|MOC - All Published]]
 - [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]
+- [[60_MOCs/MOC - All Published.md|MOC - All Published]]
