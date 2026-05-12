@@ -1,6 +1,6 @@
 # 糖尿病治療 MOC
 
-> Rebuilt by EBE job job-20260512210012-c0yzxc on 2026-05-13 from the current published filesystem inventory.
+> Rebuilt by EBE job job-20260512210012-k1wtpz on 2026-05-13 from the current 10_Published/ filesystem inventory.
 
 ## Navigation
 
@@ -11,3 +11,8 @@
 ## Articles
 
 - [[10_Published/01_Life_Health_Medicine/糖尿病治療__diabetes-care/糖尿病患者に対する合併症のステロイド治療のリスクとベネフィット__diabetes-steroid-risk-benefit.md|糖尿病患者に対する合併症のステロイド治療のリスクとベネフィット]]
+
+## Related MOCs
+
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
+- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

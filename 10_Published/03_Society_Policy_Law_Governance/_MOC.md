@@ -1,6 +1,6 @@
 # 社会・政策・法・ガバナンス MOC
 
-> Rebuilt by EBE job job-20260512210012-c0yzxc on 2026-05-13. Coverage: 1 subfields, 1 articles.
+> Rebuilt by EBE job job-20260512210012-k1wtpz on 2026-05-13. Coverage: 1 subfields, 1 articles.
 
 ## Overview
 
@@ -8,7 +8,7 @@
 
 ## Subfield Index
 
-- [[10_Published/03_Society_Policy_Law_Governance/国際安全保障・戦争研究__international-security-war-studies/_MOC.md|国際安全保障・戦争研究]] -  articles
+- [[10_Published/03_Society_Policy_Law_Governance/国際安全保障・戦争研究__international-security-war-studies/_MOC.md|国際安全保障・戦争研究]] - 1 articles
 
 ## Complete Article Coverage
 

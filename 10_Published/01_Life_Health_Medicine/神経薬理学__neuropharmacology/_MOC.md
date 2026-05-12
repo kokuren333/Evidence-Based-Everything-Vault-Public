@@ -1,6 +1,6 @@
 # 神経薬理学 MOC
 
-> Rebuilt by EBE job job-20260512210012-c0yzxc on 2026-05-13 from the current published filesystem inventory.
+> Rebuilt by EBE job job-20260512210012-k1wtpz on 2026-05-13 from the current 10_Published/ filesystem inventory.
 
 ## Navigation
 
@@ -11,3 +11,8 @@
 ## Articles
 
 - [[10_Published/01_Life_Health_Medicine/神経薬理学__neuropharmacology/神経薬理学とは何か__neuropharmacology-overview.md|神経薬理学とは何か]]
+
+## Related MOCs
+
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
+- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

@@ -1,6 +1,6 @@
 # 抗菌薬治療 MOC
 
-> Rebuilt by EBE job job-20260512210012-c0yzxc on 2026-05-13 from the current published filesystem inventory.
+> Rebuilt by EBE job job-20260512210012-k1wtpz on 2026-05-13 from the current 10_Published/ filesystem inventory.
 
 ## Navigation
 
@@ -12,3 +12,8 @@
 
 - [[10_Published/01_Life_Health_Medicine/抗菌薬治療__antimicrobial-therapy/セファゾリンの適応__cefazolin-indications.md|セファゾリンの適応]]
 - [[10_Published/01_Life_Health_Medicine/抗菌薬治療__antimicrobial-therapy/セフメタゾール__cefmetazole.md|セフメタゾール]]
+
+## Related MOCs
+
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
+- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

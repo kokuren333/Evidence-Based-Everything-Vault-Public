@@ -1,6 +1,6 @@
 # 進化心理学 MOC
 
-> Rebuilt by EBE job job-20260512210012-c0yzxc on 2026-05-13 from the current published filesystem inventory.
+> Rebuilt by EBE job job-20260512210012-k1wtpz on 2026-05-13 from the current 10_Published/ filesystem inventory.
 
 ## Navigation
 
@@ -11,3 +11,8 @@
 ## Articles
 
 - [[10_Published/02_Mind_Education_Human_Development/進化心理学__evolutionary-psychology/恋愛と進化心理学：進化心理学とは__love-and-evolutionary-psychology-overview.md|恋愛と進化心理学：進化心理学とは]]
+
+## Related MOCs
+
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
+- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

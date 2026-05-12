@@ -1,6 +1,6 @@
 # 数学・論理・形式体系 MOC
 
-> Rebuilt by EBE job job-20260512210012-c0yzxc on 2026-05-13. Coverage: 0 subfields, 0 articles.
+> Rebuilt by EBE job job-20260512210012-k1wtpz on 2026-05-13. Coverage: 0 subfields, 0 articles.
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # 心理・教育・人間発達 MOC
 
-> Rebuilt by EBE job job-20260512210012-c0yzxc on 2026-05-13. Coverage: 4 subfields, 5 articles.
+> Rebuilt by EBE job job-20260512210012-k1wtpz on 2026-05-13. Coverage: 4 subfields, 5 articles.
 
 ## Overview
 
@@ -8,9 +8,9 @@
 
 ## Subfield Index
 
-- [[10_Published/02_Mind_Education_Human_Development/進化心理学__evolutionary-psychology/_MOC.md|進化心理学]] -  articles
-- [[10_Published/02_Mind_Education_Human_Development/第二言語習得・英語学習__second-language-acquisition-english-learning/_MOC.md|第二言語習得・英語学習]] -  articles
-- [[10_Published/02_Mind_Education_Human_Development/臨床心理・心理療法__clinical-psychology-psychotherapy/_MOC.md|臨床心理・心理療法]] -  articles
+- [[10_Published/02_Mind_Education_Human_Development/進化心理学__evolutionary-psychology/_MOC.md|進化心理学]] - 1 articles
+- [[10_Published/02_Mind_Education_Human_Development/第二言語習得・英語学習__second-language-acquisition-english-learning/_MOC.md|第二言語習得・英語学習]] - 1 articles
+- [[10_Published/02_Mind_Education_Human_Development/臨床心理・心理療法__clinical-psychology-psychotherapy/_MOC.md|臨床心理・心理療法]] - 1 articles
 - [[10_Published/02_Mind_Education_Human_Development/恋愛・親密性研究__romance-intimacy-studies/_MOC.md|恋愛・親密性研究]] - 2 articles
 
 ## Complete Article Coverage

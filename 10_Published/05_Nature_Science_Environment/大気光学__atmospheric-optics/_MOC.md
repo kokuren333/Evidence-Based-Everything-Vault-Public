@@ -1,6 +1,6 @@
 # 大気光学 MOC
 
-> Rebuilt by EBE job job-20260512210012-c0yzxc on 2026-05-13 from the current published filesystem inventory.
+> Rebuilt by EBE job job-20260512210012-k1wtpz on 2026-05-13 from the current 10_Published/ filesystem inventory.
 
 ## Navigation
 
@@ -11,3 +11,8 @@
 ## Articles
 
 - [[10_Published/05_Nature_Science_Environment/大気光学__atmospheric-optics/空が青く見える理由__why-sky-appears-blue.md|空が青く見える理由]]
+
+## Related MOCs
+
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
+- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

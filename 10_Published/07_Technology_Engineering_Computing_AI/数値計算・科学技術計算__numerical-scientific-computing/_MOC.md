@@ -1,6 +1,6 @@
 # 数値計算・科学技術計算 MOC
 
-> Rebuilt by EBE job job-20260512210012-c0yzxc on 2026-05-13 from the current published filesystem inventory.
+> Rebuilt by EBE job job-20260512210012-k1wtpz on 2026-05-13 from the current 10_Published/ filesystem inventory.
 
 ## Navigation
 
@@ -11,3 +11,8 @@
 ## Articles
 
 - [[10_Published/07_Technology_Engineering_Computing_AI/数値計算・科学技術計算__numerical-scientific-computing/NumPyにおける主要な構文や関数__numpy-main-syntax-functions.md|NumPyにおける主要な構文や関数]]
+
+## Related MOCs
+
+- [[60_MOCs/MOC - Recently Updated.md|MOC - Recently Updated]]
+- [[00_Index/EBE - Global MOC.md|EBE - Global MOC]]

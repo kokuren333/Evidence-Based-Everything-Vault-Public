@@ -1,6 +1,6 @@
 # 自然科学・環境 MOC
 
-> Rebuilt by EBE job job-20260512210012-c0yzxc on 2026-05-13. Coverage: 1 subfields, 1 articles.
+> Rebuilt by EBE job job-20260512210012-k1wtpz on 2026-05-13. Coverage: 1 subfields, 1 articles.
 
 ## Overview
 
@@ -8,7 +8,7 @@
 
 ## Subfield Index
 
-- [[10_Published/05_Nature_Science_Environment/大気光学__atmospheric-optics/_MOC.md|大気光学]] -  articles
+- [[10_Published/05_Nature_Science_Environment/大気光学__atmospheric-optics/_MOC.md|大気光学]] - 1 articles
 
 ## Complete Article Coverage
 

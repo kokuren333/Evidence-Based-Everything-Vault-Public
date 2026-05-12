@@ -1,6 +1,6 @@
 # MOC - All Published
 
-> Rebuilt by EBE job job-20260512210012-c0yzxc on 2026-05-13 from the current 10_Published/ filesystem inventory.
+> Rebuilt by EBE job job-20260512210012-k1wtpz on 2026-05-13 from the current 10_Published/ filesystem inventory.
 
 ## Root
 
@@ -15,7 +15,7 @@
 - [[10_Published/05_Nature_Science_Environment/_MOC.md|自然科学・環境]] - 1 subfields, 1 articles
 - [[10_Published/06_Mathematics_Logic_Formal_Systems/_MOC.md|数学・論理・形式体系]] - 0 subfields, 0 articles
 - [[10_Published/07_Technology_Engineering_Computing_AI/_MOC.md|技術・工学・コンピューティング・AI]] - 6 subfields, 8 articles
-- [[10_Published/08_Humanities_History_Culture_Arts/_MOC.md|人文学・歴史・文化・芸術]] - 2 subfields, 2 articles
+- [[10_Published/08_Humanities_History_Culture_Arts/_MOC.md|人文・歴史・文化・芸術]] - 2 subfields, 2 articles
 - [[10_Published/09_Information_Media_OSINT_Security/_MOC.md|情報・メディア・OSINT・セキュリティ]] - 0 subfields, 0 articles
 - [[10_Published/10_Life_Design_Practice_Creative_Work/_MOC.md|ライフデザイン・実践・創作]] - 3 subfields, 3 articles
 
@@ -139,7 +139,7 @@
 - [[10_Published/07_Technology_Engineering_Computing_AI/数値計算・科学技術計算__numerical-scientific-computing/_MOC.md|数値計算・科学技術計算]]
   - [[10_Published/07_Technology_Engineering_Computing_AI/数値計算・科学技術計算__numerical-scientific-computing/NumPyにおける主要な構文や関数__numpy-main-syntax-functions.md|NumPyにおける主要な構文や関数]]
 
-### 人文学・歴史・文化・芸術
+### 人文・歴史・文化・芸術
 
 - [[10_Published/08_Humanities_History_Culture_Arts/食文化史__food-culture-history/_MOC.md|食文化史]]
   - [[10_Published/08_Humanities_History_Culture_Arts/食文化史__food-culture-history/フランス料理の歴史__french-cuisine-history.md|フランス料理の歴史]]

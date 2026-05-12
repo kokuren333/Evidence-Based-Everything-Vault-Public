@@ -1,6 +1,6 @@
 # 生命・健康・医学 MOC
 
-> Rebuilt by EBE job job-20260512210012-c0yzxc on 2026-05-13. Coverage: 17 subfields, 50 articles.
+> Rebuilt by EBE job job-20260512210012-k1wtpz on 2026-05-13. Coverage: 17 subfields, 50 articles.
 
 ## Overview
 
@@ -11,20 +11,20 @@
 - [[10_Published/01_Life_Health_Medicine/医学教育・臨床文書__medical-education-clinical-documentation/_MOC.md|医学教育・臨床文書]] - 3 articles
 - [[10_Published/01_Life_Health_Medicine/栄養と飲料__nutrition-and-beverages/_MOC.md|栄養と飲料]] - 2 articles
 - [[10_Published/01_Life_Health_Medicine/抗菌薬治療__antimicrobial-therapy/_MOC.md|抗菌薬治療]] - 2 articles
-- [[10_Published/01_Life_Health_Medicine/循環器・血栓止血__cardiovascular-thrombosis-hemostasis/_MOC.md|循環器・血栓止血]] -  articles
-- [[10_Published/01_Life_Health_Medicine/神経解剖学__neuroanatomy/_MOC.md|神経解剖学]] -  articles
-- [[10_Published/01_Life_Health_Medicine/神経生理学__neurophysiology/_MOC.md|神経生理学]] -  articles
+- [[10_Published/01_Life_Health_Medicine/循環器・血栓止血__cardiovascular-thrombosis-hemostasis/_MOC.md|循環器・血栓止血]] - 1 articles
+- [[10_Published/01_Life_Health_Medicine/神経解剖学__neuroanatomy/_MOC.md|神経解剖学]] - 1 articles
+- [[10_Published/01_Life_Health_Medicine/神経生理学__neurophysiology/_MOC.md|神経生理学]] - 1 articles
 - [[10_Published/01_Life_Health_Medicine/神経免疫学__neuroimmunology/_MOC.md|神経免疫学]] - 2 articles
-- [[10_Published/01_Life_Health_Medicine/神経薬理学__neuropharmacology/_MOC.md|神経薬理学]] -  articles
+- [[10_Published/01_Life_Health_Medicine/神経薬理学__neuropharmacology/_MOC.md|神経薬理学]] - 1 articles
 - [[10_Published/01_Life_Health_Medicine/腎臓内科__nephrology/_MOC.md|腎臓内科]] - 22 articles
-- [[10_Published/01_Life_Health_Medicine/睡眠医学__sleep-medicine/_MOC.md|睡眠医学]] -  articles
+- [[10_Published/01_Life_Health_Medicine/睡眠医学__sleep-medicine/_MOC.md|睡眠医学]] - 1 articles
 - [[10_Published/01_Life_Health_Medicine/精神医学__psychiatry/_MOC.md|精神医学]] - 5 articles
-- [[10_Published/01_Life_Health_Medicine/糖尿病治療__diabetes-care/_MOC.md|糖尿病治療]] -  articles
-- [[10_Published/01_Life_Health_Medicine/入院診療・急性期医学__inpatient-acute-care-medicine/_MOC.md|入院診療・急性期医学]] -  articles
-- [[10_Published/01_Life_Health_Medicine/皮膚科救急・薬疹__dermatologic-emergencies-drug-eruptions/_MOC.md|皮膚科救急・薬疹]] -  articles
-- [[10_Published/01_Life_Health_Medicine/放射線治療__radiation-oncology/_MOC.md|放射線治療]] -  articles
+- [[10_Published/01_Life_Health_Medicine/糖尿病治療__diabetes-care/_MOC.md|糖尿病治療]] - 1 articles
+- [[10_Published/01_Life_Health_Medicine/入院診療・急性期医学__inpatient-acute-care-medicine/_MOC.md|入院診療・急性期医学]] - 1 articles
+- [[10_Published/01_Life_Health_Medicine/皮膚科救急・薬疹__dermatologic-emergencies-drug-eruptions/_MOC.md|皮膚科救急・薬疹]] - 1 articles
+- [[10_Published/01_Life_Health_Medicine/放射線治療__radiation-oncology/_MOC.md|放射線治療]] - 1 articles
 - [[10_Published/01_Life_Health_Medicine/免疫疾患__immune-disorders/_MOC.md|免疫疾患]] - 4 articles
-- [[10_Published/01_Life_Health_Medicine/臨床精神医学・精神病理学__clinical-psychiatry-psychopathology/_MOC.md|臨床精神医学・精神病理学]] -  articles
+- [[10_Published/01_Life_Health_Medicine/臨床精神医学・精神病理学__clinical-psychiatry-psychopathology/_MOC.md|臨床精神医学・精神病理学]] - 1 articles
 
 ## Complete Article Coverage
 
