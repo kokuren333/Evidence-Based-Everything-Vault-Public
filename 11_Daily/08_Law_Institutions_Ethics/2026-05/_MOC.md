@@ -1,6 +1,6 @@
 ﻿# 08_Law_Institutions_Ethics 2026-05 MOC
 
-> Updated by daily news job job-20260511210059-7fxp42 on 2026-05-12.
+> Updated by daily news job job-20260512210013-rc25ms on 2026-05-13.
 
 
 ## 所属
@@ -10,6 +10,7 @@
 
 ## 日付別記事
 
+- [[11_Daily/08_Law_Institutions_Ethics/2026-05/2026-05-13_Law_Institutions_Ethics.md|2026-05-13_Law_Institutions_Ethics]]
 - [[11_Daily/08_Law_Institutions_Ethics/2026-05/2026-05-12_Law_Institutions_Ethics.md|2026-05-12_Law_Institutions_Ethics]]
 - [[11_Daily/08_Law_Institutions_Ethics/2026-05/2026-05-11_Law_Institutions_Ethics.md|2026-05-11_Law_Institutions_Ethics]]
 - [[11_Daily/08_Law_Institutions_Ethics/2026-05/2026-05-10_Law_Institutions_Ethics.md|2026-05-10_Law_Institutions_Ethics]]
