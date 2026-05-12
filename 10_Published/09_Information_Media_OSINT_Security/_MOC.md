@@ -1,17 +1,18 @@
 # 情報・メディア・OSINT・セキュリティ MOC
 
-> Rebuilt by EBE job job-20260511210059-6az7cn on 2026-05-12. Coverage: 0 subfields, 0 articles.
+> Rebuilt by EBE job job-20260512210012-c0yzxc on 2026-05-13. Coverage: 0 subfields, 0 articles.
 
 ## Overview
 
-- No published articles currently exist in this category.
+- This category currently contains 0 published articles across 0 subfields.
 
 ## Subfield Index
 
-- No subfields currently exist in this category.
+- No published subfields currently exist in this category.
 
 ## Complete Article Coverage
 
+- No published articles currently exist in this category.
 ## Related MOCs
 
 - [[10_Published/_MOC.md|Published Root MOC]]
