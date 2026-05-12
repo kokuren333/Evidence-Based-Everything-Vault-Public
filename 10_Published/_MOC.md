@@ -1,6 +1,6 @@
 # Published Root MOC
 
-> Rebuilt by EBE job job-20260512210012-k1wtpz on 2026-05-13. Coverage: 10 categories, 35 subfields, 71 articles.
+> Rebuilt by EBE job job-20260512210012-90m6tl on 2026-05-13. Coverage: 10 categories, 35 subfields, 71 articles.
 
 ## Categories
 

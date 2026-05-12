@@ -1,6 +1,6 @@
 # 皮膚科救急・薬疹 MOC
 
-> Rebuilt by EBE job job-20260512210012-k1wtpz on 2026-05-13 from the current 10_Published/ filesystem inventory.
+> Rebuilt by EBE job job-20260512210012-90m6tl on 2026-05-13 from the current 10_Published/ filesystem inventory.
 
 ## Navigation
 

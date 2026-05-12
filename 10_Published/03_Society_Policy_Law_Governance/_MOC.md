@@ -1,6 +1,6 @@
 # 社会・政策・法・ガバナンス MOC
 
-> Rebuilt by EBE job job-20260512210012-k1wtpz on 2026-05-13. Coverage: 1 subfields, 1 articles.
+> Rebuilt by EBE job job-20260512210012-90m6tl on 2026-05-13. Coverage: 1 subfields, 1 articles.
 
 ## Overview
 

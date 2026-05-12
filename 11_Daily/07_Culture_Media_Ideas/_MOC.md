@@ -1,14 +1,15 @@
 ﻿# 07_Culture_Media_Ideas Daily MOC
 
-> Updated by daily news job job-20260511210059-6az7cn on 2026-05-12.
+> Updated by daily news job job-20260512210012-90m6tl on 2026-05-13.
 
 
 ## 月別索引
 
-- [[11_Daily/07_Culture_Media_Ideas/2026-05/_MOC.md|2026-05]] - 記事 11
+- [[11_Daily/07_Culture_Media_Ideas/2026-05/_MOC.md|2026-05]] - 記事 12
 
 ## 記事一覧
 
+- [[11_Daily/07_Culture_Media_Ideas/2026-05/2026-05-13_Culture_Media_Ideas.md|2026-05-13_Culture_Media_Ideas]]
 - [[11_Daily/07_Culture_Media_Ideas/2026-05/2026-05-12_Culture_Media_Ideas.md|2026-05-12_Culture_Media_Ideas]]
 - [[11_Daily/07_Culture_Media_Ideas/2026-05/2026-05-11_Culture_Media_Ideas.md|2026-05-11_Culture_Media_Ideas]]
 - [[11_Daily/07_Culture_Media_Ideas/2026-05/2026-05-10_Culture_Media_Ideas.md|2026-05-10_Culture_Media_Ideas]]

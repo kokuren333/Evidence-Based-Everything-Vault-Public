@@ -1,6 +1,6 @@
 # ライフデザイン・実践・創作 MOC
 
-> Rebuilt by EBE job job-20260512210012-k1wtpz on 2026-05-13. Coverage: 3 subfields, 3 articles.
+> Rebuilt by EBE job job-20260512210012-90m6tl on 2026-05-13. Coverage: 3 subfields, 3 articles.
 
 ## Overview
 

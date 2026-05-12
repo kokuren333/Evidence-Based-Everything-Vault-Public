@@ -1,6 +1,6 @@
 # 人文・歴史・文化・芸術 MOC
 
-> Rebuilt by EBE job job-20260512210012-k1wtpz on 2026-05-13. Coverage: 2 subfields, 2 articles.
+> Rebuilt by EBE job job-20260512210012-90m6tl on 2026-05-13. Coverage: 2 subfields, 2 articles.
 
 ## Overview
 

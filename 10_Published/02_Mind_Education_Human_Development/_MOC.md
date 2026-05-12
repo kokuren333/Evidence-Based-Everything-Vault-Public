@@ -1,6 +1,6 @@
 # 心理・教育・人間発達 MOC
 
-> Rebuilt by EBE job job-20260512210012-k1wtpz on 2026-05-13. Coverage: 4 subfields, 5 articles.
+> Rebuilt by EBE job job-20260512210012-90m6tl on 2026-05-13. Coverage: 4 subfields, 5 articles.
 
 ## Overview
 
